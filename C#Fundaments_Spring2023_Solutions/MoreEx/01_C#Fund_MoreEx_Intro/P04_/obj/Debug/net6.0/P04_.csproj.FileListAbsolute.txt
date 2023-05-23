@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\OneDrive - Министерство на образованието и науката\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_MoreEx\C#Fund_MoreEx_1\P04_\bin\Debug\net6.0\P04_.exe
+C:\Users\Georgi Nikolov\OneDrive - Министерство на образованието и науката\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_MoreEx\C#Fund_MoreEx_1\P04_\bin\Debug\net6.0\P04_.deps.json
+C:\Users\Georgi Nikolov\OneDrive - Министерство на образованието и науката\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_MoreEx\C#Fund_MoreEx_1\P04_\bin\Debug\net6.0\P04_.runtimeconfig.json
+C:\Users\Georgi Nikolov\OneDrive - Министерство на образованието и науката\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_MoreEx\C#Fund_MoreEx_1\P04_\bin\Debug\net6.0\P04_.dll
+C:\Users\Georgi Nikolov\OneDrive - Министерство на образованието и науката\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_MoreEx\C#Fund_MoreEx_1\P04_\bin\Debug\net6.0\P04_.pdb
+C:\Users\Georgi Nikolov\OneDrive - Министерство на образованието и науката\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_MoreEx\C#Fund_MoreEx_1\P04_\obj\Debug\net6.0\P04_.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\OneDrive - Министерство на образованието и науката\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_MoreEx\C#Fund_MoreEx_1\P04_\obj\Debug\net6.0\P04_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\OneDrive - Министерство на образованието и науката\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_MoreEx\C#Fund_MoreEx_1\P04_\obj\Debug\net6.0\P04_.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\OneDrive - Министерство на образованието и науката\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_MoreEx\C#Fund_MoreEx_1\P04_\obj\Debug\net6.0\P04_.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\OneDrive - Министерство на образованието и науката\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_MoreEx\C#Fund_MoreEx_1\P04_\obj\Debug\net6.0\P04_.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\OneDrive - Министерство на образованието и науката\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_MoreEx\C#Fund_MoreEx_1\P04_\obj\Debug\net6.0\P04_.dll
+C:\Users\Georgi Nikolov\OneDrive - Министерство на образованието и науката\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_MoreEx\C#Fund_MoreEx_1\P04_\obj\Debug\net6.0\refint\P04_.dll
+C:\Users\Georgi Nikolov\OneDrive - Министерство на образованието и науката\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_MoreEx\C#Fund_MoreEx_1\P04_\obj\Debug\net6.0\P04_.pdb
+C:\Users\Georgi Nikolov\OneDrive - Министерство на образованието и науката\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_MoreEx\C#Fund_MoreEx_1\P04_\obj\Debug\net6.0\P04_.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\OneDrive - Министерство на образованието и науката\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_MoreEx\C#Fund_MoreEx_1\P04_\obj\Debug\net6.0\ref\P04_.dll

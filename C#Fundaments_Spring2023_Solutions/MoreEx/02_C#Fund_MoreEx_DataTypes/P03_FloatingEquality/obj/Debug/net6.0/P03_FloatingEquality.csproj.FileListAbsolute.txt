@@ -1,0 +1,15 @@
+C:\Softuni_C#_Courses\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_MoreEx\02_C#Fund_MoreEx_DataTypes\P03_FloatingEquality\bin\Debug\net6.0\P03_FloatingEquality.exe
+C:\Softuni_C#_Courses\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_MoreEx\02_C#Fund_MoreEx_DataTypes\P03_FloatingEquality\bin\Debug\net6.0\P03_FloatingEquality.deps.json
+C:\Softuni_C#_Courses\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_MoreEx\02_C#Fund_MoreEx_DataTypes\P03_FloatingEquality\bin\Debug\net6.0\P03_FloatingEquality.runtimeconfig.json
+C:\Softuni_C#_Courses\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_MoreEx\02_C#Fund_MoreEx_DataTypes\P03_FloatingEquality\bin\Debug\net6.0\P03_FloatingEquality.dll
+C:\Softuni_C#_Courses\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_MoreEx\02_C#Fund_MoreEx_DataTypes\P03_FloatingEquality\bin\Debug\net6.0\P03_FloatingEquality.pdb
+C:\Softuni_C#_Courses\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_MoreEx\02_C#Fund_MoreEx_DataTypes\P03_FloatingEquality\obj\Debug\net6.0\P03_FloatingEquality.csproj.AssemblyReference.cache
+C:\Softuni_C#_Courses\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_MoreEx\02_C#Fund_MoreEx_DataTypes\P03_FloatingEquality\obj\Debug\net6.0\P03_FloatingEquality.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni_C#_Courses\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_MoreEx\02_C#Fund_MoreEx_DataTypes\P03_FloatingEquality\obj\Debug\net6.0\P03_FloatingEquality.AssemblyInfoInputs.cache
+C:\Softuni_C#_Courses\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_MoreEx\02_C#Fund_MoreEx_DataTypes\P03_FloatingEquality\obj\Debug\net6.0\P03_FloatingEquality.AssemblyInfo.cs
+C:\Softuni_C#_Courses\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_MoreEx\02_C#Fund_MoreEx_DataTypes\P03_FloatingEquality\obj\Debug\net6.0\P03_FloatingEquality.csproj.CoreCompileInputs.cache
+C:\Softuni_C#_Courses\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_MoreEx\02_C#Fund_MoreEx_DataTypes\P03_FloatingEquality\obj\Debug\net6.0\P03_FloatingEquality.dll
+C:\Softuni_C#_Courses\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_MoreEx\02_C#Fund_MoreEx_DataTypes\P03_FloatingEquality\obj\Debug\net6.0\refint\P03_FloatingEquality.dll
+C:\Softuni_C#_Courses\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_MoreEx\02_C#Fund_MoreEx_DataTypes\P03_FloatingEquality\obj\Debug\net6.0\P03_FloatingEquality.pdb
+C:\Softuni_C#_Courses\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_MoreEx\02_C#Fund_MoreEx_DataTypes\P03_FloatingEquality\obj\Debug\net6.0\P03_FloatingEquality.genruntimeconfig.cache
+C:\Softuni_C#_Courses\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_MoreEx\02_C#Fund_MoreEx_DataTypes\P03_FloatingEquality\obj\Debug\net6.0\ref\P03_FloatingEquality.dll

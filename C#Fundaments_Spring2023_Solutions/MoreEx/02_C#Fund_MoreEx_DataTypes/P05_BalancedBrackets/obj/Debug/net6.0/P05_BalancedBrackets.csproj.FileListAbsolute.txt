@@ -1,0 +1,15 @@
+C:\Softuni_C#_Courses\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_MoreEx\02_C#Fund_MoreEx_DataTypes\P05_BalancedBrackets\bin\Debug\net6.0\P05_BalancedBrackets.exe
+C:\Softuni_C#_Courses\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_MoreEx\02_C#Fund_MoreEx_DataTypes\P05_BalancedBrackets\bin\Debug\net6.0\P05_BalancedBrackets.deps.json
+C:\Softuni_C#_Courses\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_MoreEx\02_C#Fund_MoreEx_DataTypes\P05_BalancedBrackets\bin\Debug\net6.0\P05_BalancedBrackets.runtimeconfig.json
+C:\Softuni_C#_Courses\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_MoreEx\02_C#Fund_MoreEx_DataTypes\P05_BalancedBrackets\bin\Debug\net6.0\P05_BalancedBrackets.dll
+C:\Softuni_C#_Courses\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_MoreEx\02_C#Fund_MoreEx_DataTypes\P05_BalancedBrackets\bin\Debug\net6.0\P05_BalancedBrackets.pdb
+C:\Softuni_C#_Courses\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_MoreEx\02_C#Fund_MoreEx_DataTypes\P05_BalancedBrackets\obj\Debug\net6.0\P05_BalancedBrackets.csproj.AssemblyReference.cache
+C:\Softuni_C#_Courses\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_MoreEx\02_C#Fund_MoreEx_DataTypes\P05_BalancedBrackets\obj\Debug\net6.0\P05_BalancedBrackets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni_C#_Courses\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_MoreEx\02_C#Fund_MoreEx_DataTypes\P05_BalancedBrackets\obj\Debug\net6.0\P05_BalancedBrackets.AssemblyInfoInputs.cache
+C:\Softuni_C#_Courses\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_MoreEx\02_C#Fund_MoreEx_DataTypes\P05_BalancedBrackets\obj\Debug\net6.0\P05_BalancedBrackets.AssemblyInfo.cs
+C:\Softuni_C#_Courses\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_MoreEx\02_C#Fund_MoreEx_DataTypes\P05_BalancedBrackets\obj\Debug\net6.0\P05_BalancedBrackets.csproj.CoreCompileInputs.cache
+C:\Softuni_C#_Courses\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_MoreEx\02_C#Fund_MoreEx_DataTypes\P05_BalancedBrackets\obj\Debug\net6.0\P05_BalancedBrackets.dll
+C:\Softuni_C#_Courses\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_MoreEx\02_C#Fund_MoreEx_DataTypes\P05_BalancedBrackets\obj\Debug\net6.0\refint\P05_BalancedBrackets.dll
+C:\Softuni_C#_Courses\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_MoreEx\02_C#Fund_MoreEx_DataTypes\P05_BalancedBrackets\obj\Debug\net6.0\P05_BalancedBrackets.pdb
+C:\Softuni_C#_Courses\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_MoreEx\02_C#Fund_MoreEx_DataTypes\P05_BalancedBrackets\obj\Debug\net6.0\P05_BalancedBrackets.genruntimeconfig.cache
+C:\Softuni_C#_Courses\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_MoreEx\02_C#Fund_MoreEx_DataTypes\P05_BalancedBrackets\obj\Debug\net6.0\ref\P05_BalancedBrackets.dll

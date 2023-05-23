@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_MoreEx\02_C#Fund_MoreEx_DataTypes\P01_DataTypeFinder\bin\Debug\net6.0\P01_DataTypeFinder.exe
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_MoreEx\02_C#Fund_MoreEx_DataTypes\P01_DataTypeFinder\bin\Debug\net6.0\P01_DataTypeFinder.deps.json
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_MoreEx\02_C#Fund_MoreEx_DataTypes\P01_DataTypeFinder\bin\Debug\net6.0\P01_DataTypeFinder.runtimeconfig.json
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_MoreEx\02_C#Fund_MoreEx_DataTypes\P01_DataTypeFinder\bin\Debug\net6.0\P01_DataTypeFinder.dll
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_MoreEx\02_C#Fund_MoreEx_DataTypes\P01_DataTypeFinder\bin\Debug\net6.0\P01_DataTypeFinder.pdb
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_MoreEx\02_C#Fund_MoreEx_DataTypes\P01_DataTypeFinder\obj\Debug\net6.0\P01_DataTypeFinder.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_MoreEx\02_C#Fund_MoreEx_DataTypes\P01_DataTypeFinder\obj\Debug\net6.0\P01_DataTypeFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_MoreEx\02_C#Fund_MoreEx_DataTypes\P01_DataTypeFinder\obj\Debug\net6.0\P01_DataTypeFinder.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_MoreEx\02_C#Fund_MoreEx_DataTypes\P01_DataTypeFinder\obj\Debug\net6.0\P01_DataTypeFinder.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_MoreEx\02_C#Fund_MoreEx_DataTypes\P01_DataTypeFinder\obj\Debug\net6.0\P01_DataTypeFinder.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_MoreEx\02_C#Fund_MoreEx_DataTypes\P01_DataTypeFinder\obj\Debug\net6.0\P01_DataTypeFinder.dll
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_MoreEx\02_C#Fund_MoreEx_DataTypes\P01_DataTypeFinder\obj\Debug\net6.0\refint\P01_DataTypeFinder.dll
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_MoreEx\02_C#Fund_MoreEx_DataTypes\P01_DataTypeFinder\obj\Debug\net6.0\P01_DataTypeFinder.pdb
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_MoreEx\02_C#Fund_MoreEx_DataTypes\P01_DataTypeFinder\obj\Debug\net6.0\P01_DataTypeFinder.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_MoreEx\02_C#Fund_MoreEx_DataTypes\P01_DataTypeFinder\obj\Debug\net6.0\ref\P01_DataTypeFinder.dll

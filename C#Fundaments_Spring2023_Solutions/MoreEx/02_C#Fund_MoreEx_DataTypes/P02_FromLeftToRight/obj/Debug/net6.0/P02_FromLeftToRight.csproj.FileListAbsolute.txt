@@ -1,0 +1,15 @@
+C:\Softuni_C#_Courses\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_MoreEx\02_C#Fund_MoreEx_DataTypes\P02_FromLeftToRight\bin\Debug\net6.0\P02_FromLeftToRight.exe
+C:\Softuni_C#_Courses\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_MoreEx\02_C#Fund_MoreEx_DataTypes\P02_FromLeftToRight\bin\Debug\net6.0\P02_FromLeftToRight.deps.json
+C:\Softuni_C#_Courses\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_MoreEx\02_C#Fund_MoreEx_DataTypes\P02_FromLeftToRight\bin\Debug\net6.0\P02_FromLeftToRight.runtimeconfig.json
+C:\Softuni_C#_Courses\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_MoreEx\02_C#Fund_MoreEx_DataTypes\P02_FromLeftToRight\bin\Debug\net6.0\P02_FromLeftToRight.dll
+C:\Softuni_C#_Courses\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_MoreEx\02_C#Fund_MoreEx_DataTypes\P02_FromLeftToRight\bin\Debug\net6.0\P02_FromLeftToRight.pdb
+C:\Softuni_C#_Courses\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_MoreEx\02_C#Fund_MoreEx_DataTypes\P02_FromLeftToRight\obj\Debug\net6.0\P02_FromLeftToRight.csproj.AssemblyReference.cache
+C:\Softuni_C#_Courses\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_MoreEx\02_C#Fund_MoreEx_DataTypes\P02_FromLeftToRight\obj\Debug\net6.0\P02_FromLeftToRight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni_C#_Courses\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_MoreEx\02_C#Fund_MoreEx_DataTypes\P02_FromLeftToRight\obj\Debug\net6.0\P02_FromLeftToRight.AssemblyInfoInputs.cache
+C:\Softuni_C#_Courses\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_MoreEx\02_C#Fund_MoreEx_DataTypes\P02_FromLeftToRight\obj\Debug\net6.0\P02_FromLeftToRight.AssemblyInfo.cs
+C:\Softuni_C#_Courses\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_MoreEx\02_C#Fund_MoreEx_DataTypes\P02_FromLeftToRight\obj\Debug\net6.0\P02_FromLeftToRight.csproj.CoreCompileInputs.cache
+C:\Softuni_C#_Courses\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_MoreEx\02_C#Fund_MoreEx_DataTypes\P02_FromLeftToRight\obj\Debug\net6.0\P02_FromLeftToRight.dll
+C:\Softuni_C#_Courses\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_MoreEx\02_C#Fund_MoreEx_DataTypes\P02_FromLeftToRight\obj\Debug\net6.0\refint\P02_FromLeftToRight.dll
+C:\Softuni_C#_Courses\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_MoreEx\02_C#Fund_MoreEx_DataTypes\P02_FromLeftToRight\obj\Debug\net6.0\P02_FromLeftToRight.pdb
+C:\Softuni_C#_Courses\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_MoreEx\02_C#Fund_MoreEx_DataTypes\P02_FromLeftToRight\obj\Debug\net6.0\P02_FromLeftToRight.genruntimeconfig.cache
+C:\Softuni_C#_Courses\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_MoreEx\02_C#Fund_MoreEx_DataTypes\P02_FromLeftToRight\obj\Debug\net6.0\ref\P02_FromLeftToRight.dll
