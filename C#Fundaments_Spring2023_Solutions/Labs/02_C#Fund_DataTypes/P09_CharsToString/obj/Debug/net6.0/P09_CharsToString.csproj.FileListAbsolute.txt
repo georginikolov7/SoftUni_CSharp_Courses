@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P09_CharsToString\bin\Debug\net6.0\P09_CharsToString.exe
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P09_CharsToString\bin\Debug\net6.0\P09_CharsToString.deps.json
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P09_CharsToString\bin\Debug\net6.0\P09_CharsToString.runtimeconfig.json
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P09_CharsToString\bin\Debug\net6.0\P09_CharsToString.dll
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P09_CharsToString\bin\Debug\net6.0\P09_CharsToString.pdb
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P09_CharsToString\obj\Debug\net6.0\P09_CharsToString.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P09_CharsToString\obj\Debug\net6.0\P09_CharsToString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P09_CharsToString\obj\Debug\net6.0\P09_CharsToString.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P09_CharsToString\obj\Debug\net6.0\P09_CharsToString.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P09_CharsToString\obj\Debug\net6.0\P09_CharsToString.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P09_CharsToString\obj\Debug\net6.0\P09_CharsToString.dll
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P09_CharsToString\obj\Debug\net6.0\refint\P09_CharsToString.dll
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P09_CharsToString\obj\Debug\net6.0\P09_CharsToString.pdb
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P09_CharsToString\obj\Debug\net6.0\P09_CharsToString.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P09_CharsToString\obj\Debug\net6.0\ref\P09_CharsToString.dll

@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P10_LowerOrUpperCase\bin\Debug\net6.0\P10_LowerOrUpperCase.exe
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P10_LowerOrUpperCase\bin\Debug\net6.0\P10_LowerOrUpperCase.deps.json
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P10_LowerOrUpperCase\bin\Debug\net6.0\P10_LowerOrUpperCase.runtimeconfig.json
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P10_LowerOrUpperCase\bin\Debug\net6.0\P10_LowerOrUpperCase.dll
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P10_LowerOrUpperCase\bin\Debug\net6.0\P10_LowerOrUpperCase.pdb
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P10_LowerOrUpperCase\obj\Debug\net6.0\P10_LowerOrUpperCase.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P10_LowerOrUpperCase\obj\Debug\net6.0\P10_LowerOrUpperCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P10_LowerOrUpperCase\obj\Debug\net6.0\P10_LowerOrUpperCase.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P10_LowerOrUpperCase\obj\Debug\net6.0\P10_LowerOrUpperCase.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P10_LowerOrUpperCase\obj\Debug\net6.0\P10_LowerOrUpperCase.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P10_LowerOrUpperCase\obj\Debug\net6.0\P10_LowerOrUpperCase.dll
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P10_LowerOrUpperCase\obj\Debug\net6.0\refint\P10_LowerOrUpperCase.dll
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P10_LowerOrUpperCase\obj\Debug\net6.0\P10_LowerOrUpperCase.pdb
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P10_LowerOrUpperCase\obj\Debug\net6.0\P10_LowerOrUpperCase.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P10_LowerOrUpperCase\obj\Debug\net6.0\ref\P10_LowerOrUpperCase.dll

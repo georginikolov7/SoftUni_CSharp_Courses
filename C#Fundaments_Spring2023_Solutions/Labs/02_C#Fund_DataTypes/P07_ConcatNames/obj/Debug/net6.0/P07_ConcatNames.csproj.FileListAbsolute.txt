@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P07_ConcatNames\bin\Debug\net6.0\P07_ConcatNames.exe
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P07_ConcatNames\bin\Debug\net6.0\P07_ConcatNames.deps.json
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P07_ConcatNames\bin\Debug\net6.0\P07_ConcatNames.runtimeconfig.json
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P07_ConcatNames\bin\Debug\net6.0\P07_ConcatNames.dll
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P07_ConcatNames\bin\Debug\net6.0\P07_ConcatNames.pdb
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P07_ConcatNames\obj\Debug\net6.0\P07_ConcatNames.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P07_ConcatNames\obj\Debug\net6.0\P07_ConcatNames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P07_ConcatNames\obj\Debug\net6.0\P07_ConcatNames.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P07_ConcatNames\obj\Debug\net6.0\P07_ConcatNames.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P07_ConcatNames\obj\Debug\net6.0\P07_ConcatNames.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P07_ConcatNames\obj\Debug\net6.0\P07_ConcatNames.dll
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P07_ConcatNames\obj\Debug\net6.0\refint\P07_ConcatNames.dll
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P07_ConcatNames\obj\Debug\net6.0\P07_ConcatNames.pdb
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P07_ConcatNames\obj\Debug\net6.0\P07_ConcatNames.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P07_ConcatNames\obj\Debug\net6.0\ref\P07_ConcatNames.dll

@@ -1,0 +1,30 @@
+C:\Users\Georgi Nikolov\OneDrive - Министерство на образованието и науката\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P01_Convert_mtoKm\bin\Debug\net6.0\P01_Convert_mtoKm.exe
+C:\Users\Georgi Nikolov\OneDrive - Министерство на образованието и науката\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P01_Convert_mtoKm\bin\Debug\net6.0\P01_Convert_mtoKm.deps.json
+C:\Users\Georgi Nikolov\OneDrive - Министерство на образованието и науката\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P01_Convert_mtoKm\bin\Debug\net6.0\P01_Convert_mtoKm.runtimeconfig.json
+C:\Users\Georgi Nikolov\OneDrive - Министерство на образованието и науката\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P01_Convert_mtoKm\bin\Debug\net6.0\P01_Convert_mtoKm.dll
+C:\Users\Georgi Nikolov\OneDrive - Министерство на образованието и науката\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P01_Convert_mtoKm\bin\Debug\net6.0\P01_Convert_mtoKm.pdb
+C:\Users\Georgi Nikolov\OneDrive - Министерство на образованието и науката\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P01_Convert_mtoKm\obj\Debug\net6.0\P01_Convert_mtoKm.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\OneDrive - Министерство на образованието и науката\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P01_Convert_mtoKm\obj\Debug\net6.0\P01_Convert_mtoKm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\OneDrive - Министерство на образованието и науката\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P01_Convert_mtoKm\obj\Debug\net6.0\P01_Convert_mtoKm.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\OneDrive - Министерство на образованието и науката\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P01_Convert_mtoKm\obj\Debug\net6.0\P01_Convert_mtoKm.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\OneDrive - Министерство на образованието и науката\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P01_Convert_mtoKm\obj\Debug\net6.0\P01_Convert_mtoKm.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\OneDrive - Министерство на образованието и науката\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P01_Convert_mtoKm\obj\Debug\net6.0\P01_Convert_mtoKm.dll
+C:\Users\Georgi Nikolov\OneDrive - Министерство на образованието и науката\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P01_Convert_mtoKm\obj\Debug\net6.0\refint\P01_Convert_mtoKm.dll
+C:\Users\Georgi Nikolov\OneDrive - Министерство на образованието и науката\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P01_Convert_mtoKm\obj\Debug\net6.0\P01_Convert_mtoKm.pdb
+C:\Users\Georgi Nikolov\OneDrive - Министерство на образованието и науката\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P01_Convert_mtoKm\obj\Debug\net6.0\P01_Convert_mtoKm.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\OneDrive - Министерство на образованието и науката\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P01_Convert_mtoKm\obj\Debug\net6.0\ref\P01_Convert_mtoKm.dll
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P01_Convert_mtoKm\bin\Debug\net6.0\P01_Convert_mtoKm.exe
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P01_Convert_mtoKm\bin\Debug\net6.0\P01_Convert_mtoKm.deps.json
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P01_Convert_mtoKm\bin\Debug\net6.0\P01_Convert_mtoKm.runtimeconfig.json
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P01_Convert_mtoKm\bin\Debug\net6.0\P01_Convert_mtoKm.dll
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P01_Convert_mtoKm\bin\Debug\net6.0\P01_Convert_mtoKm.pdb
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P01_Convert_mtoKm\obj\Debug\net6.0\P01_Convert_mtoKm.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P01_Convert_mtoKm\obj\Debug\net6.0\P01_Convert_mtoKm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P01_Convert_mtoKm\obj\Debug\net6.0\P01_Convert_mtoKm.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P01_Convert_mtoKm\obj\Debug\net6.0\P01_Convert_mtoKm.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P01_Convert_mtoKm\obj\Debug\net6.0\P01_Convert_mtoKm.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P01_Convert_mtoKm\obj\Debug\net6.0\P01_Convert_mtoKm.dll
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P01_Convert_mtoKm\obj\Debug\net6.0\refint\P01_Convert_mtoKm.dll
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P01_Convert_mtoKm\obj\Debug\net6.0\P01_Convert_mtoKm.pdb
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P01_Convert_mtoKm\obj\Debug\net6.0\P01_Convert_mtoKm.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P01_Convert_mtoKm\obj\Debug\net6.0\ref\P01_Convert_mtoKm.dll

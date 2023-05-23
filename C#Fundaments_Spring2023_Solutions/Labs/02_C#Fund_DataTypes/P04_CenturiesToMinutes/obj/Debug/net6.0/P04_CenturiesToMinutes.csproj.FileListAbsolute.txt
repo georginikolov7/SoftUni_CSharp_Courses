@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P04_CenturiesToMinutes\bin\Debug\net6.0\P04_CenturiesToMinutes.exe
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P04_CenturiesToMinutes\bin\Debug\net6.0\P04_CenturiesToMinutes.deps.json
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P04_CenturiesToMinutes\bin\Debug\net6.0\P04_CenturiesToMinutes.runtimeconfig.json
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P04_CenturiesToMinutes\bin\Debug\net6.0\P04_CenturiesToMinutes.dll
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P04_CenturiesToMinutes\bin\Debug\net6.0\P04_CenturiesToMinutes.pdb
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P04_CenturiesToMinutes\obj\Debug\net6.0\P04_CenturiesToMinutes.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P04_CenturiesToMinutes\obj\Debug\net6.0\P04_CenturiesToMinutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P04_CenturiesToMinutes\obj\Debug\net6.0\P04_CenturiesToMinutes.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P04_CenturiesToMinutes\obj\Debug\net6.0\P04_CenturiesToMinutes.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P04_CenturiesToMinutes\obj\Debug\net6.0\P04_CenturiesToMinutes.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P04_CenturiesToMinutes\obj\Debug\net6.0\P04_CenturiesToMinutes.dll
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P04_CenturiesToMinutes\obj\Debug\net6.0\refint\P04_CenturiesToMinutes.dll
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P04_CenturiesToMinutes\obj\Debug\net6.0\P04_CenturiesToMinutes.pdb
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P04_CenturiesToMinutes\obj\Debug\net6.0\P04_CenturiesToMinutes.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P04_CenturiesToMinutes\obj\Debug\net6.0\ref\P04_CenturiesToMinutes.dll

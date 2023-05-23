@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P03_ExactSumOfRealNums\bin\Debug\net6.0\P03_ExactSumOfRealNums.exe
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P03_ExactSumOfRealNums\bin\Debug\net6.0\P03_ExactSumOfRealNums.deps.json
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P03_ExactSumOfRealNums\bin\Debug\net6.0\P03_ExactSumOfRealNums.runtimeconfig.json
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P03_ExactSumOfRealNums\bin\Debug\net6.0\P03_ExactSumOfRealNums.dll
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P03_ExactSumOfRealNums\bin\Debug\net6.0\P03_ExactSumOfRealNums.pdb
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P03_ExactSumOfRealNums\obj\Debug\net6.0\P03_ExactSumOfRealNums.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P03_ExactSumOfRealNums\obj\Debug\net6.0\P03_ExactSumOfRealNums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P03_ExactSumOfRealNums\obj\Debug\net6.0\P03_ExactSumOfRealNums.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P03_ExactSumOfRealNums\obj\Debug\net6.0\P03_ExactSumOfRealNums.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P03_ExactSumOfRealNums\obj\Debug\net6.0\P03_ExactSumOfRealNums.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P03_ExactSumOfRealNums\obj\Debug\net6.0\P03_ExactSumOfRealNums.dll
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P03_ExactSumOfRealNums\obj\Debug\net6.0\refint\P03_ExactSumOfRealNums.dll
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P03_ExactSumOfRealNums\obj\Debug\net6.0\P03_ExactSumOfRealNums.pdb
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P03_ExactSumOfRealNums\obj\Debug\net6.0\P03_ExactSumOfRealNums.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P03_ExactSumOfRealNums\obj\Debug\net6.0\ref\P03_ExactSumOfRealNums.dll

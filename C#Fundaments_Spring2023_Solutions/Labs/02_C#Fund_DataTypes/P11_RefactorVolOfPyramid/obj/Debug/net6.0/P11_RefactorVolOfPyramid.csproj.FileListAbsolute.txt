@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P11_RefactorVolOfPyramid\bin\Debug\net6.0\P11_RefactorVolOfPyramid.exe
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P11_RefactorVolOfPyramid\bin\Debug\net6.0\P11_RefactorVolOfPyramid.deps.json
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P11_RefactorVolOfPyramid\bin\Debug\net6.0\P11_RefactorVolOfPyramid.runtimeconfig.json
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P11_RefactorVolOfPyramid\bin\Debug\net6.0\P11_RefactorVolOfPyramid.dll
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P11_RefactorVolOfPyramid\bin\Debug\net6.0\P11_RefactorVolOfPyramid.pdb
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P11_RefactorVolOfPyramid\obj\Debug\net6.0\P11_RefactorVolOfPyramid.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P11_RefactorVolOfPyramid\obj\Debug\net6.0\P11_RefactorVolOfPyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P11_RefactorVolOfPyramid\obj\Debug\net6.0\P11_RefactorVolOfPyramid.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P11_RefactorVolOfPyramid\obj\Debug\net6.0\P11_RefactorVolOfPyramid.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P11_RefactorVolOfPyramid\obj\Debug\net6.0\P11_RefactorVolOfPyramid.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P11_RefactorVolOfPyramid\obj\Debug\net6.0\P11_RefactorVolOfPyramid.dll
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P11_RefactorVolOfPyramid\obj\Debug\net6.0\refint\P11_RefactorVolOfPyramid.dll
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P11_RefactorVolOfPyramid\obj\Debug\net6.0\P11_RefactorVolOfPyramid.pdb
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P11_RefactorVolOfPyramid\obj\Debug\net6.0\P11_RefactorVolOfPyramid.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Labs\02_C#Fund_DataTypes\P11_RefactorVolOfPyramid\obj\Debug\net6.0\ref\P11_RefactorVolOfPyramid.dll
