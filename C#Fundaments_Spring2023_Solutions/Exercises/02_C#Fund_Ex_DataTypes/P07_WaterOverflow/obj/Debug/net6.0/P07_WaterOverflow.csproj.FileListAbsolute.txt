@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Exercises\02_C#Fund_Ex_DataTypes\P07_WaterOverflow\bin\Debug\net6.0\P07_WaterOverflow.exe
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Exercises\02_C#Fund_Ex_DataTypes\P07_WaterOverflow\bin\Debug\net6.0\P07_WaterOverflow.deps.json
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Exercises\02_C#Fund_Ex_DataTypes\P07_WaterOverflow\bin\Debug\net6.0\P07_WaterOverflow.runtimeconfig.json
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Exercises\02_C#Fund_Ex_DataTypes\P07_WaterOverflow\bin\Debug\net6.0\P07_WaterOverflow.dll
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Exercises\02_C#Fund_Ex_DataTypes\P07_WaterOverflow\bin\Debug\net6.0\P07_WaterOverflow.pdb
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Exercises\02_C#Fund_Ex_DataTypes\P07_WaterOverflow\obj\Debug\net6.0\P07_WaterOverflow.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Exercises\02_C#Fund_Ex_DataTypes\P07_WaterOverflow\obj\Debug\net6.0\P07_WaterOverflow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Exercises\02_C#Fund_Ex_DataTypes\P07_WaterOverflow\obj\Debug\net6.0\P07_WaterOverflow.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Exercises\02_C#Fund_Ex_DataTypes\P07_WaterOverflow\obj\Debug\net6.0\P07_WaterOverflow.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Exercises\02_C#Fund_Ex_DataTypes\P07_WaterOverflow\obj\Debug\net6.0\P07_WaterOverflow.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Exercises\02_C#Fund_Ex_DataTypes\P07_WaterOverflow\obj\Debug\net6.0\P07_WaterOverflow.dll
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Exercises\02_C#Fund_Ex_DataTypes\P07_WaterOverflow\obj\Debug\net6.0\refint\P07_WaterOverflow.dll
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Exercises\02_C#Fund_Ex_DataTypes\P07_WaterOverflow\obj\Debug\net6.0\P07_WaterOverflow.pdb
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Exercises\02_C#Fund_Ex_DataTypes\P07_WaterOverflow\obj\Debug\net6.0\P07_WaterOverflow.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Exercises\02_C#Fund_Ex_DataTypes\P07_WaterOverflow\obj\Debug\net6.0\ref\P07_WaterOverflow.dll

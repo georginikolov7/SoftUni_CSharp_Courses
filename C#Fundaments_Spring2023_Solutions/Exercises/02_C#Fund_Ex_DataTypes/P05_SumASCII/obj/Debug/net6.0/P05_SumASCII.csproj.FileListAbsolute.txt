@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Exercises\02_C#Fund_Ex_DataTypes\P05_SumASCII\bin\Debug\net6.0\P05_SumASCII.exe
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Exercises\02_C#Fund_Ex_DataTypes\P05_SumASCII\bin\Debug\net6.0\P05_SumASCII.deps.json
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Exercises\02_C#Fund_Ex_DataTypes\P05_SumASCII\bin\Debug\net6.0\P05_SumASCII.runtimeconfig.json
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Exercises\02_C#Fund_Ex_DataTypes\P05_SumASCII\bin\Debug\net6.0\P05_SumASCII.dll
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Exercises\02_C#Fund_Ex_DataTypes\P05_SumASCII\bin\Debug\net6.0\P05_SumASCII.pdb
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Exercises\02_C#Fund_Ex_DataTypes\P05_SumASCII\obj\Debug\net6.0\P05_SumASCII.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Exercises\02_C#Fund_Ex_DataTypes\P05_SumASCII\obj\Debug\net6.0\P05_SumASCII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Exercises\02_C#Fund_Ex_DataTypes\P05_SumASCII\obj\Debug\net6.0\P05_SumASCII.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Exercises\02_C#Fund_Ex_DataTypes\P05_SumASCII\obj\Debug\net6.0\P05_SumASCII.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Exercises\02_C#Fund_Ex_DataTypes\P05_SumASCII\obj\Debug\net6.0\P05_SumASCII.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Exercises\02_C#Fund_Ex_DataTypes\P05_SumASCII\obj\Debug\net6.0\P05_SumASCII.dll
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Exercises\02_C#Fund_Ex_DataTypes\P05_SumASCII\obj\Debug\net6.0\refint\P05_SumASCII.dll
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Exercises\02_C#Fund_Ex_DataTypes\P05_SumASCII\obj\Debug\net6.0\P05_SumASCII.pdb
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Exercises\02_C#Fund_Ex_DataTypes\P05_SumASCII\obj\Debug\net6.0\P05_SumASCII.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Exercises\02_C#Fund_Ex_DataTypes\P05_SumASCII\obj\Debug\net6.0\ref\P05_SumASCII.dll

@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Exercises\02_C#Fund_Ex_DataTypes\P03_Elevator\bin\Debug\net6.0\P03_Elevator.exe
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Exercises\02_C#Fund_Ex_DataTypes\P03_Elevator\bin\Debug\net6.0\P03_Elevator.deps.json
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Exercises\02_C#Fund_Ex_DataTypes\P03_Elevator\bin\Debug\net6.0\P03_Elevator.runtimeconfig.json
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Exercises\02_C#Fund_Ex_DataTypes\P03_Elevator\bin\Debug\net6.0\P03_Elevator.dll
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Exercises\02_C#Fund_Ex_DataTypes\P03_Elevator\bin\Debug\net6.0\P03_Elevator.pdb
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Exercises\02_C#Fund_Ex_DataTypes\P03_Elevator\obj\Debug\net6.0\P03_Elevator.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Exercises\02_C#Fund_Ex_DataTypes\P03_Elevator\obj\Debug\net6.0\P03_Elevator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Exercises\02_C#Fund_Ex_DataTypes\P03_Elevator\obj\Debug\net6.0\P03_Elevator.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Exercises\02_C#Fund_Ex_DataTypes\P03_Elevator\obj\Debug\net6.0\P03_Elevator.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Exercises\02_C#Fund_Ex_DataTypes\P03_Elevator\obj\Debug\net6.0\P03_Elevator.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Exercises\02_C#Fund_Ex_DataTypes\P03_Elevator\obj\Debug\net6.0\P03_Elevator.dll
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Exercises\02_C#Fund_Ex_DataTypes\P03_Elevator\obj\Debug\net6.0\refint\P03_Elevator.dll
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Exercises\02_C#Fund_Ex_DataTypes\P03_Elevator\obj\Debug\net6.0\P03_Elevator.pdb
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Exercises\02_C#Fund_Ex_DataTypes\P03_Elevator\obj\Debug\net6.0\P03_Elevator.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Exercises\02_C#Fund_Ex_DataTypes\P03_Elevator\obj\Debug\net6.0\ref\P03_Elevator.dll

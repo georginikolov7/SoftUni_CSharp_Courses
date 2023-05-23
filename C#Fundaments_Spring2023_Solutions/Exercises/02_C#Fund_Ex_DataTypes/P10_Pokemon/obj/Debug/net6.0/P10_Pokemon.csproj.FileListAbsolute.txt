@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Exercises\02_C#Fund_Ex_DataTypes\P10_Pokemon\bin\Debug\net6.0\P10_Pokemon.exe
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Exercises\02_C#Fund_Ex_DataTypes\P10_Pokemon\bin\Debug\net6.0\P10_Pokemon.deps.json
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Exercises\02_C#Fund_Ex_DataTypes\P10_Pokemon\bin\Debug\net6.0\P10_Pokemon.runtimeconfig.json
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Exercises\02_C#Fund_Ex_DataTypes\P10_Pokemon\bin\Debug\net6.0\P10_Pokemon.dll
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Exercises\02_C#Fund_Ex_DataTypes\P10_Pokemon\bin\Debug\net6.0\P10_Pokemon.pdb
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Exercises\02_C#Fund_Ex_DataTypes\P10_Pokemon\obj\Debug\net6.0\P10_Pokemon.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Exercises\02_C#Fund_Ex_DataTypes\P10_Pokemon\obj\Debug\net6.0\P10_Pokemon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Exercises\02_C#Fund_Ex_DataTypes\P10_Pokemon\obj\Debug\net6.0\P10_Pokemon.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Exercises\02_C#Fund_Ex_DataTypes\P10_Pokemon\obj\Debug\net6.0\P10_Pokemon.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Exercises\02_C#Fund_Ex_DataTypes\P10_Pokemon\obj\Debug\net6.0\P10_Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Exercises\02_C#Fund_Ex_DataTypes\P10_Pokemon\obj\Debug\net6.0\P10_Pokemon.dll
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Exercises\02_C#Fund_Ex_DataTypes\P10_Pokemon\obj\Debug\net6.0\refint\P10_Pokemon.dll
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Exercises\02_C#Fund_Ex_DataTypes\P10_Pokemon\obj\Debug\net6.0\P10_Pokemon.pdb
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Exercises\02_C#Fund_Ex_DataTypes\P10_Pokemon\obj\Debug\net6.0\P10_Pokemon.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Exercises\02_C#Fund_Ex_DataTypes\P10_Pokemon\obj\Debug\net6.0\ref\P10_Pokemon.dll

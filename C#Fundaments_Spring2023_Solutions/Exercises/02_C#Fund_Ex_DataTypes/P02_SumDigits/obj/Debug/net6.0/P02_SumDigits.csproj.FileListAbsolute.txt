@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Exercises\02_C#Fund_Ex_DataTypes\P02_SumDigits\bin\Debug\net6.0\P02_SumDigits.exe
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Exercises\02_C#Fund_Ex_DataTypes\P02_SumDigits\bin\Debug\net6.0\P02_SumDigits.deps.json
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Exercises\02_C#Fund_Ex_DataTypes\P02_SumDigits\bin\Debug\net6.0\P02_SumDigits.runtimeconfig.json
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Exercises\02_C#Fund_Ex_DataTypes\P02_SumDigits\bin\Debug\net6.0\P02_SumDigits.dll
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Exercises\02_C#Fund_Ex_DataTypes\P02_SumDigits\bin\Debug\net6.0\P02_SumDigits.pdb
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Exercises\02_C#Fund_Ex_DataTypes\P02_SumDigits\obj\Debug\net6.0\P02_SumDigits.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Exercises\02_C#Fund_Ex_DataTypes\P02_SumDigits\obj\Debug\net6.0\P02_SumDigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Exercises\02_C#Fund_Ex_DataTypes\P02_SumDigits\obj\Debug\net6.0\P02_SumDigits.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Exercises\02_C#Fund_Ex_DataTypes\P02_SumDigits\obj\Debug\net6.0\P02_SumDigits.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Exercises\02_C#Fund_Ex_DataTypes\P02_SumDigits\obj\Debug\net6.0\P02_SumDigits.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Exercises\02_C#Fund_Ex_DataTypes\P02_SumDigits\obj\Debug\net6.0\P02_SumDigits.dll
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Exercises\02_C#Fund_Ex_DataTypes\P02_SumDigits\obj\Debug\net6.0\refint\P02_SumDigits.dll
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Exercises\02_C#Fund_Ex_DataTypes\P02_SumDigits\obj\Debug\net6.0\P02_SumDigits.pdb
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Exercises\02_C#Fund_Ex_DataTypes\P02_SumDigits\obj\Debug\net6.0\P02_SumDigits.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Google Drive\Softuni_2023_Spring_C#_Fundamentals\C#_Fundamentals_Exercises\02_C#Fund_Ex_DataTypes\P02_SumDigits\obj\Debug\net6.0\ref\P02_SumDigits.dll
