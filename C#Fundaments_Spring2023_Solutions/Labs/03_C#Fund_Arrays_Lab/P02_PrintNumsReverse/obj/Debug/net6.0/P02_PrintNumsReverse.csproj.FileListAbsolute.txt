@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P02_PrintNumsReverse\bin\Debug\net6.0\P02_PrintNumsReverse.exe
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P02_PrintNumsReverse\bin\Debug\net6.0\P02_PrintNumsReverse.deps.json
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P02_PrintNumsReverse\bin\Debug\net6.0\P02_PrintNumsReverse.runtimeconfig.json
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P02_PrintNumsReverse\bin\Debug\net6.0\P02_PrintNumsReverse.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P02_PrintNumsReverse\bin\Debug\net6.0\P02_PrintNumsReverse.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P02_PrintNumsReverse\obj\Debug\net6.0\P02_PrintNumsReverse.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P02_PrintNumsReverse\obj\Debug\net6.0\P02_PrintNumsReverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P02_PrintNumsReverse\obj\Debug\net6.0\P02_PrintNumsReverse.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P02_PrintNumsReverse\obj\Debug\net6.0\P02_PrintNumsReverse.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P02_PrintNumsReverse\obj\Debug\net6.0\P02_PrintNumsReverse.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P02_PrintNumsReverse\obj\Debug\net6.0\P02_PrintNumsReverse.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P02_PrintNumsReverse\obj\Debug\net6.0\refint\P02_PrintNumsReverse.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P02_PrintNumsReverse\obj\Debug\net6.0\P02_PrintNumsReverse.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P02_PrintNumsReverse\obj\Debug\net6.0\P02_PrintNumsReverse.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P02_PrintNumsReverse\obj\Debug\net6.0\ref\P02_PrintNumsReverse.dll

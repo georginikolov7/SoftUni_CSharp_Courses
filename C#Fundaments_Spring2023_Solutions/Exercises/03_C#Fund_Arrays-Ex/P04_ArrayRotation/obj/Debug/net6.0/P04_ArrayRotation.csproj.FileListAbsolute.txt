@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P04_ArrayRotation\bin\Debug\net6.0\P04_ArrayRotation.exe
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P04_ArrayRotation\bin\Debug\net6.0\P04_ArrayRotation.deps.json
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P04_ArrayRotation\bin\Debug\net6.0\P04_ArrayRotation.runtimeconfig.json
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P04_ArrayRotation\bin\Debug\net6.0\P04_ArrayRotation.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P04_ArrayRotation\bin\Debug\net6.0\P04_ArrayRotation.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P04_ArrayRotation\obj\Debug\net6.0\P04_ArrayRotation.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P04_ArrayRotation\obj\Debug\net6.0\P04_ArrayRotation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P04_ArrayRotation\obj\Debug\net6.0\P04_ArrayRotation.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P04_ArrayRotation\obj\Debug\net6.0\P04_ArrayRotation.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P04_ArrayRotation\obj\Debug\net6.0\P04_ArrayRotation.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P04_ArrayRotation\obj\Debug\net6.0\P04_ArrayRotation.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P04_ArrayRotation\obj\Debug\net6.0\refint\P04_ArrayRotation.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P04_ArrayRotation\obj\Debug\net6.0\P04_ArrayRotation.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P04_ArrayRotation\obj\Debug\net6.0\P04_ArrayRotation.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P04_ArrayRotation\obj\Debug\net6.0\ref\P04_ArrayRotation.dll

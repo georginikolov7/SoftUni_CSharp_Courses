@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P06_EvenAndOddSubstraction\bin\Debug\net6.0\P06_EvenAndOddSubstraction.exe
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P06_EvenAndOddSubstraction\bin\Debug\net6.0\P06_EvenAndOddSubstraction.deps.json
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P06_EvenAndOddSubstraction\bin\Debug\net6.0\P06_EvenAndOddSubstraction.runtimeconfig.json
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P06_EvenAndOddSubstraction\bin\Debug\net6.0\P06_EvenAndOddSubstraction.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P06_EvenAndOddSubstraction\bin\Debug\net6.0\P06_EvenAndOddSubstraction.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P06_EvenAndOddSubstraction\obj\Debug\net6.0\P06_EvenAndOddSubstraction.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P06_EvenAndOddSubstraction\obj\Debug\net6.0\P06_EvenAndOddSubstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P06_EvenAndOddSubstraction\obj\Debug\net6.0\P06_EvenAndOddSubstraction.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P06_EvenAndOddSubstraction\obj\Debug\net6.0\P06_EvenAndOddSubstraction.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P06_EvenAndOddSubstraction\obj\Debug\net6.0\P06_EvenAndOddSubstraction.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P06_EvenAndOddSubstraction\obj\Debug\net6.0\P06_EvenAndOddSubstraction.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P06_EvenAndOddSubstraction\obj\Debug\net6.0\refint\P06_EvenAndOddSubstraction.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P06_EvenAndOddSubstraction\obj\Debug\net6.0\P06_EvenAndOddSubstraction.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P06_EvenAndOddSubstraction\obj\Debug\net6.0\P06_EvenAndOddSubstraction.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P06_EvenAndOddSubstraction\obj\Debug\net6.0\ref\P06_EvenAndOddSubstraction.dll

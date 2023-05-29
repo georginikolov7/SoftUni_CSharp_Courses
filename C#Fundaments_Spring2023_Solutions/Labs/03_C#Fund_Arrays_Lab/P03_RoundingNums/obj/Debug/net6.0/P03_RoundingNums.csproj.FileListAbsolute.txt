@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P03_RoundingNums\bin\Debug\net6.0\P03_RoundingNums.exe
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P03_RoundingNums\bin\Debug\net6.0\P03_RoundingNums.deps.json
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P03_RoundingNums\bin\Debug\net6.0\P03_RoundingNums.runtimeconfig.json
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P03_RoundingNums\bin\Debug\net6.0\P03_RoundingNums.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P03_RoundingNums\bin\Debug\net6.0\P03_RoundingNums.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P03_RoundingNums\obj\Debug\net6.0\P03_RoundingNums.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P03_RoundingNums\obj\Debug\net6.0\P03_RoundingNums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P03_RoundingNums\obj\Debug\net6.0\P03_RoundingNums.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P03_RoundingNums\obj\Debug\net6.0\P03_RoundingNums.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P03_RoundingNums\obj\Debug\net6.0\P03_RoundingNums.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P03_RoundingNums\obj\Debug\net6.0\P03_RoundingNums.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P03_RoundingNums\obj\Debug\net6.0\refint\P03_RoundingNums.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P03_RoundingNums\obj\Debug\net6.0\P03_RoundingNums.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P03_RoundingNums\obj\Debug\net6.0\P03_RoundingNums.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P03_RoundingNums\obj\Debug\net6.0\ref\P03_RoundingNums.dll

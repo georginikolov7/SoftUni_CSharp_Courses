@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\StringReverseDemo\bin\Debug\net6.0\StringReverseDemo.exe
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\StringReverseDemo\bin\Debug\net6.0\StringReverseDemo.deps.json
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\StringReverseDemo\bin\Debug\net6.0\StringReverseDemo.runtimeconfig.json
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\StringReverseDemo\bin\Debug\net6.0\StringReverseDemo.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\StringReverseDemo\bin\Debug\net6.0\StringReverseDemo.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\StringReverseDemo\obj\Debug\net6.0\StringReverseDemo.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\StringReverseDemo\obj\Debug\net6.0\StringReverseDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\StringReverseDemo\obj\Debug\net6.0\StringReverseDemo.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\StringReverseDemo\obj\Debug\net6.0\StringReverseDemo.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\StringReverseDemo\obj\Debug\net6.0\StringReverseDemo.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\StringReverseDemo\obj\Debug\net6.0\StringReverseDemo.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\StringReverseDemo\obj\Debug\net6.0\refint\StringReverseDemo.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\StringReverseDemo\obj\Debug\net6.0\StringReverseDemo.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\StringReverseDemo\obj\Debug\net6.0\StringReverseDemo.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\StringReverseDemo\obj\Debug\net6.0\ref\StringReverseDemo.dll

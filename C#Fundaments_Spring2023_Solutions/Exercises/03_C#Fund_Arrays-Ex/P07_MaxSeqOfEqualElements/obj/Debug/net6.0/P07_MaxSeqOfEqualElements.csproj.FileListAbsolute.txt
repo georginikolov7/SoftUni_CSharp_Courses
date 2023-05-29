@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P07_MaxSeqOfEqualElements\bin\Debug\net6.0\P07_MaxSeqOfEqualElements.exe
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P07_MaxSeqOfEqualElements\bin\Debug\net6.0\P07_MaxSeqOfEqualElements.deps.json
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P07_MaxSeqOfEqualElements\bin\Debug\net6.0\P07_MaxSeqOfEqualElements.runtimeconfig.json
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P07_MaxSeqOfEqualElements\bin\Debug\net6.0\P07_MaxSeqOfEqualElements.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P07_MaxSeqOfEqualElements\bin\Debug\net6.0\P07_MaxSeqOfEqualElements.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P07_MaxSeqOfEqualElements\obj\Debug\net6.0\P07_MaxSeqOfEqualElements.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P07_MaxSeqOfEqualElements\obj\Debug\net6.0\P07_MaxSeqOfEqualElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P07_MaxSeqOfEqualElements\obj\Debug\net6.0\P07_MaxSeqOfEqualElements.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P07_MaxSeqOfEqualElements\obj\Debug\net6.0\P07_MaxSeqOfEqualElements.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P07_MaxSeqOfEqualElements\obj\Debug\net6.0\P07_MaxSeqOfEqualElements.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P07_MaxSeqOfEqualElements\obj\Debug\net6.0\P07_MaxSeqOfEqualElements.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P07_MaxSeqOfEqualElements\obj\Debug\net6.0\refint\P07_MaxSeqOfEqualElements.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P07_MaxSeqOfEqualElements\obj\Debug\net6.0\P07_MaxSeqOfEqualElements.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P07_MaxSeqOfEqualElements\obj\Debug\net6.0\P07_MaxSeqOfEqualElements.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P07_MaxSeqOfEqualElements\obj\Debug\net6.0\ref\P07_MaxSeqOfEqualElements.dll

@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\05_SumEvenNums\obj\Debug\net6.0\05_SumEvenNums.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\05_SumEvenNums\obj\Debug\net6.0\05_SumEvenNums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\05_SumEvenNums\obj\Debug\net6.0\05_SumEvenNums.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\05_SumEvenNums\obj\Debug\net6.0\05_SumEvenNums.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\05_SumEvenNums\obj\Debug\net6.0\05_SumEvenNums.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\05_SumEvenNums\bin\Debug\net6.0\05_SumEvenNums.exe
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\05_SumEvenNums\bin\Debug\net6.0\05_SumEvenNums.deps.json
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\05_SumEvenNums\bin\Debug\net6.0\05_SumEvenNums.runtimeconfig.json
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\05_SumEvenNums\bin\Debug\net6.0\05_SumEvenNums.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\05_SumEvenNums\bin\Debug\net6.0\05_SumEvenNums.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\05_SumEvenNums\obj\Debug\net6.0\05_SumEvenNums.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\05_SumEvenNums\obj\Debug\net6.0\refint\05_SumEvenNums.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\05_SumEvenNums\obj\Debug\net6.0\05_SumEvenNums.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\05_SumEvenNums\obj\Debug\net6.0\05_SumEvenNums.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\05_SumEvenNums\obj\Debug\net6.0\ref\05_SumEvenNums.dll

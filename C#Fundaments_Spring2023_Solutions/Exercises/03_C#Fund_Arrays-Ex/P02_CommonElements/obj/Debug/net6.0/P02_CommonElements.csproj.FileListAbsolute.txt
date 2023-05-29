@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P02_CommonElements\bin\Debug\net6.0\P02_CommonElements.exe
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P02_CommonElements\bin\Debug\net6.0\P02_CommonElements.deps.json
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P02_CommonElements\bin\Debug\net6.0\P02_CommonElements.runtimeconfig.json
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P02_CommonElements\bin\Debug\net6.0\P02_CommonElements.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P02_CommonElements\bin\Debug\net6.0\P02_CommonElements.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P02_CommonElements\obj\Debug\net6.0\P02_CommonElements.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P02_CommonElements\obj\Debug\net6.0\P02_CommonElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P02_CommonElements\obj\Debug\net6.0\P02_CommonElements.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P02_CommonElements\obj\Debug\net6.0\P02_CommonElements.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P02_CommonElements\obj\Debug\net6.0\P02_CommonElements.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P02_CommonElements\obj\Debug\net6.0\P02_CommonElements.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P02_CommonElements\obj\Debug\net6.0\refint\P02_CommonElements.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P02_CommonElements\obj\Debug\net6.0\P02_CommonElements.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P02_CommonElements\obj\Debug\net6.0\P02_CommonElements.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P02_CommonElements\obj\Debug\net6.0\ref\P02_CommonElements.dll

@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P04_ReverseArray_RangesDEMO\bin\Debug\net6.0\P04_ReverseArray_RangesDEMO.exe
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P04_ReverseArray_RangesDEMO\bin\Debug\net6.0\P04_ReverseArray_RangesDEMO.deps.json
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P04_ReverseArray_RangesDEMO\bin\Debug\net6.0\P04_ReverseArray_RangesDEMO.runtimeconfig.json
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P04_ReverseArray_RangesDEMO\bin\Debug\net6.0\P04_ReverseArray_RangesDEMO.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P04_ReverseArray_RangesDEMO\bin\Debug\net6.0\P04_ReverseArray_RangesDEMO.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P04_ReverseArray_RangesDEMO\obj\Debug\net6.0\P04_ReverseArray_RangesDEMO.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P04_ReverseArray_RangesDEMO\obj\Debug\net6.0\P04_ReverseArray_RangesDEMO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P04_ReverseArray_RangesDEMO\obj\Debug\net6.0\P04_ReverseArray_RangesDEMO.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P04_ReverseArray_RangesDEMO\obj\Debug\net6.0\P04_ReverseArray_RangesDEMO.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P04_ReverseArray_RangesDEMO\obj\Debug\net6.0\P04_ReverseArray_RangesDEMO.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P04_ReverseArray_RangesDEMO\obj\Debug\net6.0\P04_ReverseArray_RangesDEMO.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P04_ReverseArray_RangesDEMO\obj\Debug\net6.0\refint\P04_ReverseArray_RangesDEMO.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P04_ReverseArray_RangesDEMO\obj\Debug\net6.0\P04_ReverseArray_RangesDEMO.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P04_ReverseArray_RangesDEMO\obj\Debug\net6.0\P04_ReverseArray_RangesDEMO.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P04_ReverseArray_RangesDEMO\obj\Debug\net6.0\ref\P04_ReverseArray_RangesDEMO.dll

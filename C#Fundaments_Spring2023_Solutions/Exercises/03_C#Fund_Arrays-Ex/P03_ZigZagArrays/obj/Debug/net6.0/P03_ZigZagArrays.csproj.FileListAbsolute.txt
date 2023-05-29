@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P03_ZigZagArrays\bin\Debug\net6.0\P03_ZigZagArrays.exe
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P03_ZigZagArrays\bin\Debug\net6.0\P03_ZigZagArrays.deps.json
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P03_ZigZagArrays\bin\Debug\net6.0\P03_ZigZagArrays.runtimeconfig.json
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P03_ZigZagArrays\bin\Debug\net6.0\P03_ZigZagArrays.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P03_ZigZagArrays\bin\Debug\net6.0\P03_ZigZagArrays.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P03_ZigZagArrays\obj\Debug\net6.0\P03_ZigZagArrays.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P03_ZigZagArrays\obj\Debug\net6.0\P03_ZigZagArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P03_ZigZagArrays\obj\Debug\net6.0\P03_ZigZagArrays.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P03_ZigZagArrays\obj\Debug\net6.0\P03_ZigZagArrays.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P03_ZigZagArrays\obj\Debug\net6.0\P03_ZigZagArrays.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P03_ZigZagArrays\obj\Debug\net6.0\P03_ZigZagArrays.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P03_ZigZagArrays\obj\Debug\net6.0\refint\P03_ZigZagArrays.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P03_ZigZagArrays\obj\Debug\net6.0\P03_ZigZagArrays.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P03_ZigZagArrays\obj\Debug\net6.0\P03_ZigZagArrays.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P03_ZigZagArrays\obj\Debug\net6.0\ref\P03_ZigZagArrays.dll

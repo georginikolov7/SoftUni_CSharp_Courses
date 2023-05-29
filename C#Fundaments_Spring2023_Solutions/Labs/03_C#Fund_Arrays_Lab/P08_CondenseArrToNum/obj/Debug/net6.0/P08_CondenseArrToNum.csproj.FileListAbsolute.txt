@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P08_CondenseArrToNum\bin\Debug\net6.0\P08_CondenseArrToNum.exe
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P08_CondenseArrToNum\bin\Debug\net6.0\P08_CondenseArrToNum.deps.json
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P08_CondenseArrToNum\bin\Debug\net6.0\P08_CondenseArrToNum.runtimeconfig.json
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P08_CondenseArrToNum\bin\Debug\net6.0\P08_CondenseArrToNum.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P08_CondenseArrToNum\bin\Debug\net6.0\P08_CondenseArrToNum.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P08_CondenseArrToNum\obj\Debug\net6.0\P08_CondenseArrToNum.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P08_CondenseArrToNum\obj\Debug\net6.0\P08_CondenseArrToNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P08_CondenseArrToNum\obj\Debug\net6.0\P08_CondenseArrToNum.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P08_CondenseArrToNum\obj\Debug\net6.0\P08_CondenseArrToNum.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P08_CondenseArrToNum\obj\Debug\net6.0\P08_CondenseArrToNum.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P08_CondenseArrToNum\obj\Debug\net6.0\P08_CondenseArrToNum.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P08_CondenseArrToNum\obj\Debug\net6.0\refint\P08_CondenseArrToNum.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P08_CondenseArrToNum\obj\Debug\net6.0\P08_CondenseArrToNum.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P08_CondenseArrToNum\obj\Debug\net6.0\P08_CondenseArrToNum.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P08_CondenseArrToNum\obj\Debug\net6.0\ref\P08_CondenseArrToNum.dll

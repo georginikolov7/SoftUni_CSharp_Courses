@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P08_MagicSum\bin\Debug\net6.0\P08_MagicSum.exe
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P08_MagicSum\bin\Debug\net6.0\P08_MagicSum.deps.json
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P08_MagicSum\bin\Debug\net6.0\P08_MagicSum.runtimeconfig.json
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P08_MagicSum\bin\Debug\net6.0\P08_MagicSum.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P08_MagicSum\bin\Debug\net6.0\P08_MagicSum.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P08_MagicSum\obj\Debug\net6.0\P08_MagicSum.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P08_MagicSum\obj\Debug\net6.0\P08_MagicSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P08_MagicSum\obj\Debug\net6.0\P08_MagicSum.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P08_MagicSum\obj\Debug\net6.0\P08_MagicSum.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P08_MagicSum\obj\Debug\net6.0\P08_MagicSum.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P08_MagicSum\obj\Debug\net6.0\P08_MagicSum.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P08_MagicSum\obj\Debug\net6.0\refint\P08_MagicSum.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P08_MagicSum\obj\Debug\net6.0\P08_MagicSum.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P08_MagicSum\obj\Debug\net6.0\P08_MagicSum.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P08_MagicSum\obj\Debug\net6.0\ref\P08_MagicSum.dll

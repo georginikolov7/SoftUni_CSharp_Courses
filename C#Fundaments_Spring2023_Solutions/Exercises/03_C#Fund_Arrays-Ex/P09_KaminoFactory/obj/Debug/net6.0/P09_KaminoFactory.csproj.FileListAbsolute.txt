@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P09_KaminoFactory\bin\Debug\net6.0\P09_KaminoFactory.exe
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P09_KaminoFactory\bin\Debug\net6.0\P09_KaminoFactory.deps.json
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P09_KaminoFactory\bin\Debug\net6.0\P09_KaminoFactory.runtimeconfig.json
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P09_KaminoFactory\bin\Debug\net6.0\P09_KaminoFactory.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P09_KaminoFactory\bin\Debug\net6.0\P09_KaminoFactory.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P09_KaminoFactory\obj\Debug\net6.0\P09_KaminoFactory.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P09_KaminoFactory\obj\Debug\net6.0\P09_KaminoFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P09_KaminoFactory\obj\Debug\net6.0\P09_KaminoFactory.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P09_KaminoFactory\obj\Debug\net6.0\P09_KaminoFactory.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P09_KaminoFactory\obj\Debug\net6.0\P09_KaminoFactory.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P09_KaminoFactory\obj\Debug\net6.0\P09_KaminoFactory.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P09_KaminoFactory\obj\Debug\net6.0\refint\P09_KaminoFactory.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P09_KaminoFactory\obj\Debug\net6.0\P09_KaminoFactory.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P09_KaminoFactory\obj\Debug\net6.0\P09_KaminoFactory.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P09_KaminoFactory\obj\Debug\net6.0\ref\P09_KaminoFactory.dll

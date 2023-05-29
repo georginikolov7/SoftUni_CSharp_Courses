@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P07_EqualArrays\bin\Debug\net6.0\P07_EqualArrays.exe
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P07_EqualArrays\bin\Debug\net6.0\P07_EqualArrays.deps.json
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P07_EqualArrays\bin\Debug\net6.0\P07_EqualArrays.runtimeconfig.json
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P07_EqualArrays\bin\Debug\net6.0\P07_EqualArrays.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P07_EqualArrays\bin\Debug\net6.0\P07_EqualArrays.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P07_EqualArrays\obj\Debug\net6.0\P07_EqualArrays.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P07_EqualArrays\obj\Debug\net6.0\P07_EqualArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P07_EqualArrays\obj\Debug\net6.0\P07_EqualArrays.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P07_EqualArrays\obj\Debug\net6.0\P07_EqualArrays.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P07_EqualArrays\obj\Debug\net6.0\P07_EqualArrays.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P07_EqualArrays\obj\Debug\net6.0\P07_EqualArrays.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P07_EqualArrays\obj\Debug\net6.0\refint\P07_EqualArrays.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P07_EqualArrays\obj\Debug\net6.0\P07_EqualArrays.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P07_EqualArrays\obj\Debug\net6.0\P07_EqualArrays.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays_Lab\P07_EqualArrays\obj\Debug\net6.0\ref\P07_EqualArrays.dll

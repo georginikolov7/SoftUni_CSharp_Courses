@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P06_EqualSums\bin\Debug\net6.0\P06_EqualSums.exe
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P06_EqualSums\bin\Debug\net6.0\P06_EqualSums.deps.json
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P06_EqualSums\bin\Debug\net6.0\P06_EqualSums.runtimeconfig.json
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P06_EqualSums\bin\Debug\net6.0\P06_EqualSums.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P06_EqualSums\bin\Debug\net6.0\P06_EqualSums.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P06_EqualSums\obj\Debug\net6.0\P06_EqualSums.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P06_EqualSums\obj\Debug\net6.0\P06_EqualSums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P06_EqualSums\obj\Debug\net6.0\P06_EqualSums.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P06_EqualSums\obj\Debug\net6.0\P06_EqualSums.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P06_EqualSums\obj\Debug\net6.0\P06_EqualSums.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P06_EqualSums\obj\Debug\net6.0\P06_EqualSums.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P06_EqualSums\obj\Debug\net6.0\refint\P06_EqualSums.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P06_EqualSums\obj\Debug\net6.0\P06_EqualSums.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P06_EqualSums\obj\Debug\net6.0\P06_EqualSums.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P06_EqualSums\obj\Debug\net6.0\ref\P06_EqualSums.dll

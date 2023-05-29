@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P10_LadyBugs\bin\Debug\net6.0\P10_LadyBugs.exe
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P10_LadyBugs\bin\Debug\net6.0\P10_LadyBugs.deps.json
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P10_LadyBugs\bin\Debug\net6.0\P10_LadyBugs.runtimeconfig.json
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P10_LadyBugs\bin\Debug\net6.0\P10_LadyBugs.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P10_LadyBugs\bin\Debug\net6.0\P10_LadyBugs.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P10_LadyBugs\obj\Debug\net6.0\P10_LadyBugs.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P10_LadyBugs\obj\Debug\net6.0\P10_LadyBugs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P10_LadyBugs\obj\Debug\net6.0\P10_LadyBugs.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P10_LadyBugs\obj\Debug\net6.0\P10_LadyBugs.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P10_LadyBugs\obj\Debug\net6.0\P10_LadyBugs.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P10_LadyBugs\obj\Debug\net6.0\P10_LadyBugs.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P10_LadyBugs\obj\Debug\net6.0\refint\P10_LadyBugs.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P10_LadyBugs\obj\Debug\net6.0\P10_LadyBugs.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P10_LadyBugs\obj\Debug\net6.0\P10_LadyBugs.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\03_C#Fund_Arrays-Ex\P10_LadyBugs\obj\Debug\net6.0\ref\P10_LadyBugs.dll
