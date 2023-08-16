@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P01_ValidUsernames\bin\Debug\net6.0\P01_ValidUsernames.exe
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P01_ValidUsernames\bin\Debug\net6.0\P01_ValidUsernames.deps.json
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P01_ValidUsernames\bin\Debug\net6.0\P01_ValidUsernames.runtimeconfig.json
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P01_ValidUsernames\bin\Debug\net6.0\P01_ValidUsernames.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P01_ValidUsernames\bin\Debug\net6.0\P01_ValidUsernames.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P01_ValidUsernames\obj\Debug\net6.0\P01_ValidUsernames.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P01_ValidUsernames\obj\Debug\net6.0\P01_ValidUsernames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P01_ValidUsernames\obj\Debug\net6.0\P01_ValidUsernames.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P01_ValidUsernames\obj\Debug\net6.0\P01_ValidUsernames.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P01_ValidUsernames\obj\Debug\net6.0\P01_ValidUsernames.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P01_ValidUsernames\obj\Debug\net6.0\P01_ValidUsernames.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P01_ValidUsernames\obj\Debug\net6.0\refint\P01_ValidUsernames.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P01_ValidUsernames\obj\Debug\net6.0\P01_ValidUsernames.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P01_ValidUsernames\obj\Debug\net6.0\P01_ValidUsernames.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P01_ValidUsernames\obj\Debug\net6.0\ref\P01_ValidUsernames.dll

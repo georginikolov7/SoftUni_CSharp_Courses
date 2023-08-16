@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Ex\P05_TeamworkProjects\bin\Debug\net6.0\P05_TeamworkProjects.exe
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Ex\P05_TeamworkProjects\bin\Debug\net6.0\P05_TeamworkProjects.deps.json
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Ex\P05_TeamworkProjects\bin\Debug\net6.0\P05_TeamworkProjects.runtimeconfig.json
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Ex\P05_TeamworkProjects\bin\Debug\net6.0\P05_TeamworkProjects.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Ex\P05_TeamworkProjects\bin\Debug\net6.0\P05_TeamworkProjects.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Ex\P05_TeamworkProjects\obj\Debug\net6.0\P05_TeamworkProjects.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Ex\P05_TeamworkProjects\obj\Debug\net6.0\P05_TeamworkProjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Ex\P05_TeamworkProjects\obj\Debug\net6.0\P05_TeamworkProjects.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Ex\P05_TeamworkProjects\obj\Debug\net6.0\P05_TeamworkProjects.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Ex\P05_TeamworkProjects\obj\Debug\net6.0\P05_TeamworkProjects.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Ex\P05_TeamworkProjects\obj\Debug\net6.0\P05_TeamworkProjects.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Ex\P05_TeamworkProjects\obj\Debug\net6.0\refint\P05_TeamworkProjects.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Ex\P05_TeamworkProjects\obj\Debug\net6.0\P05_TeamworkProjects.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Ex\P05_TeamworkProjects\obj\Debug\net6.0\P05_TeamworkProjects.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Ex\P05_TeamworkProjects\obj\Debug\net6.0\ref\P05_TeamworkProjects.dll

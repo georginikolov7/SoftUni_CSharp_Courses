@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P01_CountCharsInAString\bin\Debug\net6.0\P01_CountCharsInAString.exe
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P01_CountCharsInAString\bin\Debug\net6.0\P01_CountCharsInAString.deps.json
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P01_CountCharsInAString\bin\Debug\net6.0\P01_CountCharsInAString.runtimeconfig.json
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P01_CountCharsInAString\bin\Debug\net6.0\P01_CountCharsInAString.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P01_CountCharsInAString\bin\Debug\net6.0\P01_CountCharsInAString.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P01_CountCharsInAString\obj\Debug\net6.0\P01_CountCharsInAString.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P01_CountCharsInAString\obj\Debug\net6.0\P01_CountCharsInAString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P01_CountCharsInAString\obj\Debug\net6.0\P01_CountCharsInAString.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P01_CountCharsInAString\obj\Debug\net6.0\P01_CountCharsInAString.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P01_CountCharsInAString\obj\Debug\net6.0\P01_CountCharsInAString.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P01_CountCharsInAString\obj\Debug\net6.0\P01_CountCharsInAString.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P01_CountCharsInAString\obj\Debug\net6.0\refint\P01_CountCharsInAString.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P01_CountCharsInAString\obj\Debug\net6.0\P01_CountCharsInAString.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P01_CountCharsInAString\obj\Debug\net6.0\P01_CountCharsInAString.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P01_CountCharsInAString\obj\Debug\net6.0\ref\P01_CountCharsInAString.dll

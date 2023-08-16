@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Ex\P08_AnonymousThreat\bin\Debug\net6.0\P08_AnonymousThreat.exe
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Ex\P08_AnonymousThreat\bin\Debug\net6.0\P08_AnonymousThreat.deps.json
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Ex\P08_AnonymousThreat\bin\Debug\net6.0\P08_AnonymousThreat.runtimeconfig.json
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Ex\P08_AnonymousThreat\bin\Debug\net6.0\P08_AnonymousThreat.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Ex\P08_AnonymousThreat\bin\Debug\net6.0\P08_AnonymousThreat.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Ex\P08_AnonymousThreat\obj\Debug\net6.0\P08_AnonymousThreat.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Ex\P08_AnonymousThreat\obj\Debug\net6.0\P08_AnonymousThreat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Ex\P08_AnonymousThreat\obj\Debug\net6.0\P08_AnonymousThreat.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Ex\P08_AnonymousThreat\obj\Debug\net6.0\P08_AnonymousThreat.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Ex\P08_AnonymousThreat\obj\Debug\net6.0\P08_AnonymousThreat.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Ex\P08_AnonymousThreat\obj\Debug\net6.0\P08_AnonymousThreat.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Ex\P08_AnonymousThreat\obj\Debug\net6.0\refint\P08_AnonymousThreat.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Ex\P08_AnonymousThreat\obj\Debug\net6.0\P08_AnonymousThreat.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Ex\P08_AnonymousThreat\obj\Debug\net6.0\P08_AnonymousThreat.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Ex\P08_AnonymousThreat\obj\Debug\net6.0\ref\P08_AnonymousThreat.dll

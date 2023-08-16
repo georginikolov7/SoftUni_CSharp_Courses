@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P10_TopNumber\bin\Debug\net6.0\P10_TopNumber.exe
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P10_TopNumber\bin\Debug\net6.0\P10_TopNumber.deps.json
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P10_TopNumber\bin\Debug\net6.0\P10_TopNumber.runtimeconfig.json
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P10_TopNumber\bin\Debug\net6.0\P10_TopNumber.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P10_TopNumber\bin\Debug\net6.0\P10_TopNumber.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P10_TopNumber\obj\Debug\net6.0\P10_TopNumber.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P10_TopNumber\obj\Debug\net6.0\P10_TopNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P10_TopNumber\obj\Debug\net6.0\P10_TopNumber.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P10_TopNumber\obj\Debug\net6.0\P10_TopNumber.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P10_TopNumber\obj\Debug\net6.0\P10_TopNumber.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P10_TopNumber\obj\Debug\net6.0\P10_TopNumber.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P10_TopNumber\obj\Debug\net6.0\refint\P10_TopNumber.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P10_TopNumber\obj\Debug\net6.0\P10_TopNumber.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P10_TopNumber\obj\Debug\net6.0\P10_TopNumber.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P10_TopNumber\obj\Debug\net6.0\ref\P10_TopNumber.dll

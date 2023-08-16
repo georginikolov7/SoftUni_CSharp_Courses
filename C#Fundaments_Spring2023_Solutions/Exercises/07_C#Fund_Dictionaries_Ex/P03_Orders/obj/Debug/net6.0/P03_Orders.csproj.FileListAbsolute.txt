@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P03_Orders\bin\Debug\net6.0\P03_Orders.exe
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P03_Orders\bin\Debug\net6.0\P03_Orders.deps.json
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P03_Orders\bin\Debug\net6.0\P03_Orders.runtimeconfig.json
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P03_Orders\bin\Debug\net6.0\P03_Orders.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P03_Orders\bin\Debug\net6.0\P03_Orders.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P03_Orders\obj\Debug\net6.0\P03_Orders.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P03_Orders\obj\Debug\net6.0\P03_Orders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P03_Orders\obj\Debug\net6.0\P03_Orders.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P03_Orders\obj\Debug\net6.0\P03_Orders.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P03_Orders\obj\Debug\net6.0\P03_Orders.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P03_Orders\obj\Debug\net6.0\P03_Orders.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P03_Orders\obj\Debug\net6.0\refint\P03_Orders.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P03_Orders\obj\Debug\net6.0\P03_Orders.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P03_Orders\obj\Debug\net6.0\P03_Orders.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P03_Orders\obj\Debug\net6.0\ref\P03_Orders.dll

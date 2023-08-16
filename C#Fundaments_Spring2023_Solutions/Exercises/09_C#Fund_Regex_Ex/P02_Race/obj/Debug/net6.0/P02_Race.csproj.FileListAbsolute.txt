@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C#Fund_RegEx_Exercise\P02_Race\bin\Debug\net6.0\P02_Race.exe
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C#Fund_RegEx_Exercise\P02_Race\bin\Debug\net6.0\P02_Race.deps.json
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C#Fund_RegEx_Exercise\P02_Race\bin\Debug\net6.0\P02_Race.runtimeconfig.json
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C#Fund_RegEx_Exercise\P02_Race\bin\Debug\net6.0\P02_Race.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C#Fund_RegEx_Exercise\P02_Race\bin\Debug\net6.0\P02_Race.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C#Fund_RegEx_Exercise\P02_Race\obj\Debug\net6.0\P02_Race.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C#Fund_RegEx_Exercise\P02_Race\obj\Debug\net6.0\P02_Race.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C#Fund_RegEx_Exercise\P02_Race\obj\Debug\net6.0\P02_Race.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C#Fund_RegEx_Exercise\P02_Race\obj\Debug\net6.0\P02_Race.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C#Fund_RegEx_Exercise\P02_Race\obj\Debug\net6.0\P02_Race.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C#Fund_RegEx_Exercise\P02_Race\obj\Debug\net6.0\P02_Race.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C#Fund_RegEx_Exercise\P02_Race\obj\Debug\net6.0\refint\P02_Race.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C#Fund_RegEx_Exercise\P02_Race\obj\Debug\net6.0\P02_Race.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C#Fund_RegEx_Exercise\P02_Race\obj\Debug\net6.0\P02_Race.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C#Fund_RegEx_Exercise\P02_Race\obj\Debug\net6.0\ref\P02_Race.dll

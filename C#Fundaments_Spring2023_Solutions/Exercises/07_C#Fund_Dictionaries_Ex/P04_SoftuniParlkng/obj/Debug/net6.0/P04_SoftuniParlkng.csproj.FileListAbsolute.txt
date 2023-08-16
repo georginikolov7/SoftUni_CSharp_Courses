@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P04_SoftuniParlkng\bin\Debug\net6.0\P04_SoftuniParlkng.exe
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P04_SoftuniParlkng\bin\Debug\net6.0\P04_SoftuniParlkng.deps.json
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P04_SoftuniParlkng\bin\Debug\net6.0\P04_SoftuniParlkng.runtimeconfig.json
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P04_SoftuniParlkng\bin\Debug\net6.0\P04_SoftuniParlkng.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P04_SoftuniParlkng\bin\Debug\net6.0\P04_SoftuniParlkng.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P04_SoftuniParlkng\obj\Debug\net6.0\P04_SoftuniParlkng.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P04_SoftuniParlkng\obj\Debug\net6.0\P04_SoftuniParlkng.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P04_SoftuniParlkng\obj\Debug\net6.0\P04_SoftuniParlkng.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P04_SoftuniParlkng\obj\Debug\net6.0\P04_SoftuniParlkng.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P04_SoftuniParlkng\obj\Debug\net6.0\P04_SoftuniParlkng.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P04_SoftuniParlkng\obj\Debug\net6.0\P04_SoftuniParlkng.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P04_SoftuniParlkng\obj\Debug\net6.0\refint\P04_SoftuniParlkng.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P04_SoftuniParlkng\obj\Debug\net6.0\P04_SoftuniParlkng.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P04_SoftuniParlkng\obj\Debug\net6.0\P04_SoftuniParlkng.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P04_SoftuniParlkng\obj\Debug\net6.0\ref\P04_SoftuniParlkng.dll

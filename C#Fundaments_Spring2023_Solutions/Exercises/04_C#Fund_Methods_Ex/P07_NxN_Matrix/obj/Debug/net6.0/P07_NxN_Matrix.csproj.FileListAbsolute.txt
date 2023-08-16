@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P07_NxN_Matrix\bin\Debug\net6.0\P07_NxN_Matrix.exe
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P07_NxN_Matrix\bin\Debug\net6.0\P07_NxN_Matrix.deps.json
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P07_NxN_Matrix\bin\Debug\net6.0\P07_NxN_Matrix.runtimeconfig.json
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P07_NxN_Matrix\bin\Debug\net6.0\P07_NxN_Matrix.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P07_NxN_Matrix\bin\Debug\net6.0\P07_NxN_Matrix.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P07_NxN_Matrix\obj\Debug\net6.0\P07_NxN_Matrix.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P07_NxN_Matrix\obj\Debug\net6.0\P07_NxN_Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P07_NxN_Matrix\obj\Debug\net6.0\P07_NxN_Matrix.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P07_NxN_Matrix\obj\Debug\net6.0\P07_NxN_Matrix.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P07_NxN_Matrix\obj\Debug\net6.0\P07_NxN_Matrix.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P07_NxN_Matrix\obj\Debug\net6.0\P07_NxN_Matrix.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P07_NxN_Matrix\obj\Debug\net6.0\refint\P07_NxN_Matrix.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P07_NxN_Matrix\obj\Debug\net6.0\P07_NxN_Matrix.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P07_NxN_Matrix\obj\Debug\net6.0\P07_NxN_Matrix.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P07_NxN_Matrix\obj\Debug\net6.0\ref\P07_NxN_Matrix.dll

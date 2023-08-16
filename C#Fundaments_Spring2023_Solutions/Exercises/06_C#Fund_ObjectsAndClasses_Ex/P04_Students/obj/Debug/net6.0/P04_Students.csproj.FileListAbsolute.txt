@@ -1,0 +1,5 @@
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Ex\P04_Students\obj\Debug\net6.0\P04_Students.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Ex\P04_Students\obj\Debug\net6.0\P04_Students.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Ex\P04_Students\obj\Debug\net6.0\P04_Students.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Ex\P04_Students\obj\Debug\net6.0\P04_Students.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Ex\P04_Students\obj\Debug\net6.0\P04_Students.csproj.CoreCompileInputs.cache

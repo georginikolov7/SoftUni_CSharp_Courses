@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P07_StringExplosion\obj\Debug\net6.0\P07_StringExplosion.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P07_StringExplosion\obj\Debug\net6.0\P07_StringExplosion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P07_StringExplosion\obj\Debug\net6.0\P07_StringExplosion.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P07_StringExplosion\obj\Debug\net6.0\P07_StringExplosion.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P07_StringExplosion\obj\Debug\net6.0\P07_StringExplosion.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P07_StringExplosion\bin\Debug\net6.0\P07_StringExplosion.exe
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P07_StringExplosion\bin\Debug\net6.0\P07_StringExplosion.deps.json
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P07_StringExplosion\bin\Debug\net6.0\P07_StringExplosion.runtimeconfig.json
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P07_StringExplosion\bin\Debug\net6.0\P07_StringExplosion.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P07_StringExplosion\bin\Debug\net6.0\P07_StringExplosion.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P07_StringExplosion\obj\Debug\net6.0\P07_StringExplosion.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P07_StringExplosion\obj\Debug\net6.0\refint\P07_StringExplosion.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P07_StringExplosion\obj\Debug\net6.0\P07_StringExplosion.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P07_StringExplosion\obj\Debug\net6.0\P07_StringExplosion.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P07_StringExplosion\obj\Debug\net6.0\ref\P07_StringExplosion.dll

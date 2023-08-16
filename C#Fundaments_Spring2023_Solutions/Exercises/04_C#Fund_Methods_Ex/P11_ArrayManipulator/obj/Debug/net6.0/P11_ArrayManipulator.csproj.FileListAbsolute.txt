@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P11_ArrayManipulator\bin\Debug\net6.0\P11_ArrayManipulator.exe
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P11_ArrayManipulator\bin\Debug\net6.0\P11_ArrayManipulator.deps.json
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P11_ArrayManipulator\bin\Debug\net6.0\P11_ArrayManipulator.runtimeconfig.json
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P11_ArrayManipulator\bin\Debug\net6.0\P11_ArrayManipulator.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P11_ArrayManipulator\bin\Debug\net6.0\P11_ArrayManipulator.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P11_ArrayManipulator\obj\Debug\net6.0\P11_ArrayManipulator.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P11_ArrayManipulator\obj\Debug\net6.0\P11_ArrayManipulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P11_ArrayManipulator\obj\Debug\net6.0\P11_ArrayManipulator.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P11_ArrayManipulator\obj\Debug\net6.0\P11_ArrayManipulator.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P11_ArrayManipulator\obj\Debug\net6.0\P11_ArrayManipulator.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P11_ArrayManipulator\obj\Debug\net6.0\P11_ArrayManipulator.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P11_ArrayManipulator\obj\Debug\net6.0\refint\P11_ArrayManipulator.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P11_ArrayManipulator\obj\Debug\net6.0\P11_ArrayManipulator.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P11_ArrayManipulator\obj\Debug\net6.0\P11_ArrayManipulator.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P11_ArrayManipulator\obj\Debug\net6.0\ref\P11_ArrayManipulator.dll

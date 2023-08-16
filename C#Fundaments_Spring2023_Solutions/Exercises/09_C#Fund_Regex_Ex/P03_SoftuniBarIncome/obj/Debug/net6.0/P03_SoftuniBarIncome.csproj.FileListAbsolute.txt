@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C#Fund_RegEx_Exercise\P03_SoftuniBarIncome\bin\Debug\net6.0\P03_SoftuniBarIncome.exe
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C#Fund_RegEx_Exercise\P03_SoftuniBarIncome\bin\Debug\net6.0\P03_SoftuniBarIncome.deps.json
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C#Fund_RegEx_Exercise\P03_SoftuniBarIncome\bin\Debug\net6.0\P03_SoftuniBarIncome.runtimeconfig.json
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C#Fund_RegEx_Exercise\P03_SoftuniBarIncome\bin\Debug\net6.0\P03_SoftuniBarIncome.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C#Fund_RegEx_Exercise\P03_SoftuniBarIncome\bin\Debug\net6.0\P03_SoftuniBarIncome.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C#Fund_RegEx_Exercise\P03_SoftuniBarIncome\obj\Debug\net6.0\P03_SoftuniBarIncome.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C#Fund_RegEx_Exercise\P03_SoftuniBarIncome\obj\Debug\net6.0\P03_SoftuniBarIncome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C#Fund_RegEx_Exercise\P03_SoftuniBarIncome\obj\Debug\net6.0\P03_SoftuniBarIncome.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C#Fund_RegEx_Exercise\P03_SoftuniBarIncome\obj\Debug\net6.0\P03_SoftuniBarIncome.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C#Fund_RegEx_Exercise\P03_SoftuniBarIncome\obj\Debug\net6.0\P03_SoftuniBarIncome.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C#Fund_RegEx_Exercise\P03_SoftuniBarIncome\obj\Debug\net6.0\P03_SoftuniBarIncome.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C#Fund_RegEx_Exercise\P03_SoftuniBarIncome\obj\Debug\net6.0\refint\P03_SoftuniBarIncome.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C#Fund_RegEx_Exercise\P03_SoftuniBarIncome\obj\Debug\net6.0\P03_SoftuniBarIncome.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C#Fund_RegEx_Exercise\P03_SoftuniBarIncome\obj\Debug\net6.0\P03_SoftuniBarIncome.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C#Fund_RegEx_Exercise\P03_SoftuniBarIncome\obj\Debug\net6.0\ref\P03_SoftuniBarIncome.dll

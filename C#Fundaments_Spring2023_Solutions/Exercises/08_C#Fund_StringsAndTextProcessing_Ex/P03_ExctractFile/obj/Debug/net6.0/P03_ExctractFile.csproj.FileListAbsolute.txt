@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P03_ExctractFile\bin\Debug\net6.0\P03_ExctractFile.exe
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P03_ExctractFile\bin\Debug\net6.0\P03_ExctractFile.deps.json
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P03_ExctractFile\bin\Debug\net6.0\P03_ExctractFile.runtimeconfig.json
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P03_ExctractFile\bin\Debug\net6.0\P03_ExctractFile.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P03_ExctractFile\bin\Debug\net6.0\P03_ExctractFile.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P03_ExctractFile\obj\Debug\net6.0\P03_ExctractFile.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P03_ExctractFile\obj\Debug\net6.0\P03_ExctractFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P03_ExctractFile\obj\Debug\net6.0\P03_ExctractFile.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P03_ExctractFile\obj\Debug\net6.0\P03_ExctractFile.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P03_ExctractFile\obj\Debug\net6.0\P03_ExctractFile.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P03_ExctractFile\obj\Debug\net6.0\P03_ExctractFile.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P03_ExctractFile\obj\Debug\net6.0\refint\P03_ExctractFile.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P03_ExctractFile\obj\Debug\net6.0\P03_ExctractFile.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P03_ExctractFile\obj\Debug\net6.0\P03_ExctractFile.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P03_ExctractFile\obj\Debug\net6.0\ref\P03_ExctractFile.dll

@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P05_AddAndSubstract\bin\Debug\net6.0\P05_AddAndSubstract.exe
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P05_AddAndSubstract\bin\Debug\net6.0\P05_AddAndSubstract.deps.json
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P05_AddAndSubstract\bin\Debug\net6.0\P05_AddAndSubstract.runtimeconfig.json
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P05_AddAndSubstract\bin\Debug\net6.0\P05_AddAndSubstract.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P05_AddAndSubstract\bin\Debug\net6.0\P05_AddAndSubstract.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P05_AddAndSubstract\obj\Debug\net6.0\P05_AddAndSubstract.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P05_AddAndSubstract\obj\Debug\net6.0\P05_AddAndSubstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P05_AddAndSubstract\obj\Debug\net6.0\P05_AddAndSubstract.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P05_AddAndSubstract\obj\Debug\net6.0\P05_AddAndSubstract.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P05_AddAndSubstract\obj\Debug\net6.0\P05_AddAndSubstract.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P05_AddAndSubstract\obj\Debug\net6.0\P05_AddAndSubstract.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P05_AddAndSubstract\obj\Debug\net6.0\refint\P05_AddAndSubstract.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P05_AddAndSubstract\obj\Debug\net6.0\P05_AddAndSubstract.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P05_AddAndSubstract\obj\Debug\net6.0\P05_AddAndSubstract.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P05_AddAndSubstract\obj\Debug\net6.0\ref\P05_AddAndSubstract.dll

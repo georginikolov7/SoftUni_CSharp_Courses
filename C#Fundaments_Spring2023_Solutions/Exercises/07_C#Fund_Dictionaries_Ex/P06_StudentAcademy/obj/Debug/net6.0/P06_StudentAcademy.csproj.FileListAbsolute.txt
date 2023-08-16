@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P06_StudentAcademy\bin\Debug\net6.0\P06_StudentAcademy.exe
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P06_StudentAcademy\bin\Debug\net6.0\P06_StudentAcademy.deps.json
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P06_StudentAcademy\bin\Debug\net6.0\P06_StudentAcademy.runtimeconfig.json
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P06_StudentAcademy\bin\Debug\net6.0\P06_StudentAcademy.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P06_StudentAcademy\bin\Debug\net6.0\P06_StudentAcademy.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P06_StudentAcademy\obj\Debug\net6.0\P06_StudentAcademy.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P06_StudentAcademy\obj\Debug\net6.0\P06_StudentAcademy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P06_StudentAcademy\obj\Debug\net6.0\P06_StudentAcademy.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P06_StudentAcademy\obj\Debug\net6.0\P06_StudentAcademy.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P06_StudentAcademy\obj\Debug\net6.0\P06_StudentAcademy.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P06_StudentAcademy\obj\Debug\net6.0\P06_StudentAcademy.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P06_StudentAcademy\obj\Debug\net6.0\refint\P06_StudentAcademy.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P06_StudentAcademy\obj\Debug\net6.0\P06_StudentAcademy.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P06_StudentAcademy\obj\Debug\net6.0\P06_StudentAcademy.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P06_StudentAcademy\obj\Debug\net6.0\ref\P06_StudentAcademy.dll

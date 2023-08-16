@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C#Fund_RegEx_Exercise\P05_NetherRealms\bin\Debug\net6.0\P05_NetherRealms.exe
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C#Fund_RegEx_Exercise\P05_NetherRealms\bin\Debug\net6.0\P05_NetherRealms.deps.json
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C#Fund_RegEx_Exercise\P05_NetherRealms\bin\Debug\net6.0\P05_NetherRealms.runtimeconfig.json
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C#Fund_RegEx_Exercise\P05_NetherRealms\bin\Debug\net6.0\P05_NetherRealms.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C#Fund_RegEx_Exercise\P05_NetherRealms\bin\Debug\net6.0\P05_NetherRealms.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C#Fund_RegEx_Exercise\P05_NetherRealms\obj\Debug\net6.0\P05_NetherRealms.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C#Fund_RegEx_Exercise\P05_NetherRealms\obj\Debug\net6.0\P05_NetherRealms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C#Fund_RegEx_Exercise\P05_NetherRealms\obj\Debug\net6.0\P05_NetherRealms.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C#Fund_RegEx_Exercise\P05_NetherRealms\obj\Debug\net6.0\P05_NetherRealms.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C#Fund_RegEx_Exercise\P05_NetherRealms\obj\Debug\net6.0\P05_NetherRealms.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C#Fund_RegEx_Exercise\P05_NetherRealms\obj\Debug\net6.0\P05_NetherRealms.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C#Fund_RegEx_Exercise\P05_NetherRealms\obj\Debug\net6.0\refint\P05_NetherRealms.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C#Fund_RegEx_Exercise\P05_NetherRealms\obj\Debug\net6.0\P05_NetherRealms.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C#Fund_RegEx_Exercise\P05_NetherRealms\obj\Debug\net6.0\P05_NetherRealms.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C#Fund_RegEx_Exercise\P05_NetherRealms\obj\Debug\net6.0\ref\P05_NetherRealms.dll

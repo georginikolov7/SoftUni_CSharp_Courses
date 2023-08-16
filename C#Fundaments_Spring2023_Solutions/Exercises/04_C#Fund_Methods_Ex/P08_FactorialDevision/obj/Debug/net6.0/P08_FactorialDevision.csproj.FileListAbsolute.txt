@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P08_FactorialDevision\bin\Debug\net6.0\P08_FactorialDevision.exe
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P08_FactorialDevision\bin\Debug\net6.0\P08_FactorialDevision.deps.json
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P08_FactorialDevision\bin\Debug\net6.0\P08_FactorialDevision.runtimeconfig.json
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P08_FactorialDevision\bin\Debug\net6.0\P08_FactorialDevision.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P08_FactorialDevision\bin\Debug\net6.0\P08_FactorialDevision.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P08_FactorialDevision\obj\Debug\net6.0\P08_FactorialDevision.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P08_FactorialDevision\obj\Debug\net6.0\P08_FactorialDevision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P08_FactorialDevision\obj\Debug\net6.0\P08_FactorialDevision.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P08_FactorialDevision\obj\Debug\net6.0\P08_FactorialDevision.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P08_FactorialDevision\obj\Debug\net6.0\P08_FactorialDevision.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P08_FactorialDevision\obj\Debug\net6.0\P08_FactorialDevision.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P08_FactorialDevision\obj\Debug\net6.0\refint\P08_FactorialDevision.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P08_FactorialDevision\obj\Debug\net6.0\P08_FactorialDevision.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P08_FactorialDevision\obj\Debug\net6.0\P08_FactorialDevision.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P08_FactorialDevision\obj\Debug\net6.0\ref\P08_FactorialDevision.dll

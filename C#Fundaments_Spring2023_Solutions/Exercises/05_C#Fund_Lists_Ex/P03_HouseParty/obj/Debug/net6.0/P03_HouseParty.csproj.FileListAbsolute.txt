@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Ex\P03_HouseParty\bin\Debug\net6.0\P03_HouseParty.exe
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Ex\P03_HouseParty\bin\Debug\net6.0\P03_HouseParty.deps.json
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Ex\P03_HouseParty\bin\Debug\net6.0\P03_HouseParty.runtimeconfig.json
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Ex\P03_HouseParty\bin\Debug\net6.0\P03_HouseParty.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Ex\P03_HouseParty\bin\Debug\net6.0\P03_HouseParty.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Ex\P03_HouseParty\obj\Debug\net6.0\P03_HouseParty.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Ex\P03_HouseParty\obj\Debug\net6.0\P03_HouseParty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Ex\P03_HouseParty\obj\Debug\net6.0\P03_HouseParty.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Ex\P03_HouseParty\obj\Debug\net6.0\P03_HouseParty.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Ex\P03_HouseParty\obj\Debug\net6.0\P03_HouseParty.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Ex\P03_HouseParty\obj\Debug\net6.0\P03_HouseParty.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Ex\P03_HouseParty\obj\Debug\net6.0\refint\P03_HouseParty.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Ex\P03_HouseParty\obj\Debug\net6.0\P03_HouseParty.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Ex\P03_HouseParty\obj\Debug\net6.0\P03_HouseParty.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Ex\P03_HouseParty\obj\Debug\net6.0\ref\P03_HouseParty.dll

@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P06_ReplaceRepChars\bin\Debug\net6.0\P06_ReplaceRepChars.exe
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P06_ReplaceRepChars\bin\Debug\net6.0\P06_ReplaceRepChars.deps.json
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P06_ReplaceRepChars\bin\Debug\net6.0\P06_ReplaceRepChars.runtimeconfig.json
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P06_ReplaceRepChars\bin\Debug\net6.0\P06_ReplaceRepChars.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P06_ReplaceRepChars\bin\Debug\net6.0\P06_ReplaceRepChars.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P06_ReplaceRepChars\obj\Debug\net6.0\P06_ReplaceRepChars.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P06_ReplaceRepChars\obj\Debug\net6.0\P06_ReplaceRepChars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P06_ReplaceRepChars\obj\Debug\net6.0\P06_ReplaceRepChars.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P06_ReplaceRepChars\obj\Debug\net6.0\P06_ReplaceRepChars.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P06_ReplaceRepChars\obj\Debug\net6.0\P06_ReplaceRepChars.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P06_ReplaceRepChars\obj\Debug\net6.0\P06_ReplaceRepChars.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P06_ReplaceRepChars\obj\Debug\net6.0\refint\P06_ReplaceRepChars.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P06_ReplaceRepChars\obj\Debug\net6.0\P06_ReplaceRepChars.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P06_ReplaceRepChars\obj\Debug\net6.0\P06_ReplaceRepChars.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P06_ReplaceRepChars\obj\Debug\net6.0\ref\P06_ReplaceRepChars.dll

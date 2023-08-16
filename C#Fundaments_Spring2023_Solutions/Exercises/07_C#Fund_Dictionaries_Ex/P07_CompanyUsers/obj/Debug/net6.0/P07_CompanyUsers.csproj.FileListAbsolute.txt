@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P07_CompanyUsers\bin\Debug\net6.0\P07_CompanyUsers.exe
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P07_CompanyUsers\bin\Debug\net6.0\P07_CompanyUsers.deps.json
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P07_CompanyUsers\bin\Debug\net6.0\P07_CompanyUsers.runtimeconfig.json
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P07_CompanyUsers\bin\Debug\net6.0\P07_CompanyUsers.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P07_CompanyUsers\bin\Debug\net6.0\P07_CompanyUsers.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P07_CompanyUsers\obj\Debug\net6.0\P07_CompanyUsers.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P07_CompanyUsers\obj\Debug\net6.0\P07_CompanyUsers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P07_CompanyUsers\obj\Debug\net6.0\P07_CompanyUsers.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P07_CompanyUsers\obj\Debug\net6.0\P07_CompanyUsers.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P07_CompanyUsers\obj\Debug\net6.0\P07_CompanyUsers.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P07_CompanyUsers\obj\Debug\net6.0\P07_CompanyUsers.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P07_CompanyUsers\obj\Debug\net6.0\refint\P07_CompanyUsers.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P07_CompanyUsers\obj\Debug\net6.0\P07_CompanyUsers.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P07_CompanyUsers\obj\Debug\net6.0\P07_CompanyUsers.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P07_CompanyUsers\obj\Debug\net6.0\ref\P07_CompanyUsers.dll

@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P08_LettersChangeNumbers\bin\Debug\net6.0\P08_LettersChangeNumbers.exe
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P08_LettersChangeNumbers\bin\Debug\net6.0\P08_LettersChangeNumbers.deps.json
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P08_LettersChangeNumbers\bin\Debug\net6.0\P08_LettersChangeNumbers.runtimeconfig.json
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P08_LettersChangeNumbers\bin\Debug\net6.0\P08_LettersChangeNumbers.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P08_LettersChangeNumbers\bin\Debug\net6.0\P08_LettersChangeNumbers.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P08_LettersChangeNumbers\obj\Debug\net6.0\P08_LettersChangeNumbers.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P08_LettersChangeNumbers\obj\Debug\net6.0\P08_LettersChangeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P08_LettersChangeNumbers\obj\Debug\net6.0\P08_LettersChangeNumbers.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P08_LettersChangeNumbers\obj\Debug\net6.0\P08_LettersChangeNumbers.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P08_LettersChangeNumbers\obj\Debug\net6.0\P08_LettersChangeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P08_LettersChangeNumbers\obj\Debug\net6.0\P08_LettersChangeNumbers.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P08_LettersChangeNumbers\obj\Debug\net6.0\refint\P08_LettersChangeNumbers.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P08_LettersChangeNumbers\obj\Debug\net6.0\P08_LettersChangeNumbers.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P08_LettersChangeNumbers\obj\Debug\net6.0\P08_LettersChangeNumbers.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P08_LettersChangeNumbers\obj\Debug\net6.0\ref\P08_LettersChangeNumbers.dll

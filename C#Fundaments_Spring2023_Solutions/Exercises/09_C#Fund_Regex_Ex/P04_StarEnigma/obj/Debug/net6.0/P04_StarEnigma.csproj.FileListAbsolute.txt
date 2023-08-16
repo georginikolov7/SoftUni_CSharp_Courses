@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C#Fund_RegEx_Exercise\P04_StarEnigma\bin\Debug\net6.0\P04_StarEnigma.exe
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C#Fund_RegEx_Exercise\P04_StarEnigma\bin\Debug\net6.0\P04_StarEnigma.deps.json
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C#Fund_RegEx_Exercise\P04_StarEnigma\bin\Debug\net6.0\P04_StarEnigma.runtimeconfig.json
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C#Fund_RegEx_Exercise\P04_StarEnigma\bin\Debug\net6.0\P04_StarEnigma.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C#Fund_RegEx_Exercise\P04_StarEnigma\bin\Debug\net6.0\P04_StarEnigma.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C#Fund_RegEx_Exercise\P04_StarEnigma\obj\Debug\net6.0\P04_StarEnigma.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C#Fund_RegEx_Exercise\P04_StarEnigma\obj\Debug\net6.0\P04_StarEnigma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C#Fund_RegEx_Exercise\P04_StarEnigma\obj\Debug\net6.0\P04_StarEnigma.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C#Fund_RegEx_Exercise\P04_StarEnigma\obj\Debug\net6.0\P04_StarEnigma.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C#Fund_RegEx_Exercise\P04_StarEnigma\obj\Debug\net6.0\P04_StarEnigma.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C#Fund_RegEx_Exercise\P04_StarEnigma\obj\Debug\net6.0\P04_StarEnigma.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C#Fund_RegEx_Exercise\P04_StarEnigma\obj\Debug\net6.0\refint\P04_StarEnigma.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C#Fund_RegEx_Exercise\P04_StarEnigma\obj\Debug\net6.0\P04_StarEnigma.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C#Fund_RegEx_Exercise\P04_StarEnigma\obj\Debug\net6.0\P04_StarEnigma.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C#Fund_RegEx_Exercise\P04_StarEnigma\obj\Debug\net6.0\ref\P04_StarEnigma.dll

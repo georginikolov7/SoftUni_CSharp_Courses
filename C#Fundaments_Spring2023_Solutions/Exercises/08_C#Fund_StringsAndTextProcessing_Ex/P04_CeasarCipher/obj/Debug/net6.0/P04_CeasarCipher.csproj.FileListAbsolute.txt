@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P04_CeasarCipher\bin\Debug\net6.0\P04_CeasarCipher.exe
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P04_CeasarCipher\bin\Debug\net6.0\P04_CeasarCipher.deps.json
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P04_CeasarCipher\bin\Debug\net6.0\P04_CeasarCipher.runtimeconfig.json
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P04_CeasarCipher\bin\Debug\net6.0\P04_CeasarCipher.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P04_CeasarCipher\bin\Debug\net6.0\P04_CeasarCipher.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P04_CeasarCipher\obj\Debug\net6.0\P04_CeasarCipher.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P04_CeasarCipher\obj\Debug\net6.0\P04_CeasarCipher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P04_CeasarCipher\obj\Debug\net6.0\P04_CeasarCipher.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P04_CeasarCipher\obj\Debug\net6.0\P04_CeasarCipher.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P04_CeasarCipher\obj\Debug\net6.0\P04_CeasarCipher.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P04_CeasarCipher\obj\Debug\net6.0\P04_CeasarCipher.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P04_CeasarCipher\obj\Debug\net6.0\refint\P04_CeasarCipher.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P04_CeasarCipher\obj\Debug\net6.0\P04_CeasarCipher.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P04_CeasarCipher\obj\Debug\net6.0\P04_CeasarCipher.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P04_CeasarCipher\obj\Debug\net6.0\ref\P04_CeasarCipher.dll

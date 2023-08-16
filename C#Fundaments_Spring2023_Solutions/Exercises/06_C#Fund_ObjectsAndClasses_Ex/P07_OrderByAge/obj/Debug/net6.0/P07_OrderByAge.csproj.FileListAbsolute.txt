@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Ex\P07_OrderByAge\bin\Debug\net6.0\P07_OrderByAge.exe
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Ex\P07_OrderByAge\bin\Debug\net6.0\P07_OrderByAge.deps.json
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Ex\P07_OrderByAge\bin\Debug\net6.0\P07_OrderByAge.runtimeconfig.json
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Ex\P07_OrderByAge\bin\Debug\net6.0\P07_OrderByAge.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Ex\P07_OrderByAge\bin\Debug\net6.0\P07_OrderByAge.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Ex\P07_OrderByAge\obj\Debug\net6.0\P07_OrderByAge.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Ex\P07_OrderByAge\obj\Debug\net6.0\P07_OrderByAge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Ex\P07_OrderByAge\obj\Debug\net6.0\P07_OrderByAge.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Ex\P07_OrderByAge\obj\Debug\net6.0\P07_OrderByAge.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Ex\P07_OrderByAge\obj\Debug\net6.0\P07_OrderByAge.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Ex\P07_OrderByAge\obj\Debug\net6.0\P07_OrderByAge.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Ex\P07_OrderByAge\obj\Debug\net6.0\refint\P07_OrderByAge.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Ex\P07_OrderByAge\obj\Debug\net6.0\P07_OrderByAge.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Ex\P07_OrderByAge\obj\Debug\net6.0\P07_OrderByAge.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Ex\P07_OrderByAge\obj\Debug\net6.0\ref\P07_OrderByAge.dll

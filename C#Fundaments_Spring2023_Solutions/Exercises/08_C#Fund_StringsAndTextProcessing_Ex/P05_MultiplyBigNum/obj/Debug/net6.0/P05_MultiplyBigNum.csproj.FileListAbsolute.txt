@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P05_MultiplyBigNum\bin\Debug\net6.0\P05_MultiplyBigNum.exe
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P05_MultiplyBigNum\bin\Debug\net6.0\P05_MultiplyBigNum.deps.json
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P05_MultiplyBigNum\bin\Debug\net6.0\P05_MultiplyBigNum.runtimeconfig.json
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P05_MultiplyBigNum\bin\Debug\net6.0\P05_MultiplyBigNum.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P05_MultiplyBigNum\bin\Debug\net6.0\P05_MultiplyBigNum.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P05_MultiplyBigNum\obj\Debug\net6.0\P05_MultiplyBigNum.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P05_MultiplyBigNum\obj\Debug\net6.0\P05_MultiplyBigNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P05_MultiplyBigNum\obj\Debug\net6.0\P05_MultiplyBigNum.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P05_MultiplyBigNum\obj\Debug\net6.0\P05_MultiplyBigNum.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P05_MultiplyBigNum\obj\Debug\net6.0\P05_MultiplyBigNum.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P05_MultiplyBigNum\obj\Debug\net6.0\P05_MultiplyBigNum.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P05_MultiplyBigNum\obj\Debug\net6.0\refint\P05_MultiplyBigNum.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P05_MultiplyBigNum\obj\Debug\net6.0\P05_MultiplyBigNum.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P05_MultiplyBigNum\obj\Debug\net6.0\P05_MultiplyBigNum.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P05_MultiplyBigNum\obj\Debug\net6.0\ref\P05_MultiplyBigNum.dll

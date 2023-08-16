@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Ex\P10_SoftUniCoursePlanning\bin\Debug\net6.0\P10_SoftUniCoursePlanning.exe
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Ex\P10_SoftUniCoursePlanning\bin\Debug\net6.0\P10_SoftUniCoursePlanning.deps.json
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Ex\P10_SoftUniCoursePlanning\bin\Debug\net6.0\P10_SoftUniCoursePlanning.runtimeconfig.json
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Ex\P10_SoftUniCoursePlanning\bin\Debug\net6.0\P10_SoftUniCoursePlanning.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Ex\P10_SoftUniCoursePlanning\bin\Debug\net6.0\P10_SoftUniCoursePlanning.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Ex\P10_SoftUniCoursePlanning\obj\Debug\net6.0\P10_SoftUniCoursePlanning.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Ex\P10_SoftUniCoursePlanning\obj\Debug\net6.0\P10_SoftUniCoursePlanning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Ex\P10_SoftUniCoursePlanning\obj\Debug\net6.0\P10_SoftUniCoursePlanning.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Ex\P10_SoftUniCoursePlanning\obj\Debug\net6.0\P10_SoftUniCoursePlanning.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Ex\P10_SoftUniCoursePlanning\obj\Debug\net6.0\P10_SoftUniCoursePlanning.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Ex\P10_SoftUniCoursePlanning\obj\Debug\net6.0\P10_SoftUniCoursePlanning.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Ex\P10_SoftUniCoursePlanning\obj\Debug\net6.0\refint\P10_SoftUniCoursePlanning.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Ex\P10_SoftUniCoursePlanning\obj\Debug\net6.0\P10_SoftUniCoursePlanning.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Ex\P10_SoftUniCoursePlanning\obj\Debug\net6.0\P10_SoftUniCoursePlanning.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Ex\P10_SoftUniCoursePlanning\obj\Debug\net6.0\ref\P10_SoftUniCoursePlanning.dll

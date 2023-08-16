@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Ex\P01_Train\bin\Debug\net6.0\P01_Train.exe
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Ex\P01_Train\bin\Debug\net6.0\P01_Train.deps.json
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Ex\P01_Train\bin\Debug\net6.0\P01_Train.runtimeconfig.json
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Ex\P01_Train\bin\Debug\net6.0\P01_Train.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Ex\P01_Train\bin\Debug\net6.0\P01_Train.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Ex\P01_Train\obj\Debug\net6.0\P01_Train.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Ex\P01_Train\obj\Debug\net6.0\P01_Train.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Ex\P01_Train\obj\Debug\net6.0\P01_Train.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Ex\P01_Train\obj\Debug\net6.0\P01_Train.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Ex\P01_Train\obj\Debug\net6.0\P01_Train.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Ex\P01_Train\obj\Debug\net6.0\P01_Train.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Ex\P01_Train\obj\Debug\net6.0\refint\P01_Train.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Ex\P01_Train\obj\Debug\net6.0\P01_Train.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Ex\P01_Train\obj\Debug\net6.0\P01_Train.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Ex\P01_Train\obj\Debug\net6.0\ref\P01_Train.dll

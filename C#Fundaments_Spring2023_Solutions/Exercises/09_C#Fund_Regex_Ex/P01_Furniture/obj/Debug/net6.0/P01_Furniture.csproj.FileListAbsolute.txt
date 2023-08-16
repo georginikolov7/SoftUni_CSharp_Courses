@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C#Fund_RegEx_Exercise\P01_Furniture\bin\Debug\net6.0\P01_Furniture.exe
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C#Fund_RegEx_Exercise\P01_Furniture\bin\Debug\net6.0\P01_Furniture.deps.json
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C#Fund_RegEx_Exercise\P01_Furniture\bin\Debug\net6.0\P01_Furniture.runtimeconfig.json
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C#Fund_RegEx_Exercise\P01_Furniture\bin\Debug\net6.0\P01_Furniture.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C#Fund_RegEx_Exercise\P01_Furniture\bin\Debug\net6.0\P01_Furniture.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C#Fund_RegEx_Exercise\P01_Furniture\obj\Debug\net6.0\P01_Furniture.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C#Fund_RegEx_Exercise\P01_Furniture\obj\Debug\net6.0\P01_Furniture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C#Fund_RegEx_Exercise\P01_Furniture\obj\Debug\net6.0\P01_Furniture.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C#Fund_RegEx_Exercise\P01_Furniture\obj\Debug\net6.0\P01_Furniture.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C#Fund_RegEx_Exercise\P01_Furniture\obj\Debug\net6.0\P01_Furniture.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C#Fund_RegEx_Exercise\P01_Furniture\obj\Debug\net6.0\P01_Furniture.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C#Fund_RegEx_Exercise\P01_Furniture\obj\Debug\net6.0\refint\P01_Furniture.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C#Fund_RegEx_Exercise\P01_Furniture\obj\Debug\net6.0\P01_Furniture.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C#Fund_RegEx_Exercise\P01_Furniture\obj\Debug\net6.0\P01_Furniture.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C#Fund_RegEx_Exercise\P01_Furniture\obj\Debug\net6.0\ref\P01_Furniture.dll

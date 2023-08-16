@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P02_VowelsCount\bin\Debug\net6.0\P02_VowelsCount.exe
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P02_VowelsCount\bin\Debug\net6.0\P02_VowelsCount.deps.json
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P02_VowelsCount\bin\Debug\net6.0\P02_VowelsCount.runtimeconfig.json
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P02_VowelsCount\bin\Debug\net6.0\P02_VowelsCount.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P02_VowelsCount\bin\Debug\net6.0\P02_VowelsCount.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P02_VowelsCount\obj\Debug\net6.0\P02_VowelsCount.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P02_VowelsCount\obj\Debug\net6.0\P02_VowelsCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P02_VowelsCount\obj\Debug\net6.0\P02_VowelsCount.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P02_VowelsCount\obj\Debug\net6.0\P02_VowelsCount.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P02_VowelsCount\obj\Debug\net6.0\P02_VowelsCount.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P02_VowelsCount\obj\Debug\net6.0\P02_VowelsCount.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P02_VowelsCount\obj\Debug\net6.0\refint\P02_VowelsCount.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P02_VowelsCount\obj\Debug\net6.0\P02_VowelsCount.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P02_VowelsCount\obj\Debug\net6.0\P02_VowelsCount.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P02_VowelsCount\obj\Debug\net6.0\ref\P02_VowelsCount.dll

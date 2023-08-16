@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P02_CharMultyplier\bin\Debug\net6.0\P02_CharMultyplier.exe
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P02_CharMultyplier\bin\Debug\net6.0\P02_CharMultyplier.deps.json
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P02_CharMultyplier\bin\Debug\net6.0\P02_CharMultyplier.runtimeconfig.json
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P02_CharMultyplier\bin\Debug\net6.0\P02_CharMultyplier.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P02_CharMultyplier\bin\Debug\net6.0\P02_CharMultyplier.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P02_CharMultyplier\obj\Debug\net6.0\P02_CharMultyplier.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P02_CharMultyplier\obj\Debug\net6.0\P02_CharMultyplier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P02_CharMultyplier\obj\Debug\net6.0\P02_CharMultyplier.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P02_CharMultyplier\obj\Debug\net6.0\P02_CharMultyplier.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P02_CharMultyplier\obj\Debug\net6.0\P02_CharMultyplier.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P02_CharMultyplier\obj\Debug\net6.0\P02_CharMultyplier.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P02_CharMultyplier\obj\Debug\net6.0\refint\P02_CharMultyplier.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P02_CharMultyplier\obj\Debug\net6.0\P02_CharMultyplier.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P02_CharMultyplier\obj\Debug\net6.0\P02_CharMultyplier.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringsAndTextProcessing_Ex\P02_CharMultyplier\obj\Debug\net6.0\ref\P02_CharMultyplier.dll

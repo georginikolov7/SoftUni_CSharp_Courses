@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P02_AMinerTask\bin\Debug\net6.0\P02_AMinerTask.exe
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P02_AMinerTask\bin\Debug\net6.0\P02_AMinerTask.deps.json
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P02_AMinerTask\bin\Debug\net6.0\P02_AMinerTask.runtimeconfig.json
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P02_AMinerTask\bin\Debug\net6.0\P02_AMinerTask.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P02_AMinerTask\bin\Debug\net6.0\P02_AMinerTask.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P02_AMinerTask\obj\Debug\net6.0\P02_AMinerTask.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P02_AMinerTask\obj\Debug\net6.0\P02_AMinerTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P02_AMinerTask\obj\Debug\net6.0\P02_AMinerTask.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P02_AMinerTask\obj\Debug\net6.0\P02_AMinerTask.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P02_AMinerTask\obj\Debug\net6.0\P02_AMinerTask.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P02_AMinerTask\obj\Debug\net6.0\P02_AMinerTask.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P02_AMinerTask\obj\Debug\net6.0\refint\P02_AMinerTask.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P02_AMinerTask\obj\Debug\net6.0\P02_AMinerTask.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P02_AMinerTask\obj\Debug\net6.0\P02_AMinerTask.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P02_AMinerTask\obj\Debug\net6.0\ref\P02_AMinerTask.dll

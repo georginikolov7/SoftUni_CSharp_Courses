@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P09_PalindromeInts\bin\Debug\net6.0\P09_PalindromeInts.exe
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P09_PalindromeInts\bin\Debug\net6.0\P09_PalindromeInts.deps.json
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P09_PalindromeInts\bin\Debug\net6.0\P09_PalindromeInts.runtimeconfig.json
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P09_PalindromeInts\bin\Debug\net6.0\P09_PalindromeInts.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P09_PalindromeInts\bin\Debug\net6.0\P09_PalindromeInts.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P09_PalindromeInts\obj\Debug\net6.0\P09_PalindromeInts.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P09_PalindromeInts\obj\Debug\net6.0\P09_PalindromeInts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P09_PalindromeInts\obj\Debug\net6.0\P09_PalindromeInts.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P09_PalindromeInts\obj\Debug\net6.0\P09_PalindromeInts.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P09_PalindromeInts\obj\Debug\net6.0\P09_PalindromeInts.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P09_PalindromeInts\obj\Debug\net6.0\P09_PalindromeInts.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P09_PalindromeInts\obj\Debug\net6.0\refint\P09_PalindromeInts.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P09_PalindromeInts\obj\Debug\net6.0\P09_PalindromeInts.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P09_PalindromeInts\obj\Debug\net6.0\P09_PalindromeInts.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P09_PalindromeInts\obj\Debug\net6.0\ref\P09_PalindromeInts.dll

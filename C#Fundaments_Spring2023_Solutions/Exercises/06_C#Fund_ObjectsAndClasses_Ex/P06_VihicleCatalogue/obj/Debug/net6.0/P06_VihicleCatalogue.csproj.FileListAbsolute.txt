@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Ex\P06_VihicleCatalogue\bin\Debug\net6.0\P06_VihicleCatalogue.exe
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Ex\P06_VihicleCatalogue\bin\Debug\net6.0\P06_VihicleCatalogue.deps.json
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Ex\P06_VihicleCatalogue\bin\Debug\net6.0\P06_VihicleCatalogue.runtimeconfig.json
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Ex\P06_VihicleCatalogue\bin\Debug\net6.0\P06_VihicleCatalogue.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Ex\P06_VihicleCatalogue\bin\Debug\net6.0\P06_VihicleCatalogue.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Ex\P06_VihicleCatalogue\obj\Debug\net6.0\P06_VihicleCatalogue.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Ex\P06_VihicleCatalogue\obj\Debug\net6.0\P06_VihicleCatalogue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Ex\P06_VihicleCatalogue\obj\Debug\net6.0\P06_VihicleCatalogue.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Ex\P06_VihicleCatalogue\obj\Debug\net6.0\P06_VihicleCatalogue.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Ex\P06_VihicleCatalogue\obj\Debug\net6.0\P06_VihicleCatalogue.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Ex\P06_VihicleCatalogue\obj\Debug\net6.0\P06_VihicleCatalogue.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Ex\P06_VihicleCatalogue\obj\Debug\net6.0\refint\P06_VihicleCatalogue.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Ex\P06_VihicleCatalogue\obj\Debug\net6.0\P06_VihicleCatalogue.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Ex\P06_VihicleCatalogue\obj\Debug\net6.0\P06_VihicleCatalogue.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Ex\P06_VihicleCatalogue\obj\Debug\net6.0\ref\P06_VihicleCatalogue.dll

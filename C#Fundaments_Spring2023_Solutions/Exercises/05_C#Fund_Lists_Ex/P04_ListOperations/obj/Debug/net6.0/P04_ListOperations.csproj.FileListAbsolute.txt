@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Ex\P04_ListOperations\bin\Debug\net6.0\P04_ListOperations.exe
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Ex\P04_ListOperations\bin\Debug\net6.0\P04_ListOperations.deps.json
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Ex\P04_ListOperations\bin\Debug\net6.0\P04_ListOperations.runtimeconfig.json
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Ex\P04_ListOperations\bin\Debug\net6.0\P04_ListOperations.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Ex\P04_ListOperations\bin\Debug\net6.0\P04_ListOperations.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Ex\P04_ListOperations\obj\Debug\net6.0\P04_ListOperations.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Ex\P04_ListOperations\obj\Debug\net6.0\P04_ListOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Ex\P04_ListOperations\obj\Debug\net6.0\P04_ListOperations.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Ex\P04_ListOperations\obj\Debug\net6.0\P04_ListOperations.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Ex\P04_ListOperations\obj\Debug\net6.0\P04_ListOperations.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Ex\P04_ListOperations\obj\Debug\net6.0\P04_ListOperations.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Ex\P04_ListOperations\obj\Debug\net6.0\refint\P04_ListOperations.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Ex\P04_ListOperations\obj\Debug\net6.0\P04_ListOperations.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Ex\P04_ListOperations\obj\Debug\net6.0\P04_ListOperations.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Ex\P04_ListOperations\obj\Debug\net6.0\ref\P04_ListOperations.dll

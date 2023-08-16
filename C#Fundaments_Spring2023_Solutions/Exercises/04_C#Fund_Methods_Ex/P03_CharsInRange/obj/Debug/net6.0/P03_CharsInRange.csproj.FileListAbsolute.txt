@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P03_CharsInRange\bin\Debug\net6.0\P03_CharsInRange.exe
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P03_CharsInRange\bin\Debug\net6.0\P03_CharsInRange.deps.json
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P03_CharsInRange\bin\Debug\net6.0\P03_CharsInRange.runtimeconfig.json
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P03_CharsInRange\bin\Debug\net6.0\P03_CharsInRange.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P03_CharsInRange\bin\Debug\net6.0\P03_CharsInRange.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P03_CharsInRange\obj\Debug\net6.0\P03_CharsInRange.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P03_CharsInRange\obj\Debug\net6.0\P03_CharsInRange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P03_CharsInRange\obj\Debug\net6.0\P03_CharsInRange.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P03_CharsInRange\obj\Debug\net6.0\P03_CharsInRange.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P03_CharsInRange\obj\Debug\net6.0\P03_CharsInRange.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P03_CharsInRange\obj\Debug\net6.0\P03_CharsInRange.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P03_CharsInRange\obj\Debug\net6.0\refint\P03_CharsInRange.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P03_CharsInRange\obj\Debug\net6.0\P03_CharsInRange.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P03_CharsInRange\obj\Debug\net6.0\P03_CharsInRange.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Ex\P03_CharsInRange\obj\Debug\net6.0\ref\P03_CharsInRange.dll

@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P05_Courses\bin\Debug\net6.0\P05_Courses.exe
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P05_Courses\bin\Debug\net6.0\P05_Courses.deps.json
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P05_Courses\bin\Debug\net6.0\P05_Courses.runtimeconfig.json
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P05_Courses\bin\Debug\net6.0\P05_Courses.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P05_Courses\bin\Debug\net6.0\P05_Courses.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P05_Courses\obj\Debug\net6.0\P05_Courses.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P05_Courses\obj\Debug\net6.0\P05_Courses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P05_Courses\obj\Debug\net6.0\P05_Courses.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P05_Courses\obj\Debug\net6.0\P05_Courses.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P05_Courses\obj\Debug\net6.0\P05_Courses.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P05_Courses\obj\Debug\net6.0\P05_Courses.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P05_Courses\obj\Debug\net6.0\refint\P05_Courses.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P05_Courses\obj\Debug\net6.0\P05_Courses.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P05_Courses\obj\Debug\net6.0\P05_Courses.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_DIctionaries_Ex\P05_Courses\obj\Debug\net6.0\ref\P05_Courses.dll
