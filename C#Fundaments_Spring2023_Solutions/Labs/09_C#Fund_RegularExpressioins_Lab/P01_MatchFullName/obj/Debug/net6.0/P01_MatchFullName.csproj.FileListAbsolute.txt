@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C3Fund_RegularExpressioins_Lab\P01_MatchFullName\bin\Debug\net6.0\P01_MatchFullName.exe
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C3Fund_RegularExpressioins_Lab\P01_MatchFullName\bin\Debug\net6.0\P01_MatchFullName.deps.json
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C3Fund_RegularExpressioins_Lab\P01_MatchFullName\bin\Debug\net6.0\P01_MatchFullName.runtimeconfig.json
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C3Fund_RegularExpressioins_Lab\P01_MatchFullName\bin\Debug\net6.0\P01_MatchFullName.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C3Fund_RegularExpressioins_Lab\P01_MatchFullName\bin\Debug\net6.0\P01_MatchFullName.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C3Fund_RegularExpressioins_Lab\P01_MatchFullName\obj\Debug\net6.0\P01_MatchFullName.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C3Fund_RegularExpressioins_Lab\P01_MatchFullName\obj\Debug\net6.0\P01_MatchFullName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C3Fund_RegularExpressioins_Lab\P01_MatchFullName\obj\Debug\net6.0\P01_MatchFullName.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C3Fund_RegularExpressioins_Lab\P01_MatchFullName\obj\Debug\net6.0\P01_MatchFullName.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C3Fund_RegularExpressioins_Lab\P01_MatchFullName\obj\Debug\net6.0\P01_MatchFullName.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C3Fund_RegularExpressioins_Lab\P01_MatchFullName\obj\Debug\net6.0\P01_MatchFullName.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C3Fund_RegularExpressioins_Lab\P01_MatchFullName\obj\Debug\net6.0\refint\P01_MatchFullName.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C3Fund_RegularExpressioins_Lab\P01_MatchFullName\obj\Debug\net6.0\P01_MatchFullName.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C3Fund_RegularExpressioins_Lab\P01_MatchFullName\obj\Debug\net6.0\P01_MatchFullName.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C3Fund_RegularExpressioins_Lab\P01_MatchFullName\obj\Debug\net6.0\ref\P01_MatchFullName.dll

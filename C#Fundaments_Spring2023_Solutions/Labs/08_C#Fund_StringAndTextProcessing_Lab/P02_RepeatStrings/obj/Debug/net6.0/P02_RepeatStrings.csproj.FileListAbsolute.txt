@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringAndTextProcessing_Lab\P02_RepeatStrings\bin\Debug\net6.0\P02_RepeatStrings.exe
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringAndTextProcessing_Lab\P02_RepeatStrings\bin\Debug\net6.0\P02_RepeatStrings.deps.json
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringAndTextProcessing_Lab\P02_RepeatStrings\bin\Debug\net6.0\P02_RepeatStrings.runtimeconfig.json
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringAndTextProcessing_Lab\P02_RepeatStrings\bin\Debug\net6.0\P02_RepeatStrings.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringAndTextProcessing_Lab\P02_RepeatStrings\bin\Debug\net6.0\P02_RepeatStrings.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringAndTextProcessing_Lab\P02_RepeatStrings\obj\Debug\net6.0\P02_RepeatStrings.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringAndTextProcessing_Lab\P02_RepeatStrings\obj\Debug\net6.0\P02_RepeatStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringAndTextProcessing_Lab\P02_RepeatStrings\obj\Debug\net6.0\P02_RepeatStrings.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringAndTextProcessing_Lab\P02_RepeatStrings\obj\Debug\net6.0\P02_RepeatStrings.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringAndTextProcessing_Lab\P02_RepeatStrings\obj\Debug\net6.0\P02_RepeatStrings.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringAndTextProcessing_Lab\P02_RepeatStrings\obj\Debug\net6.0\P02_RepeatStrings.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringAndTextProcessing_Lab\P02_RepeatStrings\obj\Debug\net6.0\refint\P02_RepeatStrings.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringAndTextProcessing_Lab\P02_RepeatStrings\obj\Debug\net6.0\P02_RepeatStrings.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringAndTextProcessing_Lab\P02_RepeatStrings\obj\Debug\net6.0\P02_RepeatStrings.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringAndTextProcessing_Lab\P02_RepeatStrings\obj\Debug\net6.0\ref\P02_RepeatStrings.dll

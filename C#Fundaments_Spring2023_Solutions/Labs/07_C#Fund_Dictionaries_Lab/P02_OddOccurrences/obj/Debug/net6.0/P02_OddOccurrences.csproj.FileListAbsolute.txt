@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_AssociativeArrays\P02_OddOccurrences\bin\Debug\net6.0\P02_OddOccurrences.exe
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_AssociativeArrays\P02_OddOccurrences\bin\Debug\net6.0\P02_OddOccurrences.deps.json
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_AssociativeArrays\P02_OddOccurrences\bin\Debug\net6.0\P02_OddOccurrences.runtimeconfig.json
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_AssociativeArrays\P02_OddOccurrences\bin\Debug\net6.0\P02_OddOccurrences.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_AssociativeArrays\P02_OddOccurrences\bin\Debug\net6.0\P02_OddOccurrences.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_AssociativeArrays\P02_OddOccurrences\obj\Debug\net6.0\P02_OddOccurrences.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_AssociativeArrays\P02_OddOccurrences\obj\Debug\net6.0\P02_OddOccurrences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_AssociativeArrays\P02_OddOccurrences\obj\Debug\net6.0\P02_OddOccurrences.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_AssociativeArrays\P02_OddOccurrences\obj\Debug\net6.0\P02_OddOccurrences.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_AssociativeArrays\P02_OddOccurrences\obj\Debug\net6.0\P02_OddOccurrences.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_AssociativeArrays\P02_OddOccurrences\obj\Debug\net6.0\P02_OddOccurrences.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_AssociativeArrays\P02_OddOccurrences\obj\Debug\net6.0\refint\P02_OddOccurrences.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_AssociativeArrays\P02_OddOccurrences\obj\Debug\net6.0\P02_OddOccurrences.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_AssociativeArrays\P02_OddOccurrences\obj\Debug\net6.0\P02_OddOccurrences.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_AssociativeArrays\P02_OddOccurrences\obj\Debug\net6.0\ref\P02_OddOccurrences.dll

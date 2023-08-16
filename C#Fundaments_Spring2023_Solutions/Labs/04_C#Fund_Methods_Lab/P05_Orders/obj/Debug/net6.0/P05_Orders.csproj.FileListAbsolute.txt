@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Lab\P05_Orders\bin\Debug\net6.0\P05_Orders.exe
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Lab\P05_Orders\bin\Debug\net6.0\P05_Orders.deps.json
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Lab\P05_Orders\bin\Debug\net6.0\P05_Orders.runtimeconfig.json
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Lab\P05_Orders\bin\Debug\net6.0\P05_Orders.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Lab\P05_Orders\bin\Debug\net6.0\P05_Orders.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Lab\P05_Orders\obj\Debug\net6.0\P05_Orders.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Lab\P05_Orders\obj\Debug\net6.0\P05_Orders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Lab\P05_Orders\obj\Debug\net6.0\P05_Orders.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Lab\P05_Orders\obj\Debug\net6.0\P05_Orders.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Lab\P05_Orders\obj\Debug\net6.0\P05_Orders.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Lab\P05_Orders\obj\Debug\net6.0\P05_Orders.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Lab\P05_Orders\obj\Debug\net6.0\refint\P05_Orders.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Lab\P05_Orders\obj\Debug\net6.0\P05_Orders.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Lab\P05_Orders\obj\Debug\net6.0\P05_Orders.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Lab\P05_Orders\obj\Debug\net6.0\ref\P05_Orders.dll

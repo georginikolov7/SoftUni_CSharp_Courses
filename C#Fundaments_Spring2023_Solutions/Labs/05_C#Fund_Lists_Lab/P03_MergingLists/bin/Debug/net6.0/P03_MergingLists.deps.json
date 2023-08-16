@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "P03_MergingLists/1.0.0": {
+        "runtime": {
+          "P03_MergingLists.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P03_MergingLists/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Lab\P10_MultiplyEvensByOdds\bin\Debug\net6.0\P10_MultiplyEvensByOdds.exe
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Lab\P10_MultiplyEvensByOdds\bin\Debug\net6.0\P10_MultiplyEvensByOdds.deps.json
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Lab\P10_MultiplyEvensByOdds\bin\Debug\net6.0\P10_MultiplyEvensByOdds.runtimeconfig.json
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Lab\P10_MultiplyEvensByOdds\bin\Debug\net6.0\P10_MultiplyEvensByOdds.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Lab\P10_MultiplyEvensByOdds\bin\Debug\net6.0\P10_MultiplyEvensByOdds.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Lab\P10_MultiplyEvensByOdds\obj\Debug\net6.0\P10_MultiplyEvensByOdds.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Lab\P10_MultiplyEvensByOdds\obj\Debug\net6.0\P10_MultiplyEvensByOdds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Lab\P10_MultiplyEvensByOdds\obj\Debug\net6.0\P10_MultiplyEvensByOdds.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Lab\P10_MultiplyEvensByOdds\obj\Debug\net6.0\P10_MultiplyEvensByOdds.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Lab\P10_MultiplyEvensByOdds\obj\Debug\net6.0\P10_MultiplyEvensByOdds.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Lab\P10_MultiplyEvensByOdds\obj\Debug\net6.0\P10_MultiplyEvensByOdds.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Lab\P10_MultiplyEvensByOdds\obj\Debug\net6.0\refint\P10_MultiplyEvensByOdds.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Lab\P10_MultiplyEvensByOdds\obj\Debug\net6.0\P10_MultiplyEvensByOdds.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Lab\P10_MultiplyEvensByOdds\obj\Debug\net6.0\P10_MultiplyEvensByOdds.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Lab\P10_MultiplyEvensByOdds\obj\Debug\net6.0\ref\P10_MultiplyEvensByOdds.dll

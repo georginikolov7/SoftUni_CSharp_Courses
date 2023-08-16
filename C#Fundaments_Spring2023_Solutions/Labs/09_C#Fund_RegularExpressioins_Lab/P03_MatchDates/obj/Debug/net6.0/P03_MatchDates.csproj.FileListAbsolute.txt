@@ -1,0 +1,30 @@
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C3Fund_RegularExpressioins_Lab\P03_MatchDates\bin\Debug\net6.0\P03_MatchDates.exe
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C3Fund_RegularExpressioins_Lab\P03_MatchDates\bin\Debug\net6.0\P03_MatchDates.deps.json
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C3Fund_RegularExpressioins_Lab\P03_MatchDates\bin\Debug\net6.0\P03_MatchDates.runtimeconfig.json
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C3Fund_RegularExpressioins_Lab\P03_MatchDates\bin\Debug\net6.0\P03_MatchDates.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C3Fund_RegularExpressioins_Lab\P03_MatchDates\bin\Debug\net6.0\P03_MatchDates.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C3Fund_RegularExpressioins_Lab\P03_MatchDates\obj\Debug\net6.0\P03_MatchDates.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C3Fund_RegularExpressioins_Lab\P03_MatchDates\obj\Debug\net6.0\P03_MatchDates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C3Fund_RegularExpressioins_Lab\P03_MatchDates\obj\Debug\net6.0\P03_MatchDates.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C3Fund_RegularExpressioins_Lab\P03_MatchDates\obj\Debug\net6.0\P03_MatchDates.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C3Fund_RegularExpressioins_Lab\P03_MatchDates\obj\Debug\net6.0\P03_MatchDates.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C3Fund_RegularExpressioins_Lab\P03_MatchDates\obj\Debug\net6.0\P03_MatchDates.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C3Fund_RegularExpressioins_Lab\P03_MatchDates\obj\Debug\net6.0\refint\P03_MatchDates.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C3Fund_RegularExpressioins_Lab\P03_MatchDates\obj\Debug\net6.0\P03_MatchDates.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C3Fund_RegularExpressioins_Lab\P03_MatchDates\obj\Debug\net6.0\P03_MatchDates.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C3Fund_RegularExpressioins_Lab\P03_MatchDates\obj\Debug\net6.0\ref\P03_MatchDates.dll
+C:\Users\Test\Desktop\Temp\09_C#Fund_RegularExpressioins_Lab\P03_MatchDates\bin\Debug\net6.0\P03_MatchDates.exe
+C:\Users\Test\Desktop\Temp\09_C#Fund_RegularExpressioins_Lab\P03_MatchDates\bin\Debug\net6.0\P03_MatchDates.deps.json
+C:\Users\Test\Desktop\Temp\09_C#Fund_RegularExpressioins_Lab\P03_MatchDates\bin\Debug\net6.0\P03_MatchDates.runtimeconfig.json
+C:\Users\Test\Desktop\Temp\09_C#Fund_RegularExpressioins_Lab\P03_MatchDates\bin\Debug\net6.0\P03_MatchDates.dll
+C:\Users\Test\Desktop\Temp\09_C#Fund_RegularExpressioins_Lab\P03_MatchDates\bin\Debug\net6.0\P03_MatchDates.pdb
+C:\Users\Test\Desktop\Temp\09_C#Fund_RegularExpressioins_Lab\P03_MatchDates\obj\Debug\net6.0\P03_MatchDates.csproj.AssemblyReference.cache
+C:\Users\Test\Desktop\Temp\09_C#Fund_RegularExpressioins_Lab\P03_MatchDates\obj\Debug\net6.0\P03_MatchDates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Test\Desktop\Temp\09_C#Fund_RegularExpressioins_Lab\P03_MatchDates\obj\Debug\net6.0\P03_MatchDates.AssemblyInfoInputs.cache
+C:\Users\Test\Desktop\Temp\09_C#Fund_RegularExpressioins_Lab\P03_MatchDates\obj\Debug\net6.0\P03_MatchDates.AssemblyInfo.cs
+C:\Users\Test\Desktop\Temp\09_C#Fund_RegularExpressioins_Lab\P03_MatchDates\obj\Debug\net6.0\P03_MatchDates.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\Temp\09_C#Fund_RegularExpressioins_Lab\P03_MatchDates\obj\Debug\net6.0\P03_MatchDates.dll
+C:\Users\Test\Desktop\Temp\09_C#Fund_RegularExpressioins_Lab\P03_MatchDates\obj\Debug\net6.0\refint\P03_MatchDates.dll
+C:\Users\Test\Desktop\Temp\09_C#Fund_RegularExpressioins_Lab\P03_MatchDates\obj\Debug\net6.0\P03_MatchDates.pdb
+C:\Users\Test\Desktop\Temp\09_C#Fund_RegularExpressioins_Lab\P03_MatchDates\obj\Debug\net6.0\P03_MatchDates.genruntimeconfig.cache
+C:\Users\Test\Desktop\Temp\09_C#Fund_RegularExpressioins_Lab\P03_MatchDates\obj\Debug\net6.0\ref\P03_MatchDates.dll

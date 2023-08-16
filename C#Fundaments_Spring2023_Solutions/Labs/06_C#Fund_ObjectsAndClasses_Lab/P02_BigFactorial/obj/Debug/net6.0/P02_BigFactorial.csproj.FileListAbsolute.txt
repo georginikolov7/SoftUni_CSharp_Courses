@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Lab\P02_BigFactorial\bin\Debug\net6.0\P02_BigFactorial.exe
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Lab\P02_BigFactorial\bin\Debug\net6.0\P02_BigFactorial.deps.json
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Lab\P02_BigFactorial\bin\Debug\net6.0\P02_BigFactorial.runtimeconfig.json
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Lab\P02_BigFactorial\bin\Debug\net6.0\P02_BigFactorial.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Lab\P02_BigFactorial\bin\Debug\net6.0\P02_BigFactorial.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Lab\P02_BigFactorial\obj\Debug\net6.0\P02_BigFactorial.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Lab\P02_BigFactorial\obj\Debug\net6.0\P02_BigFactorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Lab\P02_BigFactorial\obj\Debug\net6.0\P02_BigFactorial.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Lab\P02_BigFactorial\obj\Debug\net6.0\P02_BigFactorial.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Lab\P02_BigFactorial\obj\Debug\net6.0\P02_BigFactorial.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Lab\P02_BigFactorial\obj\Debug\net6.0\P02_BigFactorial.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Lab\P02_BigFactorial\obj\Debug\net6.0\refint\P02_BigFactorial.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Lab\P02_BigFactorial\obj\Debug\net6.0\P02_BigFactorial.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Lab\P02_BigFactorial\obj\Debug\net6.0\P02_BigFactorial.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Lab\P02_BigFactorial\obj\Debug\net6.0\ref\P02_BigFactorial.dll

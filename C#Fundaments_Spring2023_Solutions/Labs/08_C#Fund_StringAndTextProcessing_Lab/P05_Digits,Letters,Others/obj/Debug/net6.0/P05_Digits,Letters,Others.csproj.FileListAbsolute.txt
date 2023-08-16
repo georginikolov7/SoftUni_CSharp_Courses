@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringAndTextProcessing_Lab\P05_Digits,Letters,Others\bin\Debug\net6.0\P05_Digits,Letters,Others.exe
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringAndTextProcessing_Lab\P05_Digits,Letters,Others\bin\Debug\net6.0\P05_Digits,Letters,Others.deps.json
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringAndTextProcessing_Lab\P05_Digits,Letters,Others\bin\Debug\net6.0\P05_Digits,Letters,Others.runtimeconfig.json
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringAndTextProcessing_Lab\P05_Digits,Letters,Others\bin\Debug\net6.0\P05_Digits,Letters,Others.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringAndTextProcessing_Lab\P05_Digits,Letters,Others\bin\Debug\net6.0\P05_Digits,Letters,Others.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringAndTextProcessing_Lab\P05_Digits,Letters,Others\obj\Debug\net6.0\P05_Digits,Letters,Others.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringAndTextProcessing_Lab\P05_Digits,Letters,Others\obj\Debug\net6.0\P05_Digits,Letters,Others.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringAndTextProcessing_Lab\P05_Digits,Letters,Others\obj\Debug\net6.0\P05_Digits,Letters,Others.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringAndTextProcessing_Lab\P05_Digits,Letters,Others\obj\Debug\net6.0\P05_Digits,Letters,Others.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringAndTextProcessing_Lab\P05_Digits,Letters,Others\obj\Debug\net6.0\P05_Digits,Letters,Others.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringAndTextProcessing_Lab\P05_Digits,Letters,Others\obj\Debug\net6.0\P05_Digits,Letters,Others.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringAndTextProcessing_Lab\P05_Digits,Letters,Others\obj\Debug\net6.0\refint\P05_Digits,Letters,Others.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringAndTextProcessing_Lab\P05_Digits,Letters,Others\obj\Debug\net6.0\P05_Digits,Letters,Others.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringAndTextProcessing_Lab\P05_Digits,Letters,Others\obj\Debug\net6.0\P05_Digits,Letters,Others.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringAndTextProcessing_Lab\P05_Digits,Letters,Others\obj\Debug\net6.0\ref\P05_Digits,Letters,Others.dll

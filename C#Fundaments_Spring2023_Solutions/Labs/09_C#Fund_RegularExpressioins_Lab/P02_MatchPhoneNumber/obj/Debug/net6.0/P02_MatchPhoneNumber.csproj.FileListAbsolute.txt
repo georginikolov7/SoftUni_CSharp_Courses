@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C3Fund_RegularExpressioins_Lab\P02_MatchPhoneNumber\bin\Debug\net6.0\P02_MatchPhoneNumber.exe
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C3Fund_RegularExpressioins_Lab\P02_MatchPhoneNumber\bin\Debug\net6.0\P02_MatchPhoneNumber.deps.json
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C3Fund_RegularExpressioins_Lab\P02_MatchPhoneNumber\bin\Debug\net6.0\P02_MatchPhoneNumber.runtimeconfig.json
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C3Fund_RegularExpressioins_Lab\P02_MatchPhoneNumber\bin\Debug\net6.0\P02_MatchPhoneNumber.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C3Fund_RegularExpressioins_Lab\P02_MatchPhoneNumber\bin\Debug\net6.0\P02_MatchPhoneNumber.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C3Fund_RegularExpressioins_Lab\P02_MatchPhoneNumber\obj\Debug\net6.0\P02_MatchPhoneNumber.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C3Fund_RegularExpressioins_Lab\P02_MatchPhoneNumber\obj\Debug\net6.0\P02_MatchPhoneNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C3Fund_RegularExpressioins_Lab\P02_MatchPhoneNumber\obj\Debug\net6.0\P02_MatchPhoneNumber.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C3Fund_RegularExpressioins_Lab\P02_MatchPhoneNumber\obj\Debug\net6.0\P02_MatchPhoneNumber.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C3Fund_RegularExpressioins_Lab\P02_MatchPhoneNumber\obj\Debug\net6.0\P02_MatchPhoneNumber.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C3Fund_RegularExpressioins_Lab\P02_MatchPhoneNumber\obj\Debug\net6.0\P02_MatchPhoneNumber.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C3Fund_RegularExpressioins_Lab\P02_MatchPhoneNumber\obj\Debug\net6.0\refint\P02_MatchPhoneNumber.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C3Fund_RegularExpressioins_Lab\P02_MatchPhoneNumber\obj\Debug\net6.0\P02_MatchPhoneNumber.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C3Fund_RegularExpressioins_Lab\P02_MatchPhoneNumber\obj\Debug\net6.0\P02_MatchPhoneNumber.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\09_C3Fund_RegularExpressioins_Lab\P02_MatchPhoneNumber\obj\Debug\net6.0\ref\P02_MatchPhoneNumber.dll

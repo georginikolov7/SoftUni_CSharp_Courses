@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Lab\P04_Products\bin\Debug\net6.0\P04_Products.exe
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Lab\P04_Products\bin\Debug\net6.0\P04_Products.deps.json
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Lab\P04_Products\bin\Debug\net6.0\P04_Products.runtimeconfig.json
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Lab\P04_Products\bin\Debug\net6.0\P04_Products.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Lab\P04_Products\bin\Debug\net6.0\P04_Products.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Lab\P04_Products\obj\Debug\net6.0\P04_Products.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Lab\P04_Products\obj\Debug\net6.0\P04_Products.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Lab\P04_Products\obj\Debug\net6.0\P04_Products.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Lab\P04_Products\obj\Debug\net6.0\P04_Products.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Lab\P04_Products\obj\Debug\net6.0\P04_Products.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Lab\P04_Products\obj\Debug\net6.0\P04_Products.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Lab\P04_Products\obj\Debug\net6.0\refint\P04_Products.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Lab\P04_Products\obj\Debug\net6.0\P04_Products.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Lab\P04_Products\obj\Debug\net6.0\P04_Products.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Lab\P04_Products\obj\Debug\net6.0\ref\P04_Products.dll

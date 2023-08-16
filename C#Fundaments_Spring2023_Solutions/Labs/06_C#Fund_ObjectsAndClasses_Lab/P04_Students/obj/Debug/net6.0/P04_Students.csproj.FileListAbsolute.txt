@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Lab\P04_Students\bin\Debug\net6.0\P04_Students.exe
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Lab\P04_Students\bin\Debug\net6.0\P04_Students.deps.json
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Lab\P04_Students\bin\Debug\net6.0\P04_Students.runtimeconfig.json
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Lab\P04_Students\bin\Debug\net6.0\P04_Students.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Lab\P04_Students\bin\Debug\net6.0\P04_Students.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Lab\P04_Students\obj\Debug\net6.0\P04_Students.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Lab\P04_Students\obj\Debug\net6.0\P04_Students.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Lab\P04_Students\obj\Debug\net6.0\P04_Students.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Lab\P04_Students\obj\Debug\net6.0\P04_Students.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Lab\P04_Students\obj\Debug\net6.0\P04_Students.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Lab\P04_Students\obj\Debug\net6.0\P04_Students.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Lab\P04_Students\obj\Debug\net6.0\refint\P04_Students.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Lab\P04_Students\obj\Debug\net6.0\P04_Students.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Lab\P04_Students\obj\Debug\net6.0\P04_Students.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Lab\P04_Students\obj\Debug\net6.0\ref\P04_Students.dll

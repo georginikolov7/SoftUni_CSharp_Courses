@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Lab\P05_RemoveNegAndReverse\bin\Debug\net6.0\P05_RemoveNegAndReverse.exe
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Lab\P05_RemoveNegAndReverse\bin\Debug\net6.0\P05_RemoveNegAndReverse.deps.json
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Lab\P05_RemoveNegAndReverse\bin\Debug\net6.0\P05_RemoveNegAndReverse.runtimeconfig.json
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Lab\P05_RemoveNegAndReverse\bin\Debug\net6.0\P05_RemoveNegAndReverse.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Lab\P05_RemoveNegAndReverse\bin\Debug\net6.0\P05_RemoveNegAndReverse.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Lab\P05_RemoveNegAndReverse\obj\Debug\net6.0\P05_RemoveNegAndReverse.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Lab\P05_RemoveNegAndReverse\obj\Debug\net6.0\P05_RemoveNegAndReverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Lab\P05_RemoveNegAndReverse\obj\Debug\net6.0\P05_RemoveNegAndReverse.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Lab\P05_RemoveNegAndReverse\obj\Debug\net6.0\P05_RemoveNegAndReverse.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Lab\P05_RemoveNegAndReverse\obj\Debug\net6.0\P05_RemoveNegAndReverse.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Lab\P05_RemoveNegAndReverse\obj\Debug\net6.0\P05_RemoveNegAndReverse.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Lab\P05_RemoveNegAndReverse\obj\Debug\net6.0\refint\P05_RemoveNegAndReverse.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Lab\P05_RemoveNegAndReverse\obj\Debug\net6.0\P05_RemoveNegAndReverse.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Lab\P05_RemoveNegAndReverse\obj\Debug\net6.0\P05_RemoveNegAndReverse.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Lab\P05_RemoveNegAndReverse\obj\Debug\net6.0\ref\P05_RemoveNegAndReverse.dll

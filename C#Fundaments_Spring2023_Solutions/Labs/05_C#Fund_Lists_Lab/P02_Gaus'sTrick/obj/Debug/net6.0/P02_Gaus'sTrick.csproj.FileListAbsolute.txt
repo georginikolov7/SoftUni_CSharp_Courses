@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Lab\P02_Gaus'sTrick\bin\Debug\net6.0\P02_Gaus'sTrick.exe
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Lab\P02_Gaus'sTrick\bin\Debug\net6.0\P02_Gaus'sTrick.deps.json
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Lab\P02_Gaus'sTrick\bin\Debug\net6.0\P02_Gaus'sTrick.runtimeconfig.json
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Lab\P02_Gaus'sTrick\bin\Debug\net6.0\P02_Gaus'sTrick.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Lab\P02_Gaus'sTrick\bin\Debug\net6.0\P02_Gaus'sTrick.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Lab\P02_Gaus'sTrick\obj\Debug\net6.0\P02_Gaus'sTrick.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Lab\P02_Gaus'sTrick\obj\Debug\net6.0\P02_Gaus'sTrick.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Lab\P02_Gaus'sTrick\obj\Debug\net6.0\P02_Gaus'sTrick.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Lab\P02_Gaus'sTrick\obj\Debug\net6.0\P02_Gaus'sTrick.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Lab\P02_Gaus'sTrick\obj\Debug\net6.0\P02_Gaus'sTrick.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Lab\P02_Gaus'sTrick\obj\Debug\net6.0\P02_Gaus'sTrick.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Lab\P02_Gaus'sTrick\obj\Debug\net6.0\refint\P02_Gaus'sTrick.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Lab\P02_Gaus'sTrick\obj\Debug\net6.0\P02_Gaus'sTrick.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Lab\P02_Gaus'sTrick\obj\Debug\net6.0\P02_Gaus'sTrick.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\05_C#Fund_Lists_Lab\P02_Gaus'sTrick\obj\Debug\net6.0\ref\P02_Gaus'sTrick.dll

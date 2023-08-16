@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_AssociativeArrays\P03_WordSynonyms\bin\Debug\net6.0\P03_WordSynonyms.exe
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_AssociativeArrays\P03_WordSynonyms\bin\Debug\net6.0\P03_WordSynonyms.deps.json
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_AssociativeArrays\P03_WordSynonyms\bin\Debug\net6.0\P03_WordSynonyms.runtimeconfig.json
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_AssociativeArrays\P03_WordSynonyms\bin\Debug\net6.0\P03_WordSynonyms.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_AssociativeArrays\P03_WordSynonyms\bin\Debug\net6.0\P03_WordSynonyms.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_AssociativeArrays\P03_WordSynonyms\obj\Debug\net6.0\P03_WordSynonyms.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_AssociativeArrays\P03_WordSynonyms\obj\Debug\net6.0\P03_WordSynonyms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_AssociativeArrays\P03_WordSynonyms\obj\Debug\net6.0\P03_WordSynonyms.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_AssociativeArrays\P03_WordSynonyms\obj\Debug\net6.0\P03_WordSynonyms.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_AssociativeArrays\P03_WordSynonyms\obj\Debug\net6.0\P03_WordSynonyms.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_AssociativeArrays\P03_WordSynonyms\obj\Debug\net6.0\P03_WordSynonyms.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_AssociativeArrays\P03_WordSynonyms\obj\Debug\net6.0\refint\P03_WordSynonyms.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_AssociativeArrays\P03_WordSynonyms\obj\Debug\net6.0\P03_WordSynonyms.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_AssociativeArrays\P03_WordSynonyms\obj\Debug\net6.0\P03_WordSynonyms.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_AssociativeArrays\P03_WordSynonyms\obj\Debug\net6.0\ref\P03_WordSynonyms.dll

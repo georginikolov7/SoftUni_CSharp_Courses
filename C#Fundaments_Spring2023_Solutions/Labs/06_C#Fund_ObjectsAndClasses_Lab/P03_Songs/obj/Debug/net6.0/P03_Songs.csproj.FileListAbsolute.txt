@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Lab\P03_Songs\bin\Debug\net6.0\P03_Songs.exe
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Lab\P03_Songs\bin\Debug\net6.0\P03_Songs.deps.json
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Lab\P03_Songs\bin\Debug\net6.0\P03_Songs.runtimeconfig.json
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Lab\P03_Songs\bin\Debug\net6.0\P03_Songs.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Lab\P03_Songs\bin\Debug\net6.0\P03_Songs.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Lab\P03_Songs\obj\Debug\net6.0\P03_Songs.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Lab\P03_Songs\obj\Debug\net6.0\P03_Songs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Lab\P03_Songs\obj\Debug\net6.0\P03_Songs.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Lab\P03_Songs\obj\Debug\net6.0\P03_Songs.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Lab\P03_Songs\obj\Debug\net6.0\P03_Songs.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Lab\P03_Songs\obj\Debug\net6.0\P03_Songs.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Lab\P03_Songs\obj\Debug\net6.0\refint\P03_Songs.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Lab\P03_Songs\obj\Debug\net6.0\P03_Songs.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Lab\P03_Songs\obj\Debug\net6.0\P03_Songs.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Lab\P03_Songs\obj\Debug\net6.0\ref\P03_Songs.dll

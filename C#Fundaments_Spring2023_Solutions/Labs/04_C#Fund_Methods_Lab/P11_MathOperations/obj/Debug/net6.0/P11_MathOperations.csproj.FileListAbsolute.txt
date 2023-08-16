@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Lab\P11_MathOperations\bin\Debug\net6.0\P11_MathOperations.exe
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Lab\P11_MathOperations\bin\Debug\net6.0\P11_MathOperations.deps.json
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Lab\P11_MathOperations\bin\Debug\net6.0\P11_MathOperations.runtimeconfig.json
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Lab\P11_MathOperations\bin\Debug\net6.0\P11_MathOperations.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Lab\P11_MathOperations\bin\Debug\net6.0\P11_MathOperations.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Lab\P11_MathOperations\obj\Debug\net6.0\P11_MathOperations.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Lab\P11_MathOperations\obj\Debug\net6.0\P11_MathOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Lab\P11_MathOperations\obj\Debug\net6.0\P11_MathOperations.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Lab\P11_MathOperations\obj\Debug\net6.0\P11_MathOperations.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Lab\P11_MathOperations\obj\Debug\net6.0\P11_MathOperations.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Lab\P11_MathOperations\obj\Debug\net6.0\P11_MathOperations.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Lab\P11_MathOperations\obj\Debug\net6.0\refint\P11_MathOperations.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Lab\P11_MathOperations\obj\Debug\net6.0\P11_MathOperations.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Lab\P11_MathOperations\obj\Debug\net6.0\P11_MathOperations.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Lab\P11_MathOperations\obj\Debug\net6.0\ref\P11_MathOperations.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "P07_VihicleCatalogue/1.0.0": {
+        "runtime": {
+          "P07_VihicleCatalogue.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P07_VihicleCatalogue/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

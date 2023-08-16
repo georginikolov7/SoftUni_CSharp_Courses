@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_AssociativeArrays\P04_WordFilters\bin\Debug\net6.0\P04_WordFilters.exe
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_AssociativeArrays\P04_WordFilters\bin\Debug\net6.0\P04_WordFilters.deps.json
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_AssociativeArrays\P04_WordFilters\bin\Debug\net6.0\P04_WordFilters.runtimeconfig.json
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_AssociativeArrays\P04_WordFilters\bin\Debug\net6.0\P04_WordFilters.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_AssociativeArrays\P04_WordFilters\bin\Debug\net6.0\P04_WordFilters.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_AssociativeArrays\P04_WordFilters\obj\Debug\net6.0\P04_WordFilters.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_AssociativeArrays\P04_WordFilters\obj\Debug\net6.0\P04_WordFilters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_AssociativeArrays\P04_WordFilters\obj\Debug\net6.0\P04_WordFilters.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_AssociativeArrays\P04_WordFilters\obj\Debug\net6.0\P04_WordFilters.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_AssociativeArrays\P04_WordFilters\obj\Debug\net6.0\P04_WordFilters.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_AssociativeArrays\P04_WordFilters\obj\Debug\net6.0\P04_WordFilters.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_AssociativeArrays\P04_WordFilters\obj\Debug\net6.0\refint\P04_WordFilters.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_AssociativeArrays\P04_WordFilters\obj\Debug\net6.0\P04_WordFilters.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_AssociativeArrays\P04_WordFilters\obj\Debug\net6.0\P04_WordFilters.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\07_C#Fund_AssociativeArrays\P04_WordFilters\obj\Debug\net6.0\ref\P04_WordFilters.dll

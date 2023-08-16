@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Lab\P01_SignOfInts\bin\Debug\net6.0\P01_SignOfInts.exe
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Lab\P01_SignOfInts\bin\Debug\net6.0\P01_SignOfInts.deps.json
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Lab\P01_SignOfInts\bin\Debug\net6.0\P01_SignOfInts.runtimeconfig.json
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Lab\P01_SignOfInts\bin\Debug\net6.0\P01_SignOfInts.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Lab\P01_SignOfInts\bin\Debug\net6.0\P01_SignOfInts.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Lab\P01_SignOfInts\obj\Debug\net6.0\P01_SignOfInts.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Lab\P01_SignOfInts\obj\Debug\net6.0\P01_SignOfInts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Lab\P01_SignOfInts\obj\Debug\net6.0\P01_SignOfInts.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Lab\P01_SignOfInts\obj\Debug\net6.0\P01_SignOfInts.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Lab\P01_SignOfInts\obj\Debug\net6.0\P01_SignOfInts.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Lab\P01_SignOfInts\obj\Debug\net6.0\P01_SignOfInts.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Lab\P01_SignOfInts\obj\Debug\net6.0\refint\P01_SignOfInts.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Lab\P01_SignOfInts\obj\Debug\net6.0\P01_SignOfInts.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Lab\P01_SignOfInts\obj\Debug\net6.0\P01_SignOfInts.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\04_C#Fund_Methods_Lab\P01_SignOfInts\obj\Debug\net6.0\ref\P01_SignOfInts.dll

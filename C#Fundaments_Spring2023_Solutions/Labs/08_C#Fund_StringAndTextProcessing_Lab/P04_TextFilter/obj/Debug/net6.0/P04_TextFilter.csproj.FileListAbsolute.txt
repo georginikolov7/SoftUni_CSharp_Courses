@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringAndTextProcessing_Lab\P04_TextFilter\bin\Debug\net6.0\P04_TextFilter.exe
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringAndTextProcessing_Lab\P04_TextFilter\bin\Debug\net6.0\P04_TextFilter.deps.json
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringAndTextProcessing_Lab\P04_TextFilter\bin\Debug\net6.0\P04_TextFilter.runtimeconfig.json
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringAndTextProcessing_Lab\P04_TextFilter\bin\Debug\net6.0\P04_TextFilter.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringAndTextProcessing_Lab\P04_TextFilter\bin\Debug\net6.0\P04_TextFilter.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringAndTextProcessing_Lab\P04_TextFilter\obj\Debug\net6.0\P04_TextFilter.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringAndTextProcessing_Lab\P04_TextFilter\obj\Debug\net6.0\P04_TextFilter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringAndTextProcessing_Lab\P04_TextFilter\obj\Debug\net6.0\P04_TextFilter.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringAndTextProcessing_Lab\P04_TextFilter\obj\Debug\net6.0\P04_TextFilter.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringAndTextProcessing_Lab\P04_TextFilter\obj\Debug\net6.0\P04_TextFilter.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringAndTextProcessing_Lab\P04_TextFilter\obj\Debug\net6.0\P04_TextFilter.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringAndTextProcessing_Lab\P04_TextFilter\obj\Debug\net6.0\refint\P04_TextFilter.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringAndTextProcessing_Lab\P04_TextFilter\obj\Debug\net6.0\P04_TextFilter.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringAndTextProcessing_Lab\P04_TextFilter\obj\Debug\net6.0\P04_TextFilter.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\08_C#Fund_StringAndTextProcessing_Lab\P04_TextFilter\obj\Debug\net6.0\ref\P04_TextFilter.dll

@@ -1,0 +1,15 @@
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Lab\P06_StoreBoxes\bin\Debug\net6.0\P06_StoreBoxes.exe
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Lab\P06_StoreBoxes\bin\Debug\net6.0\P06_StoreBoxes.deps.json
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Lab\P06_StoreBoxes\bin\Debug\net6.0\P06_StoreBoxes.runtimeconfig.json
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Lab\P06_StoreBoxes\bin\Debug\net6.0\P06_StoreBoxes.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Lab\P06_StoreBoxes\bin\Debug\net6.0\P06_StoreBoxes.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Lab\P06_StoreBoxes\obj\Debug\net6.0\P06_StoreBoxes.csproj.AssemblyReference.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Lab\P06_StoreBoxes\obj\Debug\net6.0\P06_StoreBoxes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Lab\P06_StoreBoxes\obj\Debug\net6.0\P06_StoreBoxes.AssemblyInfoInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Lab\P06_StoreBoxes\obj\Debug\net6.0\P06_StoreBoxes.AssemblyInfo.cs
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Lab\P06_StoreBoxes\obj\Debug\net6.0\P06_StoreBoxes.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Lab\P06_StoreBoxes\obj\Debug\net6.0\P06_StoreBoxes.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Lab\P06_StoreBoxes\obj\Debug\net6.0\refint\P06_StoreBoxes.dll
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Lab\P06_StoreBoxes\obj\Debug\net6.0\P06_StoreBoxes.pdb
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Lab\P06_StoreBoxes\obj\Debug\net6.0\P06_StoreBoxes.genruntimeconfig.cache
+C:\Users\Georgi Nikolov\Desktop\Temp\06_C#Fund_ObjectsAndClasses_Lab\P06_StoreBoxes\obj\Debug\net6.0\ref\P06_StoreBoxes.dll
