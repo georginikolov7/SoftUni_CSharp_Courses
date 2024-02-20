@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    padding: 2em;
+    background-color: #eee;
+}
+
+.gallery {
+    max-width: 50em;
+    margin: 0 auto;
+}
+
+.gallery ul {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    list-style: none;
+    gap: 1em;
+}
+
+.gallery li {
+    padding: 1.5em;
+    border: 6px solid black;
+    flex: 0 0 250px;
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+    box-shadow: 0 0 1em 0 rgb(0, 0, 0, 0.3),
+        0 0 0.3em 0 rgba(0, 0, 0, 0.4) inset;
+}
+
+img {
+    display: block;
+    width: 100%;
+    height: auto;
+}

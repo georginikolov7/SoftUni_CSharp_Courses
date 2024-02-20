@@ -1,0 +1,114 @@
+@import url(nav.css);
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font: 16px/1.5 Arial Sans-Serif;
+}
+
+body {
+    font: inherit;
+}
+
+body {
+    padding: 2em;
+}
+
+body>.container {
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+    margin: 0 auto;
+    max-width: 600px;
+    flex-wrap: wrap;
+}
+
+header,
+aside,
+main,
+footer {
+    background-color: lightskyblue;
+}
+
+header,
+footer {
+    display: flex;
+    align-items: center;
+    flex: 0 0 100%;
+    padding: 0.5em;
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+}
+
+header .site-title {
+    align-self: flex-start;
+    font-weight: bold;
+    padding-left: 0.5em;
+    font-size: 2em;
+}
+
+header nav ul {
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+}
+
+aside {
+    padding: 0.5em;
+    flex: 0 1 20%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+
+}
+
+aside nav {
+    display: flex;
+    justify-content: center;
+}
+
+aside nav a {
+
+    color: rgb(103, 49, 154);
+}
+
+main {
+    flex: 1 0 auto;
+    padding: 0.5em;
+}
+
+main>h2 {
+    padding: 0.5em 0 1em 0;
+}
+
+main ul {
+    padding-left: 2em;
+}
+
+@media (min-width: 500px) {
+    html {
+        font-size: 16px;
+    }
+
+    body>.container {
+        flex-direction: row;
+    }
+
+    header {
+        flex-direction: row;
+    }
+    header .site-title{
+        padding-right: 2em;
+    }
+    header nav ul {
+        flex-direction: row;
+    }
+
+}

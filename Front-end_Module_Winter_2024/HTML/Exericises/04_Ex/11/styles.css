@@ -1,0 +1,35 @@
+html {
+    font: 16px/1.5 Arial, Helvetica, sans-serif;
+}
+
+body {
+    width: 650px;
+    padding: 40px 24px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+blockquote {
+    border-left-color: rgb(221, 221, 221);
+    font-style: italic;
+}
+
+blockquote cite {
+    text-align: right;
+}
+table{
+    width:650px ;
+}
+table tr th{
+    background-color: rgb(150, 150, 150);
+}
+table tr:nth-child(even){
+    background-color: rgb(220, 220, 220);
+}

@@ -1,0 +1,56 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+html {
+    font: 16px/1.5 Arial, Helvetica, sans-serif;
+}
+
+body {
+    font: inherit;
+}
+
+body {
+    background-color: rgb(238, 238, 238);
+}
+
+.card {
+    background-color: rgb(255, 255, 255);
+    max-width: 400px;
+    height: auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    box-shadow: 0 0 0.8em 0.2em rgb(0, 0, 0, 0.4);
+}
+.card img{
+    width: 100%;
+    height: auto;
+    display: block;
+}
+.card .text {
+    padding: 1em 2em;
+    height: 130px;
+}
+
+.card .text h3 {
+    font: 1em/1.2 Georgia, 'Times New Roman', Times, serif;
+    font-weight: 700;
+    margin-bottom: 0.8em;
+}
+
+.card button {
+    margin-top: 2em;
+    padding: 0.6em 0.8em;
+    background-color: rgb(0, 153, 0);
+    position: absolute;
+    right: 20px;
+    bottom: 20px;
+}
+
+.card button a {
+    color: #fff;
+    text-decoration: none;
+}

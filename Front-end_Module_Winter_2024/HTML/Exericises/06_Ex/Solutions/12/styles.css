@@ -1,0 +1,143 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font: 16px/1.5 Georgia, 'Times New Roman', Times, serif;
+}
+
+body {
+    font: inherit;
+    background-color: rgb(238, 238, 238);
+    padding: 3em 4em;
+}
+
+.container {
+    position: relative;
+}
+
+.site-header {
+    position: relative;
+    margin-bottom: 1.5em;
+    border-bottom: 2px solid gray;
+}
+
+.site-header .site-title {
+    font: 36px Helvetica, sans-serif;
+    font-weight: 600;
+    text-transform: uppercase;
+    display: inline-block;
+}
+
+header nav {
+    display: inline-block;
+    position: absolute;
+    right: 0;
+    top: 20%;
+}
+
+
+header nav li {
+    display: inline;
+    padding: 0.5em;
+    margin: 0.5em;
+}
+
+header nav a {
+    text-decoration: none;
+    color: darkgreen;
+    font-weight: 300;
+}
+
+main {
+    display: inline-block;
+    width: 65%;
+    position: relative;
+    margin-right: 3em;
+}
+
+main p {
+    margin-bottom: 1.2em;
+}
+
+main header {
+    margin-bottom: 2.4em;
+}
+
+h1 {
+    margin-bottom: 1em;
+}
+
+main header section {
+    position: relative;
+}
+
+main img {
+    float: right;
+    padding: 0.4em;
+    border: 3px solid rgb(0, 0, 0, 0.7);
+}
+
+main header img {
+
+    margin-bottom: 1em;
+    margin-left: 1em;
+}
+
+main h2 {
+    margin-bottom: 0.3em;
+}
+
+main section {
+    position: relative;
+}
+
+main .first-section div {
+    position: relative;
+}
+
+main .first-section div>p {
+    display: inline-block;
+    width: 50%;
+    padding-right: 1em;
+    border-right: 2px solid #ccc;
+}
+
+main .first-section blockquote {
+    position: relative;
+    float: right;
+    padding-left: 1em;
+    width: 50%;
+
+}
+
+main .first-section blockquote footer {
+    position: absolute;
+    right: 0;
+}
+
+main .second-section img {
+    float: left;
+    margin-right: 1em;
+    margin-bottom: 1em;
+}
+
+aside {
+    display: inline-block;
+    padding-left: 2em;
+    position: absolute;
+
+}
+aside nav{
+    margin-bottom: 1em;
+}
+aside nav ul{
+    padding-left: 2em;
+}
+aside nav a{
+    text-decoration: none;
+    color: green;
+
+}

@@ -1,0 +1,63 @@
+@import url(reset.css);
+@import url(layout.css);
+@import url(typography.css);
+@import url(nav.css);
+
+.banner,
+.site-header a,
+footer {
+    color: white;
+}
+
+
+.banner {
+    background-image: url(../images/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+    padding-top: 8rem;
+  
+}
+
+.banner h2 {
+    font-size: 3.4em;
+    line-height: 1.26em;
+    font-weight: normal;
+    margin-bottom: 1rem;
+}
+
+.banner p {
+    max-width: 39.5rem;
+    font-size: 1.2em;
+    padding-bottom: 15rem;
+}
+
+.site-header {
+    position: absolute;
+    width: 100%;
+    padding: 2rem 3.28rem;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.site-header>a {
+    display: block;
+    width: 120px;
+    font-weight: 400;
+}
+
+.site-header a img {
+    width: 100%;
+    height: auto;
+}
+
+.site-footer {
+    background-color: #171720;
+}
+
+@media (max-width:600px) {
+    html {
+        font-size: 12px;
+    }
+}

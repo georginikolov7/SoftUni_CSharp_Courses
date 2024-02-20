@@ -1,0 +1,55 @@
+@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css);
+
+.card {
+    max-width: 300px;
+    overflow: hidden;
+    border-radius: 0.4em;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    box-shadow: 0 0 1em 0.5em rgb(0, 0, 0, 0.2);
+    border: 1px solid #ccc;
+}
+
+.card::before {
+    display: block;
+    content: '';
+    position: absolute;
+    inset: 0;
+    box-shadow: 0 0 3em  0.5em rgb(0, 0, 0, 0.7) inset;
+    opacity: 1;
+    transition: opacity 0.3s ease-in;
+}
+.card:hover::before{
+    opacity: 0;
+}
+.card svg{
+    display: block;
+    width: 1.5em;
+    position: absolute;
+    bottom: 1em;
+    right: 1em;
+    fill:white;
+}
+.viewport {
+    height: 100vh;
+    position: relative;
+    overflow: hidden;
+}
+
+img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.viewport:nth-child(1) {
+    background: rgb(84, 118, 236);
+    background: linear-gradient(90deg, rgba(84, 118, 236, 1) 4%, rgba(142, 142, 255, 1) 55%, rgba(0, 255, 215, 1) 98%);
+}
+
+.viewport:nth-child(2) {
+    background: rgb(204, 244, 51);
+    background: linear-gradient(90deg, rgba(204, 244, 51, 1) 4%, rgba(231, 227, 76, 1) 55%, rgba(255, 135, 41, 1) 98%);
+}
