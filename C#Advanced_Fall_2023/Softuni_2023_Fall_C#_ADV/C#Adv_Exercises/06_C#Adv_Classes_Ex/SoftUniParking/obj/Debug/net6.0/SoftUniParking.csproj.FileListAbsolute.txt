@@ -1,0 +1,15 @@
+C:\Users\Test\Desktop\Temp\06_C#Adv_Classes_Ex\SoftUniParking\obj\Debug\net6.0\SoftUniParking.csproj.AssemblyReference.cache
+C:\Users\Test\Desktop\Temp\06_C#Adv_Classes_Ex\SoftUniParking\obj\Debug\net6.0\SoftUniParking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Test\Desktop\Temp\06_C#Adv_Classes_Ex\SoftUniParking\obj\Debug\net6.0\SoftUniParking.AssemblyInfoInputs.cache
+C:\Users\Test\Desktop\Temp\06_C#Adv_Classes_Ex\SoftUniParking\obj\Debug\net6.0\SoftUniParking.AssemblyInfo.cs
+C:\Users\Test\Desktop\Temp\06_C#Adv_Classes_Ex\SoftUniParking\obj\Debug\net6.0\SoftUniParking.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\Temp\06_C#Adv_Classes_Ex\SoftUniParking\bin\Debug\net6.0\SoftUniParking.exe
+C:\Users\Test\Desktop\Temp\06_C#Adv_Classes_Ex\SoftUniParking\bin\Debug\net6.0\SoftUniParking.deps.json
+C:\Users\Test\Desktop\Temp\06_C#Adv_Classes_Ex\SoftUniParking\bin\Debug\net6.0\SoftUniParking.runtimeconfig.json
+C:\Users\Test\Desktop\Temp\06_C#Adv_Classes_Ex\SoftUniParking\bin\Debug\net6.0\SoftUniParking.dll
+C:\Users\Test\Desktop\Temp\06_C#Adv_Classes_Ex\SoftUniParking\bin\Debug\net6.0\SoftUniParking.pdb
+C:\Users\Test\Desktop\Temp\06_C#Adv_Classes_Ex\SoftUniParking\obj\Debug\net6.0\SoftUniParking.dll
+C:\Users\Test\Desktop\Temp\06_C#Adv_Classes_Ex\SoftUniParking\obj\Debug\net6.0\refint\SoftUniParking.dll
+C:\Users\Test\Desktop\Temp\06_C#Adv_Classes_Ex\SoftUniParking\obj\Debug\net6.0\SoftUniParking.pdb
+C:\Users\Test\Desktop\Temp\06_C#Adv_Classes_Ex\SoftUniParking\obj\Debug\net6.0\SoftUniParking.genruntimeconfig.cache
+C:\Users\Test\Desktop\Temp\06_C#Adv_Classes_Ex\SoftUniParking\obj\Debug\net6.0\ref\SoftUniParking.dll

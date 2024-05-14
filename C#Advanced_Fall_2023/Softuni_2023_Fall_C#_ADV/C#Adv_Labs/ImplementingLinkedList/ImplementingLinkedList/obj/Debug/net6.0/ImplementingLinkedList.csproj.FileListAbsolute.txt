@@ -1,0 +1,15 @@
+C:\Users\Test\Desktop\Temp\ImplementingLinkedList\ImplementingLinkedList\bin\Debug\net6.0\ImplementingLinkedList.exe
+C:\Users\Test\Desktop\Temp\ImplementingLinkedList\ImplementingLinkedList\bin\Debug\net6.0\ImplementingLinkedList.deps.json
+C:\Users\Test\Desktop\Temp\ImplementingLinkedList\ImplementingLinkedList\bin\Debug\net6.0\ImplementingLinkedList.runtimeconfig.json
+C:\Users\Test\Desktop\Temp\ImplementingLinkedList\ImplementingLinkedList\bin\Debug\net6.0\ImplementingLinkedList.dll
+C:\Users\Test\Desktop\Temp\ImplementingLinkedList\ImplementingLinkedList\bin\Debug\net6.0\ImplementingLinkedList.pdb
+C:\Users\Test\Desktop\Temp\ImplementingLinkedList\ImplementingLinkedList\obj\Debug\net6.0\ImplementingLinkedList.csproj.AssemblyReference.cache
+C:\Users\Test\Desktop\Temp\ImplementingLinkedList\ImplementingLinkedList\obj\Debug\net6.0\ImplementingLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Test\Desktop\Temp\ImplementingLinkedList\ImplementingLinkedList\obj\Debug\net6.0\ImplementingLinkedList.AssemblyInfoInputs.cache
+C:\Users\Test\Desktop\Temp\ImplementingLinkedList\ImplementingLinkedList\obj\Debug\net6.0\ImplementingLinkedList.AssemblyInfo.cs
+C:\Users\Test\Desktop\Temp\ImplementingLinkedList\ImplementingLinkedList\obj\Debug\net6.0\ImplementingLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\Temp\ImplementingLinkedList\ImplementingLinkedList\obj\Debug\net6.0\ImplementingLinkedList.dll
+C:\Users\Test\Desktop\Temp\ImplementingLinkedList\ImplementingLinkedList\obj\Debug\net6.0\refint\ImplementingLinkedList.dll
+C:\Users\Test\Desktop\Temp\ImplementingLinkedList\ImplementingLinkedList\obj\Debug\net6.0\ImplementingLinkedList.pdb
+C:\Users\Test\Desktop\Temp\ImplementingLinkedList\ImplementingLinkedList\obj\Debug\net6.0\ImplementingLinkedList.genruntimeconfig.cache
+C:\Users\Test\Desktop\Temp\ImplementingLinkedList\ImplementingLinkedList\obj\Debug\net6.0\ref\ImplementingLinkedList.dll

@@ -1,0 +1,15 @@
+C:\Users\Test\Desktop\Temp\03_C#Adv_SetsAndDictionariesAdv_Lab\P01_CountSameValuesInArr\bin\Debug\net6.0\P01_CountSameValuesInArr.exe
+C:\Users\Test\Desktop\Temp\03_C#Adv_SetsAndDictionariesAdv_Lab\P01_CountSameValuesInArr\bin\Debug\net6.0\P01_CountSameValuesInArr.deps.json
+C:\Users\Test\Desktop\Temp\03_C#Adv_SetsAndDictionariesAdv_Lab\P01_CountSameValuesInArr\bin\Debug\net6.0\P01_CountSameValuesInArr.runtimeconfig.json
+C:\Users\Test\Desktop\Temp\03_C#Adv_SetsAndDictionariesAdv_Lab\P01_CountSameValuesInArr\bin\Debug\net6.0\P01_CountSameValuesInArr.dll
+C:\Users\Test\Desktop\Temp\03_C#Adv_SetsAndDictionariesAdv_Lab\P01_CountSameValuesInArr\bin\Debug\net6.0\P01_CountSameValuesInArr.pdb
+C:\Users\Test\Desktop\Temp\03_C#Adv_SetsAndDictionariesAdv_Lab\P01_CountSameValuesInArr\obj\Debug\net6.0\P01_CountSameValuesInArr.csproj.AssemblyReference.cache
+C:\Users\Test\Desktop\Temp\03_C#Adv_SetsAndDictionariesAdv_Lab\P01_CountSameValuesInArr\obj\Debug\net6.0\P01_CountSameValuesInArr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Test\Desktop\Temp\03_C#Adv_SetsAndDictionariesAdv_Lab\P01_CountSameValuesInArr\obj\Debug\net6.0\P01_CountSameValuesInArr.AssemblyInfoInputs.cache
+C:\Users\Test\Desktop\Temp\03_C#Adv_SetsAndDictionariesAdv_Lab\P01_CountSameValuesInArr\obj\Debug\net6.0\P01_CountSameValuesInArr.AssemblyInfo.cs
+C:\Users\Test\Desktop\Temp\03_C#Adv_SetsAndDictionariesAdv_Lab\P01_CountSameValuesInArr\obj\Debug\net6.0\P01_CountSameValuesInArr.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\Temp\03_C#Adv_SetsAndDictionariesAdv_Lab\P01_CountSameValuesInArr\obj\Debug\net6.0\P01_CountSameValuesInArr.dll
+C:\Users\Test\Desktop\Temp\03_C#Adv_SetsAndDictionariesAdv_Lab\P01_CountSameValuesInArr\obj\Debug\net6.0\refint\P01_CountSameValuesInArr.dll
+C:\Users\Test\Desktop\Temp\03_C#Adv_SetsAndDictionariesAdv_Lab\P01_CountSameValuesInArr\obj\Debug\net6.0\P01_CountSameValuesInArr.pdb
+C:\Users\Test\Desktop\Temp\03_C#Adv_SetsAndDictionariesAdv_Lab\P01_CountSameValuesInArr\obj\Debug\net6.0\P01_CountSameValuesInArr.genruntimeconfig.cache
+C:\Users\Test\Desktop\Temp\03_C#Adv_SetsAndDictionariesAdv_Lab\P01_CountSameValuesInArr\obj\Debug\net6.0\ref\P01_CountSameValuesInArr.dll

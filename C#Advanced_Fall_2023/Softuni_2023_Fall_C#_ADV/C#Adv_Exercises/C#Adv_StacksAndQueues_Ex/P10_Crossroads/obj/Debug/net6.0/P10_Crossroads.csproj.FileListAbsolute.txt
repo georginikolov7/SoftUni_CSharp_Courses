@@ -1,0 +1,15 @@
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P10_Crossroads\bin\Debug\net6.0\P10_Crossroads.exe
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P10_Crossroads\bin\Debug\net6.0\P10_Crossroads.deps.json
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P10_Crossroads\bin\Debug\net6.0\P10_Crossroads.runtimeconfig.json
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P10_Crossroads\bin\Debug\net6.0\P10_Crossroads.dll
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P10_Crossroads\bin\Debug\net6.0\P10_Crossroads.pdb
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P10_Crossroads\obj\Debug\net6.0\P10_Crossroads.csproj.AssemblyReference.cache
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P10_Crossroads\obj\Debug\net6.0\P10_Crossroads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P10_Crossroads\obj\Debug\net6.0\P10_Crossroads.AssemblyInfoInputs.cache
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P10_Crossroads\obj\Debug\net6.0\P10_Crossroads.AssemblyInfo.cs
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P10_Crossroads\obj\Debug\net6.0\P10_Crossroads.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P10_Crossroads\obj\Debug\net6.0\P10_Crossroads.dll
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P10_Crossroads\obj\Debug\net6.0\refint\P10_Crossroads.dll
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P10_Crossroads\obj\Debug\net6.0\P10_Crossroads.pdb
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P10_Crossroads\obj\Debug\net6.0\P10_Crossroads.genruntimeconfig.cache
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P10_Crossroads\obj\Debug\net6.0\ref\P10_Crossroads.dll

@@ -1,0 +1,15 @@
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P06_SongsQueue\bin\Debug\net6.0\P06_SongsQueue.exe
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P06_SongsQueue\bin\Debug\net6.0\P06_SongsQueue.deps.json
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P06_SongsQueue\bin\Debug\net6.0\P06_SongsQueue.runtimeconfig.json
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P06_SongsQueue\bin\Debug\net6.0\P06_SongsQueue.dll
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P06_SongsQueue\bin\Debug\net6.0\P06_SongsQueue.pdb
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P06_SongsQueue\obj\Debug\net6.0\P06_SongsQueue.csproj.AssemblyReference.cache
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P06_SongsQueue\obj\Debug\net6.0\P06_SongsQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P06_SongsQueue\obj\Debug\net6.0\P06_SongsQueue.AssemblyInfoInputs.cache
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P06_SongsQueue\obj\Debug\net6.0\P06_SongsQueue.AssemblyInfo.cs
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P06_SongsQueue\obj\Debug\net6.0\P06_SongsQueue.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P06_SongsQueue\obj\Debug\net6.0\P06_SongsQueue.dll
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P06_SongsQueue\obj\Debug\net6.0\refint\P06_SongsQueue.dll
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P06_SongsQueue\obj\Debug\net6.0\P06_SongsQueue.pdb
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P06_SongsQueue\obj\Debug\net6.0\P06_SongsQueue.genruntimeconfig.cache
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P06_SongsQueue\obj\Debug\net6.0\ref\P06_SongsQueue.dll

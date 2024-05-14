@@ -1,0 +1,15 @@
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Ex\P03_CustomMinFunction\bin\Debug\net6.0\P03_CustomMinFunction.exe
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Ex\P03_CustomMinFunction\bin\Debug\net6.0\P03_CustomMinFunction.deps.json
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Ex\P03_CustomMinFunction\bin\Debug\net6.0\P03_CustomMinFunction.runtimeconfig.json
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Ex\P03_CustomMinFunction\bin\Debug\net6.0\P03_CustomMinFunction.dll
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Ex\P03_CustomMinFunction\bin\Debug\net6.0\P03_CustomMinFunction.pdb
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Ex\P03_CustomMinFunction\obj\Debug\net6.0\P03_CustomMinFunction.csproj.AssemblyReference.cache
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Ex\P03_CustomMinFunction\obj\Debug\net6.0\P03_CustomMinFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Ex\P03_CustomMinFunction\obj\Debug\net6.0\P03_CustomMinFunction.AssemblyInfoInputs.cache
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Ex\P03_CustomMinFunction\obj\Debug\net6.0\P03_CustomMinFunction.AssemblyInfo.cs
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Ex\P03_CustomMinFunction\obj\Debug\net6.0\P03_CustomMinFunction.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Ex\P03_CustomMinFunction\obj\Debug\net6.0\P03_CustomMinFunction.dll
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Ex\P03_CustomMinFunction\obj\Debug\net6.0\refint\P03_CustomMinFunction.dll
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Ex\P03_CustomMinFunction\obj\Debug\net6.0\P03_CustomMinFunction.pdb
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Ex\P03_CustomMinFunction\obj\Debug\net6.0\P03_CustomMinFunction.genruntimeconfig.cache
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Ex\P03_CustomMinFunction\obj\Debug\net6.0\ref\P03_CustomMinFunction.dll

@@ -1,0 +1,15 @@
+C:\Users\Test\Desktop\Temp\01_C#Adv_StacksAndQueues\P01_ReverseAString\bin\Debug\net6.0\P01_ReverseAString.exe
+C:\Users\Test\Desktop\Temp\01_C#Adv_StacksAndQueues\P01_ReverseAString\bin\Debug\net6.0\P01_ReverseAString.deps.json
+C:\Users\Test\Desktop\Temp\01_C#Adv_StacksAndQueues\P01_ReverseAString\bin\Debug\net6.0\P01_ReverseAString.runtimeconfig.json
+C:\Users\Test\Desktop\Temp\01_C#Adv_StacksAndQueues\P01_ReverseAString\bin\Debug\net6.0\P01_ReverseAString.dll
+C:\Users\Test\Desktop\Temp\01_C#Adv_StacksAndQueues\P01_ReverseAString\bin\Debug\net6.0\P01_ReverseAString.pdb
+C:\Users\Test\Desktop\Temp\01_C#Adv_StacksAndQueues\P01_ReverseAString\obj\Debug\net6.0\P01_ReverseAString.csproj.AssemblyReference.cache
+C:\Users\Test\Desktop\Temp\01_C#Adv_StacksAndQueues\P01_ReverseAString\obj\Debug\net6.0\P01_ReverseAString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Test\Desktop\Temp\01_C#Adv_StacksAndQueues\P01_ReverseAString\obj\Debug\net6.0\P01_ReverseAString.AssemblyInfoInputs.cache
+C:\Users\Test\Desktop\Temp\01_C#Adv_StacksAndQueues\P01_ReverseAString\obj\Debug\net6.0\P01_ReverseAString.AssemblyInfo.cs
+C:\Users\Test\Desktop\Temp\01_C#Adv_StacksAndQueues\P01_ReverseAString\obj\Debug\net6.0\P01_ReverseAString.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\Temp\01_C#Adv_StacksAndQueues\P01_ReverseAString\obj\Debug\net6.0\P01_ReverseAString.dll
+C:\Users\Test\Desktop\Temp\01_C#Adv_StacksAndQueues\P01_ReverseAString\obj\Debug\net6.0\refint\P01_ReverseAString.dll
+C:\Users\Test\Desktop\Temp\01_C#Adv_StacksAndQueues\P01_ReverseAString\obj\Debug\net6.0\P01_ReverseAString.pdb
+C:\Users\Test\Desktop\Temp\01_C#Adv_StacksAndQueues\P01_ReverseAString\obj\Debug\net6.0\P01_ReverseAString.genruntimeconfig.cache
+C:\Users\Test\Desktop\Temp\01_C#Adv_StacksAndQueues\P01_ReverseAString\obj\Debug\net6.0\ref\P01_ReverseAString.dll

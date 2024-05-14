@@ -1,0 +1,15 @@
+C:\Users\Test\Desktop\Temp\03_C#OOP_Abstraction_Ex\P01_IPerson\bin\Debug\net6.0\P01_IPerson.exe
+C:\Users\Test\Desktop\Temp\03_C#OOP_Abstraction_Ex\P01_IPerson\bin\Debug\net6.0\P01_IPerson.deps.json
+C:\Users\Test\Desktop\Temp\03_C#OOP_Abstraction_Ex\P01_IPerson\bin\Debug\net6.0\P01_IPerson.runtimeconfig.json
+C:\Users\Test\Desktop\Temp\03_C#OOP_Abstraction_Ex\P01_IPerson\bin\Debug\net6.0\P01_IPerson.dll
+C:\Users\Test\Desktop\Temp\03_C#OOP_Abstraction_Ex\P01_IPerson\bin\Debug\net6.0\P01_IPerson.pdb
+C:\Users\Test\Desktop\Temp\03_C#OOP_Abstraction_Ex\P01_IPerson\obj\Debug\net6.0\P01_IPerson.csproj.AssemblyReference.cache
+C:\Users\Test\Desktop\Temp\03_C#OOP_Abstraction_Ex\P01_IPerson\obj\Debug\net6.0\P01_IPerson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Test\Desktop\Temp\03_C#OOP_Abstraction_Ex\P01_IPerson\obj\Debug\net6.0\P01_IPerson.AssemblyInfoInputs.cache
+C:\Users\Test\Desktop\Temp\03_C#OOP_Abstraction_Ex\P01_IPerson\obj\Debug\net6.0\P01_IPerson.AssemblyInfo.cs
+C:\Users\Test\Desktop\Temp\03_C#OOP_Abstraction_Ex\P01_IPerson\obj\Debug\net6.0\P01_IPerson.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\Temp\03_C#OOP_Abstraction_Ex\P01_IPerson\obj\Debug\net6.0\P01_IPerson.dll
+C:\Users\Test\Desktop\Temp\03_C#OOP_Abstraction_Ex\P01_IPerson\obj\Debug\net6.0\refint\P01_IPerson.dll
+C:\Users\Test\Desktop\Temp\03_C#OOP_Abstraction_Ex\P01_IPerson\obj\Debug\net6.0\P01_IPerson.pdb
+C:\Users\Test\Desktop\Temp\03_C#OOP_Abstraction_Ex\P01_IPerson\obj\Debug\net6.0\P01_IPerson.genruntimeconfig.cache
+C:\Users\Test\Desktop\Temp\03_C#OOP_Abstraction_Ex\P01_IPerson\obj\Debug\net6.0\ref\P01_IPerson.dll

@@ -1,0 +1,15 @@
+C:\Users\Test\Desktop\Temp\02_C#Adv_MultiDArrays_Ex\P02_SquaresInMatrix\obj\Debug\net6.0\P02_SquaresInMatrix.csproj.AssemblyReference.cache
+C:\Users\Test\Desktop\Temp\02_C#Adv_MultiDArrays_Ex\P02_SquaresInMatrix\obj\Debug\net6.0\P02_SquaresInMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Test\Desktop\Temp\02_C#Adv_MultiDArrays_Ex\P02_SquaresInMatrix\obj\Debug\net6.0\P02_SquaresInMatrix.AssemblyInfoInputs.cache
+C:\Users\Test\Desktop\Temp\02_C#Adv_MultiDArrays_Ex\P02_SquaresInMatrix\obj\Debug\net6.0\P02_SquaresInMatrix.AssemblyInfo.cs
+C:\Users\Test\Desktop\Temp\02_C#Adv_MultiDArrays_Ex\P02_SquaresInMatrix\obj\Debug\net6.0\P02_SquaresInMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\Temp\02_C#Adv_MultiDArrays_Ex\P02_SquaresInMatrix\bin\Debug\net6.0\P02_SquaresInMatrix.exe
+C:\Users\Test\Desktop\Temp\02_C#Adv_MultiDArrays_Ex\P02_SquaresInMatrix\bin\Debug\net6.0\P02_SquaresInMatrix.deps.json
+C:\Users\Test\Desktop\Temp\02_C#Adv_MultiDArrays_Ex\P02_SquaresInMatrix\bin\Debug\net6.0\P02_SquaresInMatrix.runtimeconfig.json
+C:\Users\Test\Desktop\Temp\02_C#Adv_MultiDArrays_Ex\P02_SquaresInMatrix\bin\Debug\net6.0\P02_SquaresInMatrix.dll
+C:\Users\Test\Desktop\Temp\02_C#Adv_MultiDArrays_Ex\P02_SquaresInMatrix\bin\Debug\net6.0\P02_SquaresInMatrix.pdb
+C:\Users\Test\Desktop\Temp\02_C#Adv_MultiDArrays_Ex\P02_SquaresInMatrix\obj\Debug\net6.0\P02_SquaresInMatrix.dll
+C:\Users\Test\Desktop\Temp\02_C#Adv_MultiDArrays_Ex\P02_SquaresInMatrix\obj\Debug\net6.0\refint\P02_SquaresInMatrix.dll
+C:\Users\Test\Desktop\Temp\02_C#Adv_MultiDArrays_Ex\P02_SquaresInMatrix\obj\Debug\net6.0\P02_SquaresInMatrix.pdb
+C:\Users\Test\Desktop\Temp\02_C#Adv_MultiDArrays_Ex\P02_SquaresInMatrix\obj\Debug\net6.0\P02_SquaresInMatrix.genruntimeconfig.cache
+C:\Users\Test\Desktop\Temp\02_C#Adv_MultiDArrays_Ex\P02_SquaresInMatrix\obj\Debug\net6.0\ref\P02_SquaresInMatrix.dll

@@ -1,0 +1,15 @@
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P11_KeyRevolver\bin\Debug\net6.0\P11_KeyRevolver.exe
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P11_KeyRevolver\bin\Debug\net6.0\P11_KeyRevolver.deps.json
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P11_KeyRevolver\bin\Debug\net6.0\P11_KeyRevolver.runtimeconfig.json
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P11_KeyRevolver\bin\Debug\net6.0\P11_KeyRevolver.dll
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P11_KeyRevolver\bin\Debug\net6.0\P11_KeyRevolver.pdb
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P11_KeyRevolver\obj\Debug\net6.0\P11_KeyRevolver.csproj.AssemblyReference.cache
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P11_KeyRevolver\obj\Debug\net6.0\P11_KeyRevolver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P11_KeyRevolver\obj\Debug\net6.0\P11_KeyRevolver.AssemblyInfoInputs.cache
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P11_KeyRevolver\obj\Debug\net6.0\P11_KeyRevolver.AssemblyInfo.cs
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P11_KeyRevolver\obj\Debug\net6.0\P11_KeyRevolver.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P11_KeyRevolver\obj\Debug\net6.0\P11_KeyRevolver.dll
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P11_KeyRevolver\obj\Debug\net6.0\refint\P11_KeyRevolver.dll
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P11_KeyRevolver\obj\Debug\net6.0\P11_KeyRevolver.pdb
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P11_KeyRevolver\obj\Debug\net6.0\P11_KeyRevolver.genruntimeconfig.cache
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P11_KeyRevolver\obj\Debug\net6.0\ref\P11_KeyRevolver.dll

@@ -1,0 +1,15 @@
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Lab\P03_CountUppercaseWords\bin\Debug\net6.0\P03_CountUppercaseWords.exe
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Lab\P03_CountUppercaseWords\bin\Debug\net6.0\P03_CountUppercaseWords.deps.json
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Lab\P03_CountUppercaseWords\bin\Debug\net6.0\P03_CountUppercaseWords.runtimeconfig.json
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Lab\P03_CountUppercaseWords\bin\Debug\net6.0\P03_CountUppercaseWords.dll
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Lab\P03_CountUppercaseWords\bin\Debug\net6.0\P03_CountUppercaseWords.pdb
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Lab\P03_CountUppercaseWords\obj\Debug\net6.0\P03_CountUppercaseWords.csproj.AssemblyReference.cache
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Lab\P03_CountUppercaseWords\obj\Debug\net6.0\P03_CountUppercaseWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Lab\P03_CountUppercaseWords\obj\Debug\net6.0\P03_CountUppercaseWords.AssemblyInfoInputs.cache
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Lab\P03_CountUppercaseWords\obj\Debug\net6.0\P03_CountUppercaseWords.AssemblyInfo.cs
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Lab\P03_CountUppercaseWords\obj\Debug\net6.0\P03_CountUppercaseWords.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Lab\P03_CountUppercaseWords\obj\Debug\net6.0\P03_CountUppercaseWords.dll
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Lab\P03_CountUppercaseWords\obj\Debug\net6.0\refint\P03_CountUppercaseWords.dll
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Lab\P03_CountUppercaseWords\obj\Debug\net6.0\P03_CountUppercaseWords.pdb
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Lab\P03_CountUppercaseWords\obj\Debug\net6.0\P03_CountUppercaseWords.genruntimeconfig.cache
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Lab\P03_CountUppercaseWords\obj\Debug\net6.0\ref\P03_CountUppercaseWords.dll

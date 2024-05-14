@@ -1,0 +1,12 @@
+C:\Users\Test\Desktop\Temp\09_C#OOP_UnitTesting_ex\CarManager\bin\Debug\net6.0\CarManager.deps.json
+C:\Users\Test\Desktop\Temp\09_C#OOP_UnitTesting_ex\CarManager\bin\Debug\net6.0\CarManager.dll
+C:\Users\Test\Desktop\Temp\09_C#OOP_UnitTesting_ex\CarManager\bin\Debug\net6.0\CarManager.pdb
+C:\Users\Test\Desktop\Temp\09_C#OOP_UnitTesting_ex\CarManager\obj\Debug\net6.0\CarManager.csproj.AssemblyReference.cache
+C:\Users\Test\Desktop\Temp\09_C#OOP_UnitTesting_ex\CarManager\obj\Debug\net6.0\CarManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Test\Desktop\Temp\09_C#OOP_UnitTesting_ex\CarManager\obj\Debug\net6.0\CarManager.AssemblyInfoInputs.cache
+C:\Users\Test\Desktop\Temp\09_C#OOP_UnitTesting_ex\CarManager\obj\Debug\net6.0\CarManager.AssemblyInfo.cs
+C:\Users\Test\Desktop\Temp\09_C#OOP_UnitTesting_ex\CarManager\obj\Debug\net6.0\CarManager.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\Temp\09_C#OOP_UnitTesting_ex\CarManager\obj\Debug\net6.0\CarManager.dll
+C:\Users\Test\Desktop\Temp\09_C#OOP_UnitTesting_ex\CarManager\obj\Debug\net6.0\refint\CarManager.dll
+C:\Users\Test\Desktop\Temp\09_C#OOP_UnitTesting_ex\CarManager\obj\Debug\net6.0\CarManager.pdb
+C:\Users\Test\Desktop\Temp\09_C#OOP_UnitTesting_ex\CarManager\obj\Debug\net6.0\ref\CarManager.dll

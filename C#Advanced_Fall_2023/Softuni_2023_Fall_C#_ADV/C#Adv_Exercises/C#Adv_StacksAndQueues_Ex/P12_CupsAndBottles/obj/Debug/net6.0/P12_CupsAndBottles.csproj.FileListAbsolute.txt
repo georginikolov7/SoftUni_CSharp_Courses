@@ -1,0 +1,15 @@
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P12_CupsAndBottles\bin\Debug\net6.0\P12_CupsAndBottles.exe
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P12_CupsAndBottles\bin\Debug\net6.0\P12_CupsAndBottles.deps.json
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P12_CupsAndBottles\bin\Debug\net6.0\P12_CupsAndBottles.runtimeconfig.json
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P12_CupsAndBottles\bin\Debug\net6.0\P12_CupsAndBottles.dll
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P12_CupsAndBottles\bin\Debug\net6.0\P12_CupsAndBottles.pdb
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P12_CupsAndBottles\obj\Debug\net6.0\P12_CupsAndBottles.csproj.AssemblyReference.cache
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P12_CupsAndBottles\obj\Debug\net6.0\P12_CupsAndBottles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P12_CupsAndBottles\obj\Debug\net6.0\P12_CupsAndBottles.AssemblyInfoInputs.cache
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P12_CupsAndBottles\obj\Debug\net6.0\P12_CupsAndBottles.AssemblyInfo.cs
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P12_CupsAndBottles\obj\Debug\net6.0\P12_CupsAndBottles.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P12_CupsAndBottles\obj\Debug\net6.0\P12_CupsAndBottles.dll
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P12_CupsAndBottles\obj\Debug\net6.0\refint\P12_CupsAndBottles.dll
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P12_CupsAndBottles\obj\Debug\net6.0\P12_CupsAndBottles.pdb
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P12_CupsAndBottles\obj\Debug\net6.0\P12_CupsAndBottles.genruntimeconfig.cache
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P12_CupsAndBottles\obj\Debug\net6.0\ref\P12_CupsAndBottles.dll

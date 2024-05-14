@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "p05_CreateAttribute/1.0.0": {
+        "runtime": {
+          "p05_CreateAttribute.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "p05_CreateAttribute/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Lab\P04_AddVat\bin\Debug\net6.0\P04_AddVat.exe
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Lab\P04_AddVat\bin\Debug\net6.0\P04_AddVat.deps.json
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Lab\P04_AddVat\bin\Debug\net6.0\P04_AddVat.runtimeconfig.json
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Lab\P04_AddVat\bin\Debug\net6.0\P04_AddVat.dll
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Lab\P04_AddVat\bin\Debug\net6.0\P04_AddVat.pdb
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Lab\P04_AddVat\obj\Debug\net6.0\P04_AddVat.csproj.AssemblyReference.cache
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Lab\P04_AddVat\obj\Debug\net6.0\P04_AddVat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Lab\P04_AddVat\obj\Debug\net6.0\P04_AddVat.AssemblyInfoInputs.cache
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Lab\P04_AddVat\obj\Debug\net6.0\P04_AddVat.AssemblyInfo.cs
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Lab\P04_AddVat\obj\Debug\net6.0\P04_AddVat.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Lab\P04_AddVat\obj\Debug\net6.0\P04_AddVat.dll
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Lab\P04_AddVat\obj\Debug\net6.0\refint\P04_AddVat.dll
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Lab\P04_AddVat\obj\Debug\net6.0\P04_AddVat.pdb
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Lab\P04_AddVat\obj\Debug\net6.0\P04_AddVat.genruntimeconfig.cache
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Lab\P04_AddVat\obj\Debug\net6.0\ref\P04_AddVat.dll

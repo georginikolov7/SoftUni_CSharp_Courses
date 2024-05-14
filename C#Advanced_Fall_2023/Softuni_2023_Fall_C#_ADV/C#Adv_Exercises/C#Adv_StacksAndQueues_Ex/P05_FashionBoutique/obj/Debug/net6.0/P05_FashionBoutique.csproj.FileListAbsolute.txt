@@ -1,0 +1,15 @@
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P05_FashionBoutique\bin\Debug\net6.0\P05_FashionBoutique.exe
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P05_FashionBoutique\bin\Debug\net6.0\P05_FashionBoutique.deps.json
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P05_FashionBoutique\bin\Debug\net6.0\P05_FashionBoutique.runtimeconfig.json
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P05_FashionBoutique\bin\Debug\net6.0\P05_FashionBoutique.dll
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P05_FashionBoutique\bin\Debug\net6.0\P05_FashionBoutique.pdb
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P05_FashionBoutique\obj\Debug\net6.0\P05_FashionBoutique.csproj.AssemblyReference.cache
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P05_FashionBoutique\obj\Debug\net6.0\P05_FashionBoutique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P05_FashionBoutique\obj\Debug\net6.0\P05_FashionBoutique.AssemblyInfoInputs.cache
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P05_FashionBoutique\obj\Debug\net6.0\P05_FashionBoutique.AssemblyInfo.cs
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P05_FashionBoutique\obj\Debug\net6.0\P05_FashionBoutique.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P05_FashionBoutique\obj\Debug\net6.0\P05_FashionBoutique.dll
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P05_FashionBoutique\obj\Debug\net6.0\refint\P05_FashionBoutique.dll
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P05_FashionBoutique\obj\Debug\net6.0\P05_FashionBoutique.pdb
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P05_FashionBoutique\obj\Debug\net6.0\P05_FashionBoutique.genruntimeconfig.cache
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P05_FashionBoutique\obj\Debug\net6.0\ref\P05_FashionBoutique.dll

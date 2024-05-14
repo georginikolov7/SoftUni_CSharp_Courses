@@ -1,0 +1,15 @@
+C:\Users\Test\Desktop\Temp\04_C#Adv_StreamsAndFiles_Ex\EvenLines\bin\Debug\net6.0\EvenLines.exe
+C:\Users\Test\Desktop\Temp\04_C#Adv_StreamsAndFiles_Ex\EvenLines\bin\Debug\net6.0\EvenLines.deps.json
+C:\Users\Test\Desktop\Temp\04_C#Adv_StreamsAndFiles_Ex\EvenLines\bin\Debug\net6.0\EvenLines.runtimeconfig.json
+C:\Users\Test\Desktop\Temp\04_C#Adv_StreamsAndFiles_Ex\EvenLines\bin\Debug\net6.0\EvenLines.dll
+C:\Users\Test\Desktop\Temp\04_C#Adv_StreamsAndFiles_Ex\EvenLines\bin\Debug\net6.0\EvenLines.pdb
+C:\Users\Test\Desktop\Temp\04_C#Adv_StreamsAndFiles_Ex\EvenLines\obj\Debug\net6.0\EvenLines.csproj.AssemblyReference.cache
+C:\Users\Test\Desktop\Temp\04_C#Adv_StreamsAndFiles_Ex\EvenLines\obj\Debug\net6.0\EvenLines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Test\Desktop\Temp\04_C#Adv_StreamsAndFiles_Ex\EvenLines\obj\Debug\net6.0\EvenLines.AssemblyInfoInputs.cache
+C:\Users\Test\Desktop\Temp\04_C#Adv_StreamsAndFiles_Ex\EvenLines\obj\Debug\net6.0\EvenLines.AssemblyInfo.cs
+C:\Users\Test\Desktop\Temp\04_C#Adv_StreamsAndFiles_Ex\EvenLines\obj\Debug\net6.0\EvenLines.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\Temp\04_C#Adv_StreamsAndFiles_Ex\EvenLines\obj\Debug\net6.0\EvenLines.dll
+C:\Users\Test\Desktop\Temp\04_C#Adv_StreamsAndFiles_Ex\EvenLines\obj\Debug\net6.0\refint\EvenLines.dll
+C:\Users\Test\Desktop\Temp\04_C#Adv_StreamsAndFiles_Ex\EvenLines\obj\Debug\net6.0\EvenLines.pdb
+C:\Users\Test\Desktop\Temp\04_C#Adv_StreamsAndFiles_Ex\EvenLines\obj\Debug\net6.0\EvenLines.genruntimeconfig.cache
+C:\Users\Test\Desktop\Temp\04_C#Adv_StreamsAndFiles_Ex\EvenLines\obj\Debug\net6.0\ref\EvenLines.dll

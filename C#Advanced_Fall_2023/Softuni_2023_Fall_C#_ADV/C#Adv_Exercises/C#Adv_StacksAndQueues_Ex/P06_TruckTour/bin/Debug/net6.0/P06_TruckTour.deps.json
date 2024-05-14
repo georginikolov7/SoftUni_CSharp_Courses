@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "P06_TruckTour/1.0.0": {
+        "runtime": {
+          "P06_TruckTour.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P06_TruckTour/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

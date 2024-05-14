@@ -1,0 +1,15 @@
+C:\Users\Test\Desktop\Temp\01_C#Adv_StacksAndQueues\P02_StackSum\bin\Debug\net6.0\P02_StackSum.exe
+C:\Users\Test\Desktop\Temp\01_C#Adv_StacksAndQueues\P02_StackSum\bin\Debug\net6.0\P02_StackSum.deps.json
+C:\Users\Test\Desktop\Temp\01_C#Adv_StacksAndQueues\P02_StackSum\bin\Debug\net6.0\P02_StackSum.runtimeconfig.json
+C:\Users\Test\Desktop\Temp\01_C#Adv_StacksAndQueues\P02_StackSum\bin\Debug\net6.0\P02_StackSum.dll
+C:\Users\Test\Desktop\Temp\01_C#Adv_StacksAndQueues\P02_StackSum\bin\Debug\net6.0\P02_StackSum.pdb
+C:\Users\Test\Desktop\Temp\01_C#Adv_StacksAndQueues\P02_StackSum\obj\Debug\net6.0\P02_StackSum.csproj.AssemblyReference.cache
+C:\Users\Test\Desktop\Temp\01_C#Adv_StacksAndQueues\P02_StackSum\obj\Debug\net6.0\P02_StackSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Test\Desktop\Temp\01_C#Adv_StacksAndQueues\P02_StackSum\obj\Debug\net6.0\P02_StackSum.AssemblyInfoInputs.cache
+C:\Users\Test\Desktop\Temp\01_C#Adv_StacksAndQueues\P02_StackSum\obj\Debug\net6.0\P02_StackSum.AssemblyInfo.cs
+C:\Users\Test\Desktop\Temp\01_C#Adv_StacksAndQueues\P02_StackSum\obj\Debug\net6.0\P02_StackSum.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\Temp\01_C#Adv_StacksAndQueues\P02_StackSum\obj\Debug\net6.0\P02_StackSum.dll
+C:\Users\Test\Desktop\Temp\01_C#Adv_StacksAndQueues\P02_StackSum\obj\Debug\net6.0\refint\P02_StackSum.dll
+C:\Users\Test\Desktop\Temp\01_C#Adv_StacksAndQueues\P02_StackSum\obj\Debug\net6.0\P02_StackSum.pdb
+C:\Users\Test\Desktop\Temp\01_C#Adv_StacksAndQueues\P02_StackSum\obj\Debug\net6.0\P02_StackSum.genruntimeconfig.cache
+C:\Users\Test\Desktop\Temp\01_C#Adv_StacksAndQueues\P02_StackSum\obj\Debug\net6.0\ref\P02_StackSum.dll

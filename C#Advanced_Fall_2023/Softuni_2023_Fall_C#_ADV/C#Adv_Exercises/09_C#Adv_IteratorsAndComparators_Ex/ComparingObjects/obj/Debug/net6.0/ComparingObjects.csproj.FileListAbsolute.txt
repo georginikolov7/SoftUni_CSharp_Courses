@@ -1,0 +1,15 @@
+C:\Users\Test\Desktop\Temp\09_C#Adv_IteratorsAndComparators_Ex\ComparingObjects\bin\Debug\net6.0\ComparingObjects.exe
+C:\Users\Test\Desktop\Temp\09_C#Adv_IteratorsAndComparators_Ex\ComparingObjects\bin\Debug\net6.0\ComparingObjects.deps.json
+C:\Users\Test\Desktop\Temp\09_C#Adv_IteratorsAndComparators_Ex\ComparingObjects\bin\Debug\net6.0\ComparingObjects.runtimeconfig.json
+C:\Users\Test\Desktop\Temp\09_C#Adv_IteratorsAndComparators_Ex\ComparingObjects\bin\Debug\net6.0\ComparingObjects.dll
+C:\Users\Test\Desktop\Temp\09_C#Adv_IteratorsAndComparators_Ex\ComparingObjects\bin\Debug\net6.0\ComparingObjects.pdb
+C:\Users\Test\Desktop\Temp\09_C#Adv_IteratorsAndComparators_Ex\ComparingObjects\obj\Debug\net6.0\ComparingObjects.csproj.AssemblyReference.cache
+C:\Users\Test\Desktop\Temp\09_C#Adv_IteratorsAndComparators_Ex\ComparingObjects\obj\Debug\net6.0\ComparingObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Test\Desktop\Temp\09_C#Adv_IteratorsAndComparators_Ex\ComparingObjects\obj\Debug\net6.0\ComparingObjects.AssemblyInfoInputs.cache
+C:\Users\Test\Desktop\Temp\09_C#Adv_IteratorsAndComparators_Ex\ComparingObjects\obj\Debug\net6.0\ComparingObjects.AssemblyInfo.cs
+C:\Users\Test\Desktop\Temp\09_C#Adv_IteratorsAndComparators_Ex\ComparingObjects\obj\Debug\net6.0\ComparingObjects.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\Temp\09_C#Adv_IteratorsAndComparators_Ex\ComparingObjects\obj\Debug\net6.0\ComparingObjects.dll
+C:\Users\Test\Desktop\Temp\09_C#Adv_IteratorsAndComparators_Ex\ComparingObjects\obj\Debug\net6.0\refint\ComparingObjects.dll
+C:\Users\Test\Desktop\Temp\09_C#Adv_IteratorsAndComparators_Ex\ComparingObjects\obj\Debug\net6.0\ComparingObjects.pdb
+C:\Users\Test\Desktop\Temp\09_C#Adv_IteratorsAndComparators_Ex\ComparingObjects\obj\Debug\net6.0\ComparingObjects.genruntimeconfig.cache
+C:\Users\Test\Desktop\Temp\09_C#Adv_IteratorsAndComparators_Ex\ComparingObjects\obj\Debug\net6.0\ref\ComparingObjects.dll

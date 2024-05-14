@@ -1,0 +1,15 @@
+C:\Users\Test\Desktop\Temp\08_C#OOP_ReflectionAndAttributes_Exercise\ValidationAttributes\bin\Debug\net6.0\ValidationAttributes.exe
+C:\Users\Test\Desktop\Temp\08_C#OOP_ReflectionAndAttributes_Exercise\ValidationAttributes\bin\Debug\net6.0\ValidationAttributes.deps.json
+C:\Users\Test\Desktop\Temp\08_C#OOP_ReflectionAndAttributes_Exercise\ValidationAttributes\bin\Debug\net6.0\ValidationAttributes.runtimeconfig.json
+C:\Users\Test\Desktop\Temp\08_C#OOP_ReflectionAndAttributes_Exercise\ValidationAttributes\bin\Debug\net6.0\ValidationAttributes.dll
+C:\Users\Test\Desktop\Temp\08_C#OOP_ReflectionAndAttributes_Exercise\ValidationAttributes\bin\Debug\net6.0\ValidationAttributes.pdb
+C:\Users\Test\Desktop\Temp\08_C#OOP_ReflectionAndAttributes_Exercise\ValidationAttributes\obj\Debug\net6.0\ValidationAttributes.csproj.AssemblyReference.cache
+C:\Users\Test\Desktop\Temp\08_C#OOP_ReflectionAndAttributes_Exercise\ValidationAttributes\obj\Debug\net6.0\ValidationAttributes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Test\Desktop\Temp\08_C#OOP_ReflectionAndAttributes_Exercise\ValidationAttributes\obj\Debug\net6.0\ValidationAttributes.AssemblyInfoInputs.cache
+C:\Users\Test\Desktop\Temp\08_C#OOP_ReflectionAndAttributes_Exercise\ValidationAttributes\obj\Debug\net6.0\ValidationAttributes.AssemblyInfo.cs
+C:\Users\Test\Desktop\Temp\08_C#OOP_ReflectionAndAttributes_Exercise\ValidationAttributes\obj\Debug\net6.0\ValidationAttributes.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\Temp\08_C#OOP_ReflectionAndAttributes_Exercise\ValidationAttributes\obj\Debug\net6.0\ValidationAttributes.dll
+C:\Users\Test\Desktop\Temp\08_C#OOP_ReflectionAndAttributes_Exercise\ValidationAttributes\obj\Debug\net6.0\refint\ValidationAttributes.dll
+C:\Users\Test\Desktop\Temp\08_C#OOP_ReflectionAndAttributes_Exercise\ValidationAttributes\obj\Debug\net6.0\ValidationAttributes.pdb
+C:\Users\Test\Desktop\Temp\08_C#OOP_ReflectionAndAttributes_Exercise\ValidationAttributes\obj\Debug\net6.0\ValidationAttributes.genruntimeconfig.cache
+C:\Users\Test\Desktop\Temp\08_C#OOP_ReflectionAndAttributes_Exercise\ValidationAttributes\obj\Debug\net6.0\ref\ValidationAttributes.dll

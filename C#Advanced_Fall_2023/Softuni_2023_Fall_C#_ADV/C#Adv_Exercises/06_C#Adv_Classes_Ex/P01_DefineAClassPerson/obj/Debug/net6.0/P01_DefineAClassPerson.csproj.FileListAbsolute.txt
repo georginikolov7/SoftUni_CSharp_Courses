@@ -1,0 +1,15 @@
+C:\Users\Test\Desktop\Temp\06_C#Adv_Classes_Ex\P01_DefineAClassPerson\bin\Debug\net6.0\P01_DefineAClassPerson.exe
+C:\Users\Test\Desktop\Temp\06_C#Adv_Classes_Ex\P01_DefineAClassPerson\bin\Debug\net6.0\P01_DefineAClassPerson.deps.json
+C:\Users\Test\Desktop\Temp\06_C#Adv_Classes_Ex\P01_DefineAClassPerson\bin\Debug\net6.0\P01_DefineAClassPerson.runtimeconfig.json
+C:\Users\Test\Desktop\Temp\06_C#Adv_Classes_Ex\P01_DefineAClassPerson\bin\Debug\net6.0\P01_DefineAClassPerson.dll
+C:\Users\Test\Desktop\Temp\06_C#Adv_Classes_Ex\P01_DefineAClassPerson\bin\Debug\net6.0\P01_DefineAClassPerson.pdb
+C:\Users\Test\Desktop\Temp\06_C#Adv_Classes_Ex\P01_DefineAClassPerson\obj\Debug\net6.0\P01_DefineAClassPerson.csproj.AssemblyReference.cache
+C:\Users\Test\Desktop\Temp\06_C#Adv_Classes_Ex\P01_DefineAClassPerson\obj\Debug\net6.0\P01_DefineAClassPerson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Test\Desktop\Temp\06_C#Adv_Classes_Ex\P01_DefineAClassPerson\obj\Debug\net6.0\P01_DefineAClassPerson.AssemblyInfoInputs.cache
+C:\Users\Test\Desktop\Temp\06_C#Adv_Classes_Ex\P01_DefineAClassPerson\obj\Debug\net6.0\P01_DefineAClassPerson.AssemblyInfo.cs
+C:\Users\Test\Desktop\Temp\06_C#Adv_Classes_Ex\P01_DefineAClassPerson\obj\Debug\net6.0\P01_DefineAClassPerson.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\Temp\06_C#Adv_Classes_Ex\P01_DefineAClassPerson\obj\Debug\net6.0\P01_DefineAClassPerson.dll
+C:\Users\Test\Desktop\Temp\06_C#Adv_Classes_Ex\P01_DefineAClassPerson\obj\Debug\net6.0\refint\P01_DefineAClassPerson.dll
+C:\Users\Test\Desktop\Temp\06_C#Adv_Classes_Ex\P01_DefineAClassPerson\obj\Debug\net6.0\P01_DefineAClassPerson.pdb
+C:\Users\Test\Desktop\Temp\06_C#Adv_Classes_Ex\P01_DefineAClassPerson\obj\Debug\net6.0\P01_DefineAClassPerson.genruntimeconfig.cache
+C:\Users\Test\Desktop\Temp\06_C#Adv_Classes_Ex\P01_DefineAClassPerson\obj\Debug\net6.0\ref\P01_DefineAClassPerson.dll

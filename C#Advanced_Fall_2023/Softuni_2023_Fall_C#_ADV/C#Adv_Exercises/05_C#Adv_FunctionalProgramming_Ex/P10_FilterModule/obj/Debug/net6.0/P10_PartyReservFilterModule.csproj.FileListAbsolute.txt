@@ -1,0 +1,15 @@
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Ex\P10_PartyReservFilterModule\bin\Debug\net6.0\P10_PartyReservFilterModule.exe
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Ex\P10_PartyReservFilterModule\bin\Debug\net6.0\P10_PartyReservFilterModule.deps.json
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Ex\P10_PartyReservFilterModule\bin\Debug\net6.0\P10_PartyReservFilterModule.runtimeconfig.json
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Ex\P10_PartyReservFilterModule\bin\Debug\net6.0\P10_PartyReservFilterModule.dll
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Ex\P10_PartyReservFilterModule\bin\Debug\net6.0\P10_PartyReservFilterModule.pdb
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Ex\P10_PartyReservFilterModule\obj\Debug\net6.0\P10_PartyReservFilterModule.csproj.AssemblyReference.cache
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Ex\P10_PartyReservFilterModule\obj\Debug\net6.0\P10_PartyReservFilterModule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Ex\P10_PartyReservFilterModule\obj\Debug\net6.0\P10_PartyReservFilterModule.AssemblyInfoInputs.cache
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Ex\P10_PartyReservFilterModule\obj\Debug\net6.0\P10_PartyReservFilterModule.AssemblyInfo.cs
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Ex\P10_PartyReservFilterModule\obj\Debug\net6.0\P10_PartyReservFilterModule.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Ex\P10_PartyReservFilterModule\obj\Debug\net6.0\P10_PartyReservFilterModule.dll
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Ex\P10_PartyReservFilterModule\obj\Debug\net6.0\refint\P10_PartyReservFilterModule.dll
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Ex\P10_PartyReservFilterModule\obj\Debug\net6.0\P10_PartyReservFilterModule.pdb
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Ex\P10_PartyReservFilterModule\obj\Debug\net6.0\P10_PartyReservFilterModule.genruntimeconfig.cache
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Ex\P10_PartyReservFilterModule\obj\Debug\net6.0\ref\P10_PartyReservFilterModule.dll

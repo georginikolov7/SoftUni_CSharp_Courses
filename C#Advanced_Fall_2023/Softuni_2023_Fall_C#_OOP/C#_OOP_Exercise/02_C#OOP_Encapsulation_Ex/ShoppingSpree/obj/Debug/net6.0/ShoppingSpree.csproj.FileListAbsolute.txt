@@ -1,0 +1,15 @@
+C:\Users\Test\Desktop\Temp\02_C#OOP_Encapsulation_Ex\ShoppingSpree\bin\Debug\net6.0\ShoppingSpree.exe
+C:\Users\Test\Desktop\Temp\02_C#OOP_Encapsulation_Ex\ShoppingSpree\bin\Debug\net6.0\ShoppingSpree.deps.json
+C:\Users\Test\Desktop\Temp\02_C#OOP_Encapsulation_Ex\ShoppingSpree\bin\Debug\net6.0\ShoppingSpree.runtimeconfig.json
+C:\Users\Test\Desktop\Temp\02_C#OOP_Encapsulation_Ex\ShoppingSpree\bin\Debug\net6.0\ShoppingSpree.dll
+C:\Users\Test\Desktop\Temp\02_C#OOP_Encapsulation_Ex\ShoppingSpree\bin\Debug\net6.0\ShoppingSpree.pdb
+C:\Users\Test\Desktop\Temp\02_C#OOP_Encapsulation_Ex\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.csproj.AssemblyReference.cache
+C:\Users\Test\Desktop\Temp\02_C#OOP_Encapsulation_Ex\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Test\Desktop\Temp\02_C#OOP_Encapsulation_Ex\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.AssemblyInfoInputs.cache
+C:\Users\Test\Desktop\Temp\02_C#OOP_Encapsulation_Ex\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.AssemblyInfo.cs
+C:\Users\Test\Desktop\Temp\02_C#OOP_Encapsulation_Ex\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\Temp\02_C#OOP_Encapsulation_Ex\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.dll
+C:\Users\Test\Desktop\Temp\02_C#OOP_Encapsulation_Ex\ShoppingSpree\obj\Debug\net6.0\refint\ShoppingSpree.dll
+C:\Users\Test\Desktop\Temp\02_C#OOP_Encapsulation_Ex\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.pdb
+C:\Users\Test\Desktop\Temp\02_C#OOP_Encapsulation_Ex\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.genruntimeconfig.cache
+C:\Users\Test\Desktop\Temp\02_C#OOP_Encapsulation_Ex\ShoppingSpree\obj\Debug\net6.0\ref\ShoppingSpree.dll

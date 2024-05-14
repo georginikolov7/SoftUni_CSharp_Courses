@@ -1,0 +1,15 @@
+C:\Users\Test\Desktop\Temp\02_C#Adv_MultiDArrays_Lab\P03_PrimaryDiagonal\bin\Debug\net6.0\P03_PrimaryDiagonal.exe
+C:\Users\Test\Desktop\Temp\02_C#Adv_MultiDArrays_Lab\P03_PrimaryDiagonal\bin\Debug\net6.0\P03_PrimaryDiagonal.deps.json
+C:\Users\Test\Desktop\Temp\02_C#Adv_MultiDArrays_Lab\P03_PrimaryDiagonal\bin\Debug\net6.0\P03_PrimaryDiagonal.runtimeconfig.json
+C:\Users\Test\Desktop\Temp\02_C#Adv_MultiDArrays_Lab\P03_PrimaryDiagonal\bin\Debug\net6.0\P03_PrimaryDiagonal.dll
+C:\Users\Test\Desktop\Temp\02_C#Adv_MultiDArrays_Lab\P03_PrimaryDiagonal\bin\Debug\net6.0\P03_PrimaryDiagonal.pdb
+C:\Users\Test\Desktop\Temp\02_C#Adv_MultiDArrays_Lab\P03_PrimaryDiagonal\obj\Debug\net6.0\P03_PrimaryDiagonal.csproj.AssemblyReference.cache
+C:\Users\Test\Desktop\Temp\02_C#Adv_MultiDArrays_Lab\P03_PrimaryDiagonal\obj\Debug\net6.0\P03_PrimaryDiagonal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Test\Desktop\Temp\02_C#Adv_MultiDArrays_Lab\P03_PrimaryDiagonal\obj\Debug\net6.0\P03_PrimaryDiagonal.AssemblyInfoInputs.cache
+C:\Users\Test\Desktop\Temp\02_C#Adv_MultiDArrays_Lab\P03_PrimaryDiagonal\obj\Debug\net6.0\P03_PrimaryDiagonal.AssemblyInfo.cs
+C:\Users\Test\Desktop\Temp\02_C#Adv_MultiDArrays_Lab\P03_PrimaryDiagonal\obj\Debug\net6.0\P03_PrimaryDiagonal.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\Temp\02_C#Adv_MultiDArrays_Lab\P03_PrimaryDiagonal\obj\Debug\net6.0\P03_PrimaryDiagonal.dll
+C:\Users\Test\Desktop\Temp\02_C#Adv_MultiDArrays_Lab\P03_PrimaryDiagonal\obj\Debug\net6.0\refint\P03_PrimaryDiagonal.dll
+C:\Users\Test\Desktop\Temp\02_C#Adv_MultiDArrays_Lab\P03_PrimaryDiagonal\obj\Debug\net6.0\P03_PrimaryDiagonal.pdb
+C:\Users\Test\Desktop\Temp\02_C#Adv_MultiDArrays_Lab\P03_PrimaryDiagonal\obj\Debug\net6.0\P03_PrimaryDiagonal.genruntimeconfig.cache
+C:\Users\Test\Desktop\Temp\02_C#Adv_MultiDArrays_Lab\P03_PrimaryDiagonal\obj\Debug\net6.0\ref\P03_PrimaryDiagonal.dll

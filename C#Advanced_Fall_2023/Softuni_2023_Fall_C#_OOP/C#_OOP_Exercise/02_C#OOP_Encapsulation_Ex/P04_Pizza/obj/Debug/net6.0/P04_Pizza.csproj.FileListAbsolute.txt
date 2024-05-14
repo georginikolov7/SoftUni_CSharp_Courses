@@ -1,0 +1,15 @@
+C:\Users\Test\Desktop\Temp\02_C#OOP_Encapsulation_Ex\P04_Pizza\bin\Debug\net6.0\P04_Pizza.exe
+C:\Users\Test\Desktop\Temp\02_C#OOP_Encapsulation_Ex\P04_Pizza\bin\Debug\net6.0\P04_Pizza.deps.json
+C:\Users\Test\Desktop\Temp\02_C#OOP_Encapsulation_Ex\P04_Pizza\bin\Debug\net6.0\P04_Pizza.runtimeconfig.json
+C:\Users\Test\Desktop\Temp\02_C#OOP_Encapsulation_Ex\P04_Pizza\bin\Debug\net6.0\P04_Pizza.dll
+C:\Users\Test\Desktop\Temp\02_C#OOP_Encapsulation_Ex\P04_Pizza\bin\Debug\net6.0\P04_Pizza.pdb
+C:\Users\Test\Desktop\Temp\02_C#OOP_Encapsulation_Ex\P04_Pizza\obj\Debug\net6.0\P04_Pizza.csproj.AssemblyReference.cache
+C:\Users\Test\Desktop\Temp\02_C#OOP_Encapsulation_Ex\P04_Pizza\obj\Debug\net6.0\P04_Pizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Test\Desktop\Temp\02_C#OOP_Encapsulation_Ex\P04_Pizza\obj\Debug\net6.0\P04_Pizza.AssemblyInfoInputs.cache
+C:\Users\Test\Desktop\Temp\02_C#OOP_Encapsulation_Ex\P04_Pizza\obj\Debug\net6.0\P04_Pizza.AssemblyInfo.cs
+C:\Users\Test\Desktop\Temp\02_C#OOP_Encapsulation_Ex\P04_Pizza\obj\Debug\net6.0\P04_Pizza.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\Temp\02_C#OOP_Encapsulation_Ex\P04_Pizza\obj\Debug\net6.0\P04_Pizza.dll
+C:\Users\Test\Desktop\Temp\02_C#OOP_Encapsulation_Ex\P04_Pizza\obj\Debug\net6.0\refint\P04_Pizza.dll
+C:\Users\Test\Desktop\Temp\02_C#OOP_Encapsulation_Ex\P04_Pizza\obj\Debug\net6.0\P04_Pizza.pdb
+C:\Users\Test\Desktop\Temp\02_C#OOP_Encapsulation_Ex\P04_Pizza\obj\Debug\net6.0\P04_Pizza.genruntimeconfig.cache
+C:\Users\Test\Desktop\Temp\02_C#OOP_Encapsulation_Ex\P04_Pizza\obj\Debug\net6.0\ref\P04_Pizza.dll

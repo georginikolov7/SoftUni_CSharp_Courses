@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Log4U.Run/1.0.0": {
+        "dependencies": {
+          "Log4U.Core": "1.0.0"
+        },
+        "runtime": {
+          "Log4U.Run.dll": {}
+        }
+      },
+      "Log4U.Core/1.0.0": {
+        "runtime": {
+          "Log4U.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Log4U.Run/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Log4U.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

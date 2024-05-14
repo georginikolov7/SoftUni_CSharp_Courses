@@ -1,0 +1,15 @@
+C:\Users\Test\Desktop\Temp\03_C#OOP_Abstraction_Ex\P09_ExplicitInterfaces\bin\Debug\net6.0\P09_ExplicitInterfaces.exe
+C:\Users\Test\Desktop\Temp\03_C#OOP_Abstraction_Ex\P09_ExplicitInterfaces\bin\Debug\net6.0\P09_ExplicitInterfaces.deps.json
+C:\Users\Test\Desktop\Temp\03_C#OOP_Abstraction_Ex\P09_ExplicitInterfaces\bin\Debug\net6.0\P09_ExplicitInterfaces.runtimeconfig.json
+C:\Users\Test\Desktop\Temp\03_C#OOP_Abstraction_Ex\P09_ExplicitInterfaces\bin\Debug\net6.0\P09_ExplicitInterfaces.dll
+C:\Users\Test\Desktop\Temp\03_C#OOP_Abstraction_Ex\P09_ExplicitInterfaces\bin\Debug\net6.0\P09_ExplicitInterfaces.pdb
+C:\Users\Test\Desktop\Temp\03_C#OOP_Abstraction_Ex\P09_ExplicitInterfaces\obj\Debug\net6.0\P09_ExplicitInterfaces.csproj.AssemblyReference.cache
+C:\Users\Test\Desktop\Temp\03_C#OOP_Abstraction_Ex\P09_ExplicitInterfaces\obj\Debug\net6.0\P09_ExplicitInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Test\Desktop\Temp\03_C#OOP_Abstraction_Ex\P09_ExplicitInterfaces\obj\Debug\net6.0\P09_ExplicitInterfaces.AssemblyInfoInputs.cache
+C:\Users\Test\Desktop\Temp\03_C#OOP_Abstraction_Ex\P09_ExplicitInterfaces\obj\Debug\net6.0\P09_ExplicitInterfaces.AssemblyInfo.cs
+C:\Users\Test\Desktop\Temp\03_C#OOP_Abstraction_Ex\P09_ExplicitInterfaces\obj\Debug\net6.0\P09_ExplicitInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\Temp\03_C#OOP_Abstraction_Ex\P09_ExplicitInterfaces\obj\Debug\net6.0\P09_ExplicitInterfaces.dll
+C:\Users\Test\Desktop\Temp\03_C#OOP_Abstraction_Ex\P09_ExplicitInterfaces\obj\Debug\net6.0\refint\P09_ExplicitInterfaces.dll
+C:\Users\Test\Desktop\Temp\03_C#OOP_Abstraction_Ex\P09_ExplicitInterfaces\obj\Debug\net6.0\P09_ExplicitInterfaces.pdb
+C:\Users\Test\Desktop\Temp\03_C#OOP_Abstraction_Ex\P09_ExplicitInterfaces\obj\Debug\net6.0\P09_ExplicitInterfaces.genruntimeconfig.cache
+C:\Users\Test\Desktop\Temp\03_C#OOP_Abstraction_Ex\P09_ExplicitInterfaces\obj\Debug\net6.0\ref\P09_ExplicitInterfaces.dll

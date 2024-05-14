@@ -1,0 +1,15 @@
+C:\Users\Test\Desktop\Temp\04_C#OOP_Polymorphism_Lab\P03_Shapes\bin\Debug\net6.0\P03_Shapes.exe
+C:\Users\Test\Desktop\Temp\04_C#OOP_Polymorphism_Lab\P03_Shapes\bin\Debug\net6.0\P03_Shapes.deps.json
+C:\Users\Test\Desktop\Temp\04_C#OOP_Polymorphism_Lab\P03_Shapes\bin\Debug\net6.0\P03_Shapes.runtimeconfig.json
+C:\Users\Test\Desktop\Temp\04_C#OOP_Polymorphism_Lab\P03_Shapes\bin\Debug\net6.0\P03_Shapes.dll
+C:\Users\Test\Desktop\Temp\04_C#OOP_Polymorphism_Lab\P03_Shapes\bin\Debug\net6.0\P03_Shapes.pdb
+C:\Users\Test\Desktop\Temp\04_C#OOP_Polymorphism_Lab\P03_Shapes\obj\Debug\net6.0\P03_Shapes.csproj.AssemblyReference.cache
+C:\Users\Test\Desktop\Temp\04_C#OOP_Polymorphism_Lab\P03_Shapes\obj\Debug\net6.0\P03_Shapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Test\Desktop\Temp\04_C#OOP_Polymorphism_Lab\P03_Shapes\obj\Debug\net6.0\P03_Shapes.AssemblyInfoInputs.cache
+C:\Users\Test\Desktop\Temp\04_C#OOP_Polymorphism_Lab\P03_Shapes\obj\Debug\net6.0\P03_Shapes.AssemblyInfo.cs
+C:\Users\Test\Desktop\Temp\04_C#OOP_Polymorphism_Lab\P03_Shapes\obj\Debug\net6.0\P03_Shapes.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\Temp\04_C#OOP_Polymorphism_Lab\P03_Shapes\obj\Debug\net6.0\P03_Shapes.dll
+C:\Users\Test\Desktop\Temp\04_C#OOP_Polymorphism_Lab\P03_Shapes\obj\Debug\net6.0\refint\P03_Shapes.dll
+C:\Users\Test\Desktop\Temp\04_C#OOP_Polymorphism_Lab\P03_Shapes\obj\Debug\net6.0\P03_Shapes.pdb
+C:\Users\Test\Desktop\Temp\04_C#OOP_Polymorphism_Lab\P03_Shapes\obj\Debug\net6.0\P03_Shapes.genruntimeconfig.cache
+C:\Users\Test\Desktop\Temp\04_C#OOP_Polymorphism_Lab\P03_Shapes\obj\Debug\net6.0\ref\P03_Shapes.dll

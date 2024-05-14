@@ -1,0 +1,15 @@
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Ex\P11_TriFunction\bin\Debug\net6.0\P11_TriFunction.exe
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Ex\P11_TriFunction\bin\Debug\net6.0\P11_TriFunction.deps.json
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Ex\P11_TriFunction\bin\Debug\net6.0\P11_TriFunction.runtimeconfig.json
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Ex\P11_TriFunction\bin\Debug\net6.0\P11_TriFunction.dll
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Ex\P11_TriFunction\bin\Debug\net6.0\P11_TriFunction.pdb
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Ex\P11_TriFunction\obj\Debug\net6.0\P11_TriFunction.csproj.AssemblyReference.cache
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Ex\P11_TriFunction\obj\Debug\net6.0\P11_TriFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Ex\P11_TriFunction\obj\Debug\net6.0\P11_TriFunction.AssemblyInfoInputs.cache
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Ex\P11_TriFunction\obj\Debug\net6.0\P11_TriFunction.AssemblyInfo.cs
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Ex\P11_TriFunction\obj\Debug\net6.0\P11_TriFunction.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Ex\P11_TriFunction\obj\Debug\net6.0\P11_TriFunction.dll
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Ex\P11_TriFunction\obj\Debug\net6.0\refint\P11_TriFunction.dll
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Ex\P11_TriFunction\obj\Debug\net6.0\P11_TriFunction.pdb
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Ex\P11_TriFunction\obj\Debug\net6.0\P11_TriFunction.genruntimeconfig.cache
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Ex\P11_TriFunction\obj\Debug\net6.0\ref\P11_TriFunction.dll

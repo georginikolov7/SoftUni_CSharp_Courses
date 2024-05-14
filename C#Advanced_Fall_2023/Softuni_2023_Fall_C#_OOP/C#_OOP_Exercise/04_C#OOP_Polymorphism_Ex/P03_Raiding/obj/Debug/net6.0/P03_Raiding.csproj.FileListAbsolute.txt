@@ -1,0 +1,15 @@
+C:\Users\Test\Desktop\Temp\04_C#OOP_Polymorphism_Ex\P03_Raiding\bin\Debug\net6.0\P03_Raiding.exe
+C:\Users\Test\Desktop\Temp\04_C#OOP_Polymorphism_Ex\P03_Raiding\bin\Debug\net6.0\P03_Raiding.deps.json
+C:\Users\Test\Desktop\Temp\04_C#OOP_Polymorphism_Ex\P03_Raiding\bin\Debug\net6.0\P03_Raiding.runtimeconfig.json
+C:\Users\Test\Desktop\Temp\04_C#OOP_Polymorphism_Ex\P03_Raiding\bin\Debug\net6.0\P03_Raiding.dll
+C:\Users\Test\Desktop\Temp\04_C#OOP_Polymorphism_Ex\P03_Raiding\bin\Debug\net6.0\P03_Raiding.pdb
+C:\Users\Test\Desktop\Temp\04_C#OOP_Polymorphism_Ex\P03_Raiding\obj\Debug\net6.0\P03_Raiding.csproj.AssemblyReference.cache
+C:\Users\Test\Desktop\Temp\04_C#OOP_Polymorphism_Ex\P03_Raiding\obj\Debug\net6.0\P03_Raiding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Test\Desktop\Temp\04_C#OOP_Polymorphism_Ex\P03_Raiding\obj\Debug\net6.0\P03_Raiding.AssemblyInfoInputs.cache
+C:\Users\Test\Desktop\Temp\04_C#OOP_Polymorphism_Ex\P03_Raiding\obj\Debug\net6.0\P03_Raiding.AssemblyInfo.cs
+C:\Users\Test\Desktop\Temp\04_C#OOP_Polymorphism_Ex\P03_Raiding\obj\Debug\net6.0\P03_Raiding.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\Temp\04_C#OOP_Polymorphism_Ex\P03_Raiding\obj\Debug\net6.0\P03_Raiding.dll
+C:\Users\Test\Desktop\Temp\04_C#OOP_Polymorphism_Ex\P03_Raiding\obj\Debug\net6.0\refint\P03_Raiding.dll
+C:\Users\Test\Desktop\Temp\04_C#OOP_Polymorphism_Ex\P03_Raiding\obj\Debug\net6.0\P03_Raiding.pdb
+C:\Users\Test\Desktop\Temp\04_C#OOP_Polymorphism_Ex\P03_Raiding\obj\Debug\net6.0\P03_Raiding.genruntimeconfig.cache
+C:\Users\Test\Desktop\Temp\04_C#OOP_Polymorphism_Ex\P03_Raiding\obj\Debug\net6.0\ref\P03_Raiding.dll

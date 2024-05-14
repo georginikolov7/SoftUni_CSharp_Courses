@@ -1,0 +1,15 @@
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Lab\P05_FilterByAge\bin\Debug\net6.0\P05_FilterByAge.exe
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Lab\P05_FilterByAge\bin\Debug\net6.0\P05_FilterByAge.deps.json
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Lab\P05_FilterByAge\bin\Debug\net6.0\P05_FilterByAge.runtimeconfig.json
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Lab\P05_FilterByAge\bin\Debug\net6.0\P05_FilterByAge.dll
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Lab\P05_FilterByAge\bin\Debug\net6.0\P05_FilterByAge.pdb
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Lab\P05_FilterByAge\obj\Debug\net6.0\P05_FilterByAge.csproj.AssemblyReference.cache
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Lab\P05_FilterByAge\obj\Debug\net6.0\P05_FilterByAge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Lab\P05_FilterByAge\obj\Debug\net6.0\P05_FilterByAge.AssemblyInfoInputs.cache
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Lab\P05_FilterByAge\obj\Debug\net6.0\P05_FilterByAge.AssemblyInfo.cs
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Lab\P05_FilterByAge\obj\Debug\net6.0\P05_FilterByAge.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Lab\P05_FilterByAge\obj\Debug\net6.0\P05_FilterByAge.dll
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Lab\P05_FilterByAge\obj\Debug\net6.0\refint\P05_FilterByAge.dll
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Lab\P05_FilterByAge\obj\Debug\net6.0\P05_FilterByAge.pdb
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Lab\P05_FilterByAge\obj\Debug\net6.0\P05_FilterByAge.genruntimeconfig.cache
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Lab\P05_FilterByAge\obj\Debug\net6.0\ref\P05_FilterByAge.dll

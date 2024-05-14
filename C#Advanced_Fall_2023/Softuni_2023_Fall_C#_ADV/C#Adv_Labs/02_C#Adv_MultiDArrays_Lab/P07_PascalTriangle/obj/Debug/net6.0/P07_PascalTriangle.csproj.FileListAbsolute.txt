@@ -1,0 +1,15 @@
+C:\Users\Test\Desktop\Temp\02_C#Adv_MultiDArrays_Lab\P07_PascalTriangle\bin\Debug\net6.0\P07_PascalTriangle.exe
+C:\Users\Test\Desktop\Temp\02_C#Adv_MultiDArrays_Lab\P07_PascalTriangle\bin\Debug\net6.0\P07_PascalTriangle.deps.json
+C:\Users\Test\Desktop\Temp\02_C#Adv_MultiDArrays_Lab\P07_PascalTriangle\bin\Debug\net6.0\P07_PascalTriangle.runtimeconfig.json
+C:\Users\Test\Desktop\Temp\02_C#Adv_MultiDArrays_Lab\P07_PascalTriangle\bin\Debug\net6.0\P07_PascalTriangle.dll
+C:\Users\Test\Desktop\Temp\02_C#Adv_MultiDArrays_Lab\P07_PascalTriangle\bin\Debug\net6.0\P07_PascalTriangle.pdb
+C:\Users\Test\Desktop\Temp\02_C#Adv_MultiDArrays_Lab\P07_PascalTriangle\obj\Debug\net6.0\P07_PascalTriangle.csproj.AssemblyReference.cache
+C:\Users\Test\Desktop\Temp\02_C#Adv_MultiDArrays_Lab\P07_PascalTriangle\obj\Debug\net6.0\P07_PascalTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Test\Desktop\Temp\02_C#Adv_MultiDArrays_Lab\P07_PascalTriangle\obj\Debug\net6.0\P07_PascalTriangle.AssemblyInfoInputs.cache
+C:\Users\Test\Desktop\Temp\02_C#Adv_MultiDArrays_Lab\P07_PascalTriangle\obj\Debug\net6.0\P07_PascalTriangle.AssemblyInfo.cs
+C:\Users\Test\Desktop\Temp\02_C#Adv_MultiDArrays_Lab\P07_PascalTriangle\obj\Debug\net6.0\P07_PascalTriangle.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\Temp\02_C#Adv_MultiDArrays_Lab\P07_PascalTriangle\obj\Debug\net6.0\P07_PascalTriangle.dll
+C:\Users\Test\Desktop\Temp\02_C#Adv_MultiDArrays_Lab\P07_PascalTriangle\obj\Debug\net6.0\refint\P07_PascalTriangle.dll
+C:\Users\Test\Desktop\Temp\02_C#Adv_MultiDArrays_Lab\P07_PascalTriangle\obj\Debug\net6.0\P07_PascalTriangle.pdb
+C:\Users\Test\Desktop\Temp\02_C#Adv_MultiDArrays_Lab\P07_PascalTriangle\obj\Debug\net6.0\P07_PascalTriangle.genruntimeconfig.cache
+C:\Users\Test\Desktop\Temp\02_C#Adv_MultiDArrays_Lab\P07_PascalTriangle\obj\Debug\net6.0\ref\P07_PascalTriangle.dll

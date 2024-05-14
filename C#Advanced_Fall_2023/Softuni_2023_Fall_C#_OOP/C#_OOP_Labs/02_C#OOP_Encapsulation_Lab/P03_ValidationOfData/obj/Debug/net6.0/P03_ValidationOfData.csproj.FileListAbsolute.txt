@@ -1,0 +1,15 @@
+C:\Users\Test\Desktop\Temp\02_C#OOP_Encapsulation_Lab\P03_ValidationOfData\bin\Debug\net6.0\P03_ValidationOfData.exe
+C:\Users\Test\Desktop\Temp\02_C#OOP_Encapsulation_Lab\P03_ValidationOfData\bin\Debug\net6.0\P03_ValidationOfData.deps.json
+C:\Users\Test\Desktop\Temp\02_C#OOP_Encapsulation_Lab\P03_ValidationOfData\bin\Debug\net6.0\P03_ValidationOfData.runtimeconfig.json
+C:\Users\Test\Desktop\Temp\02_C#OOP_Encapsulation_Lab\P03_ValidationOfData\bin\Debug\net6.0\P03_ValidationOfData.dll
+C:\Users\Test\Desktop\Temp\02_C#OOP_Encapsulation_Lab\P03_ValidationOfData\bin\Debug\net6.0\P03_ValidationOfData.pdb
+C:\Users\Test\Desktop\Temp\02_C#OOP_Encapsulation_Lab\P03_ValidationOfData\obj\Debug\net6.0\P03_ValidationOfData.csproj.AssemblyReference.cache
+C:\Users\Test\Desktop\Temp\02_C#OOP_Encapsulation_Lab\P03_ValidationOfData\obj\Debug\net6.0\P03_ValidationOfData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Test\Desktop\Temp\02_C#OOP_Encapsulation_Lab\P03_ValidationOfData\obj\Debug\net6.0\P03_ValidationOfData.AssemblyInfoInputs.cache
+C:\Users\Test\Desktop\Temp\02_C#OOP_Encapsulation_Lab\P03_ValidationOfData\obj\Debug\net6.0\P03_ValidationOfData.AssemblyInfo.cs
+C:\Users\Test\Desktop\Temp\02_C#OOP_Encapsulation_Lab\P03_ValidationOfData\obj\Debug\net6.0\P03_ValidationOfData.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\Temp\02_C#OOP_Encapsulation_Lab\P03_ValidationOfData\obj\Debug\net6.0\P03_ValidationOfData.dll
+C:\Users\Test\Desktop\Temp\02_C#OOP_Encapsulation_Lab\P03_ValidationOfData\obj\Debug\net6.0\refint\P03_ValidationOfData.dll
+C:\Users\Test\Desktop\Temp\02_C#OOP_Encapsulation_Lab\P03_ValidationOfData\obj\Debug\net6.0\P03_ValidationOfData.pdb
+C:\Users\Test\Desktop\Temp\02_C#OOP_Encapsulation_Lab\P03_ValidationOfData\obj\Debug\net6.0\P03_ValidationOfData.genruntimeconfig.cache
+C:\Users\Test\Desktop\Temp\02_C#OOP_Encapsulation_Lab\P03_ValidationOfData\obj\Debug\net6.0\ref\P03_ValidationOfData.dll

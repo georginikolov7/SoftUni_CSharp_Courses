@@ -1,0 +1,15 @@
+C:\Users\Test\Desktop\Temp\08_C#Adv_Generics_Ex\P08_Threeuple\bin\Debug\net6.0\P08_Threeuple.exe
+C:\Users\Test\Desktop\Temp\08_C#Adv_Generics_Ex\P08_Threeuple\bin\Debug\net6.0\P08_Threeuple.deps.json
+C:\Users\Test\Desktop\Temp\08_C#Adv_Generics_Ex\P08_Threeuple\bin\Debug\net6.0\P08_Threeuple.runtimeconfig.json
+C:\Users\Test\Desktop\Temp\08_C#Adv_Generics_Ex\P08_Threeuple\bin\Debug\net6.0\P08_Threeuple.dll
+C:\Users\Test\Desktop\Temp\08_C#Adv_Generics_Ex\P08_Threeuple\bin\Debug\net6.0\P08_Threeuple.pdb
+C:\Users\Test\Desktop\Temp\08_C#Adv_Generics_Ex\P08_Threeuple\obj\Debug\net6.0\P08_Threeuple.csproj.AssemblyReference.cache
+C:\Users\Test\Desktop\Temp\08_C#Adv_Generics_Ex\P08_Threeuple\obj\Debug\net6.0\P08_Threeuple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Test\Desktop\Temp\08_C#Adv_Generics_Ex\P08_Threeuple\obj\Debug\net6.0\P08_Threeuple.AssemblyInfoInputs.cache
+C:\Users\Test\Desktop\Temp\08_C#Adv_Generics_Ex\P08_Threeuple\obj\Debug\net6.0\P08_Threeuple.AssemblyInfo.cs
+C:\Users\Test\Desktop\Temp\08_C#Adv_Generics_Ex\P08_Threeuple\obj\Debug\net6.0\P08_Threeuple.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\Temp\08_C#Adv_Generics_Ex\P08_Threeuple\obj\Debug\net6.0\P08_Threeuple.dll
+C:\Users\Test\Desktop\Temp\08_C#Adv_Generics_Ex\P08_Threeuple\obj\Debug\net6.0\refint\P08_Threeuple.dll
+C:\Users\Test\Desktop\Temp\08_C#Adv_Generics_Ex\P08_Threeuple\obj\Debug\net6.0\P08_Threeuple.pdb
+C:\Users\Test\Desktop\Temp\08_C#Adv_Generics_Ex\P08_Threeuple\obj\Debug\net6.0\P08_Threeuple.genruntimeconfig.cache
+C:\Users\Test\Desktop\Temp\08_C#Adv_Generics_Ex\P08_Threeuple\obj\Debug\net6.0\ref\P08_Threeuple.dll

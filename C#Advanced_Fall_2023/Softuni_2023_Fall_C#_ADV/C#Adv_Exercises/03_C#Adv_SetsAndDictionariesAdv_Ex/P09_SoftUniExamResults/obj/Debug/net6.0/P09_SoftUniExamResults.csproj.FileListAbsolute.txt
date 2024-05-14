@@ -1,0 +1,15 @@
+C:\Users\Test\Desktop\Temp\03_C#Adv_SetsAndDictionariesAdv_Ex\P09_SoftUniExamResults\bin\Debug\net6.0\P09_SoftUniExamResults.exe
+C:\Users\Test\Desktop\Temp\03_C#Adv_SetsAndDictionariesAdv_Ex\P09_SoftUniExamResults\bin\Debug\net6.0\P09_SoftUniExamResults.deps.json
+C:\Users\Test\Desktop\Temp\03_C#Adv_SetsAndDictionariesAdv_Ex\P09_SoftUniExamResults\bin\Debug\net6.0\P09_SoftUniExamResults.runtimeconfig.json
+C:\Users\Test\Desktop\Temp\03_C#Adv_SetsAndDictionariesAdv_Ex\P09_SoftUniExamResults\bin\Debug\net6.0\P09_SoftUniExamResults.dll
+C:\Users\Test\Desktop\Temp\03_C#Adv_SetsAndDictionariesAdv_Ex\P09_SoftUniExamResults\bin\Debug\net6.0\P09_SoftUniExamResults.pdb
+C:\Users\Test\Desktop\Temp\03_C#Adv_SetsAndDictionariesAdv_Ex\P09_SoftUniExamResults\obj\Debug\net6.0\P09_SoftUniExamResults.csproj.AssemblyReference.cache
+C:\Users\Test\Desktop\Temp\03_C#Adv_SetsAndDictionariesAdv_Ex\P09_SoftUniExamResults\obj\Debug\net6.0\P09_SoftUniExamResults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Test\Desktop\Temp\03_C#Adv_SetsAndDictionariesAdv_Ex\P09_SoftUniExamResults\obj\Debug\net6.0\P09_SoftUniExamResults.AssemblyInfoInputs.cache
+C:\Users\Test\Desktop\Temp\03_C#Adv_SetsAndDictionariesAdv_Ex\P09_SoftUniExamResults\obj\Debug\net6.0\P09_SoftUniExamResults.AssemblyInfo.cs
+C:\Users\Test\Desktop\Temp\03_C#Adv_SetsAndDictionariesAdv_Ex\P09_SoftUniExamResults\obj\Debug\net6.0\P09_SoftUniExamResults.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\Temp\03_C#Adv_SetsAndDictionariesAdv_Ex\P09_SoftUniExamResults\obj\Debug\net6.0\P09_SoftUniExamResults.dll
+C:\Users\Test\Desktop\Temp\03_C#Adv_SetsAndDictionariesAdv_Ex\P09_SoftUniExamResults\obj\Debug\net6.0\refint\P09_SoftUniExamResults.dll
+C:\Users\Test\Desktop\Temp\03_C#Adv_SetsAndDictionariesAdv_Ex\P09_SoftUniExamResults\obj\Debug\net6.0\P09_SoftUniExamResults.pdb
+C:\Users\Test\Desktop\Temp\03_C#Adv_SetsAndDictionariesAdv_Ex\P09_SoftUniExamResults\obj\Debug\net6.0\P09_SoftUniExamResults.genruntimeconfig.cache
+C:\Users\Test\Desktop\Temp\03_C#Adv_SetsAndDictionariesAdv_Ex\P09_SoftUniExamResults\obj\Debug\net6.0\ref\P09_SoftUniExamResults.dll

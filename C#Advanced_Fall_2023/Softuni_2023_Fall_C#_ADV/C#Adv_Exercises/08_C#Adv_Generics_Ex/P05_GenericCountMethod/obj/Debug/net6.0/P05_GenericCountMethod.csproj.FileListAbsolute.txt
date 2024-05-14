@@ -1,0 +1,15 @@
+C:\Users\Test\Desktop\Temp\08_C#Adv_Generics_Ex\P05_GenericCountMethod\obj\Debug\net6.0\P05_GenericCountMethod.csproj.AssemblyReference.cache
+C:\Users\Test\Desktop\Temp\08_C#Adv_Generics_Ex\P05_GenericCountMethod\obj\Debug\net6.0\P05_GenericCountMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Test\Desktop\Temp\08_C#Adv_Generics_Ex\P05_GenericCountMethod\obj\Debug\net6.0\P05_GenericCountMethod.AssemblyInfoInputs.cache
+C:\Users\Test\Desktop\Temp\08_C#Adv_Generics_Ex\P05_GenericCountMethod\obj\Debug\net6.0\P05_GenericCountMethod.AssemblyInfo.cs
+C:\Users\Test\Desktop\Temp\08_C#Adv_Generics_Ex\P05_GenericCountMethod\obj\Debug\net6.0\P05_GenericCountMethod.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\Temp\08_C#Adv_Generics_Ex\P05_GenericCountMethod\bin\Debug\net6.0\P05_GenericCountMethod.exe
+C:\Users\Test\Desktop\Temp\08_C#Adv_Generics_Ex\P05_GenericCountMethod\bin\Debug\net6.0\P05_GenericCountMethod.deps.json
+C:\Users\Test\Desktop\Temp\08_C#Adv_Generics_Ex\P05_GenericCountMethod\bin\Debug\net6.0\P05_GenericCountMethod.runtimeconfig.json
+C:\Users\Test\Desktop\Temp\08_C#Adv_Generics_Ex\P05_GenericCountMethod\bin\Debug\net6.0\P05_GenericCountMethod.dll
+C:\Users\Test\Desktop\Temp\08_C#Adv_Generics_Ex\P05_GenericCountMethod\bin\Debug\net6.0\P05_GenericCountMethod.pdb
+C:\Users\Test\Desktop\Temp\08_C#Adv_Generics_Ex\P05_GenericCountMethod\obj\Debug\net6.0\P05_GenericCountMethod.dll
+C:\Users\Test\Desktop\Temp\08_C#Adv_Generics_Ex\P05_GenericCountMethod\obj\Debug\net6.0\refint\P05_GenericCountMethod.dll
+C:\Users\Test\Desktop\Temp\08_C#Adv_Generics_Ex\P05_GenericCountMethod\obj\Debug\net6.0\P05_GenericCountMethod.pdb
+C:\Users\Test\Desktop\Temp\08_C#Adv_Generics_Ex\P05_GenericCountMethod\obj\Debug\net6.0\P05_GenericCountMethod.genruntimeconfig.cache
+C:\Users\Test\Desktop\Temp\08_C#Adv_Generics_Ex\P05_GenericCountMethod\obj\Debug\net6.0\ref\P05_GenericCountMethod.dll

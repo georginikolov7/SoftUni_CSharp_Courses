@@ -1,0 +1,15 @@
+C:\Users\Test\Desktop\Temp\09_C#Adv_IteratorsAndComparators_Ex\ListyIterator\bin\Debug\net6.0\ListyIterator.exe
+C:\Users\Test\Desktop\Temp\09_C#Adv_IteratorsAndComparators_Ex\ListyIterator\bin\Debug\net6.0\ListyIterator.deps.json
+C:\Users\Test\Desktop\Temp\09_C#Adv_IteratorsAndComparators_Ex\ListyIterator\bin\Debug\net6.0\ListyIterator.runtimeconfig.json
+C:\Users\Test\Desktop\Temp\09_C#Adv_IteratorsAndComparators_Ex\ListyIterator\bin\Debug\net6.0\ListyIterator.dll
+C:\Users\Test\Desktop\Temp\09_C#Adv_IteratorsAndComparators_Ex\ListyIterator\bin\Debug\net6.0\ListyIterator.pdb
+C:\Users\Test\Desktop\Temp\09_C#Adv_IteratorsAndComparators_Ex\ListyIterator\obj\Debug\net6.0\ListyIterator.csproj.AssemblyReference.cache
+C:\Users\Test\Desktop\Temp\09_C#Adv_IteratorsAndComparators_Ex\ListyIterator\obj\Debug\net6.0\ListyIterator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Test\Desktop\Temp\09_C#Adv_IteratorsAndComparators_Ex\ListyIterator\obj\Debug\net6.0\ListyIterator.AssemblyInfoInputs.cache
+C:\Users\Test\Desktop\Temp\09_C#Adv_IteratorsAndComparators_Ex\ListyIterator\obj\Debug\net6.0\ListyIterator.AssemblyInfo.cs
+C:\Users\Test\Desktop\Temp\09_C#Adv_IteratorsAndComparators_Ex\ListyIterator\obj\Debug\net6.0\ListyIterator.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\Temp\09_C#Adv_IteratorsAndComparators_Ex\ListyIterator\obj\Debug\net6.0\ListyIterator.dll
+C:\Users\Test\Desktop\Temp\09_C#Adv_IteratorsAndComparators_Ex\ListyIterator\obj\Debug\net6.0\refint\ListyIterator.dll
+C:\Users\Test\Desktop\Temp\09_C#Adv_IteratorsAndComparators_Ex\ListyIterator\obj\Debug\net6.0\ListyIterator.pdb
+C:\Users\Test\Desktop\Temp\09_C#Adv_IteratorsAndComparators_Ex\ListyIterator\obj\Debug\net6.0\ListyIterator.genruntimeconfig.cache
+C:\Users\Test\Desktop\Temp\09_C#Adv_IteratorsAndComparators_Ex\ListyIterator\obj\Debug\net6.0\ref\ListyIterator.dll

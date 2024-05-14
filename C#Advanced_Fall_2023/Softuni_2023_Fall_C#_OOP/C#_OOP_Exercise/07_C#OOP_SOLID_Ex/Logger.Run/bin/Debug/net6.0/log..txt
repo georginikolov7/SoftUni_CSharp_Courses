@@ -1,0 +1,2 @@
+3/31/2015 5:33:07 PM - Info - Everything seems fine
+3/31/2015 5:33:07 PM - Warning - Warning: ping is too high - disconnect imminent

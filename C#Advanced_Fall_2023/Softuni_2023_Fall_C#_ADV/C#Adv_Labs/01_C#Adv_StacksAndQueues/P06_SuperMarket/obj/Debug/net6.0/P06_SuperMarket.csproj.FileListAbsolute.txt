@@ -1,0 +1,15 @@
+C:\Users\Test\Desktop\Temp\01_C#Adv_StacksAndQueues\P06_SuperMarket\bin\Debug\net6.0\P06_SuperMarket.exe
+C:\Users\Test\Desktop\Temp\01_C#Adv_StacksAndQueues\P06_SuperMarket\bin\Debug\net6.0\P06_SuperMarket.deps.json
+C:\Users\Test\Desktop\Temp\01_C#Adv_StacksAndQueues\P06_SuperMarket\bin\Debug\net6.0\P06_SuperMarket.runtimeconfig.json
+C:\Users\Test\Desktop\Temp\01_C#Adv_StacksAndQueues\P06_SuperMarket\bin\Debug\net6.0\P06_SuperMarket.dll
+C:\Users\Test\Desktop\Temp\01_C#Adv_StacksAndQueues\P06_SuperMarket\bin\Debug\net6.0\P06_SuperMarket.pdb
+C:\Users\Test\Desktop\Temp\01_C#Adv_StacksAndQueues\P06_SuperMarket\obj\Debug\net6.0\P06_SuperMarket.csproj.AssemblyReference.cache
+C:\Users\Test\Desktop\Temp\01_C#Adv_StacksAndQueues\P06_SuperMarket\obj\Debug\net6.0\P06_SuperMarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Test\Desktop\Temp\01_C#Adv_StacksAndQueues\P06_SuperMarket\obj\Debug\net6.0\P06_SuperMarket.AssemblyInfoInputs.cache
+C:\Users\Test\Desktop\Temp\01_C#Adv_StacksAndQueues\P06_SuperMarket\obj\Debug\net6.0\P06_SuperMarket.AssemblyInfo.cs
+C:\Users\Test\Desktop\Temp\01_C#Adv_StacksAndQueues\P06_SuperMarket\obj\Debug\net6.0\P06_SuperMarket.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\Temp\01_C#Adv_StacksAndQueues\P06_SuperMarket\obj\Debug\net6.0\P06_SuperMarket.dll
+C:\Users\Test\Desktop\Temp\01_C#Adv_StacksAndQueues\P06_SuperMarket\obj\Debug\net6.0\refint\P06_SuperMarket.dll
+C:\Users\Test\Desktop\Temp\01_C#Adv_StacksAndQueues\P06_SuperMarket\obj\Debug\net6.0\P06_SuperMarket.pdb
+C:\Users\Test\Desktop\Temp\01_C#Adv_StacksAndQueues\P06_SuperMarket\obj\Debug\net6.0\P06_SuperMarket.genruntimeconfig.cache
+C:\Users\Test\Desktop\Temp\01_C#Adv_StacksAndQueues\P06_SuperMarket\obj\Debug\net6.0\ref\P06_SuperMarket.dll

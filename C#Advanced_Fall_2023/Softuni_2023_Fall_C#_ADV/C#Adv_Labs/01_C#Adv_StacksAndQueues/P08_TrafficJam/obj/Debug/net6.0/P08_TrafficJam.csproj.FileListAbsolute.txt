@@ -1,0 +1,15 @@
+C:\Users\Test\Desktop\Temp\01_C#Adv_StacksAndQueues\P08_TrafficJam\bin\Debug\net6.0\P08_TrafficJam.exe
+C:\Users\Test\Desktop\Temp\01_C#Adv_StacksAndQueues\P08_TrafficJam\bin\Debug\net6.0\P08_TrafficJam.deps.json
+C:\Users\Test\Desktop\Temp\01_C#Adv_StacksAndQueues\P08_TrafficJam\bin\Debug\net6.0\P08_TrafficJam.runtimeconfig.json
+C:\Users\Test\Desktop\Temp\01_C#Adv_StacksAndQueues\P08_TrafficJam\bin\Debug\net6.0\P08_TrafficJam.dll
+C:\Users\Test\Desktop\Temp\01_C#Adv_StacksAndQueues\P08_TrafficJam\bin\Debug\net6.0\P08_TrafficJam.pdb
+C:\Users\Test\Desktop\Temp\01_C#Adv_StacksAndQueues\P08_TrafficJam\obj\Debug\net6.0\P08_TrafficJam.csproj.AssemblyReference.cache
+C:\Users\Test\Desktop\Temp\01_C#Adv_StacksAndQueues\P08_TrafficJam\obj\Debug\net6.0\P08_TrafficJam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Test\Desktop\Temp\01_C#Adv_StacksAndQueues\P08_TrafficJam\obj\Debug\net6.0\P08_TrafficJam.AssemblyInfoInputs.cache
+C:\Users\Test\Desktop\Temp\01_C#Adv_StacksAndQueues\P08_TrafficJam\obj\Debug\net6.0\P08_TrafficJam.AssemblyInfo.cs
+C:\Users\Test\Desktop\Temp\01_C#Adv_StacksAndQueues\P08_TrafficJam\obj\Debug\net6.0\P08_TrafficJam.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\Temp\01_C#Adv_StacksAndQueues\P08_TrafficJam\obj\Debug\net6.0\P08_TrafficJam.dll
+C:\Users\Test\Desktop\Temp\01_C#Adv_StacksAndQueues\P08_TrafficJam\obj\Debug\net6.0\refint\P08_TrafficJam.dll
+C:\Users\Test\Desktop\Temp\01_C#Adv_StacksAndQueues\P08_TrafficJam\obj\Debug\net6.0\P08_TrafficJam.pdb
+C:\Users\Test\Desktop\Temp\01_C#Adv_StacksAndQueues\P08_TrafficJam\obj\Debug\net6.0\P08_TrafficJam.genruntimeconfig.cache
+C:\Users\Test\Desktop\Temp\01_C#Adv_StacksAndQueues\P08_TrafficJam\obj\Debug\net6.0\ref\P08_TrafficJam.dll

@@ -1,0 +1,15 @@
+C:\Users\Test\Desktop\Temp\06_C#Adv_Classes_Ex\P04_OpinionPoll\bin\Debug\net6.0\P04_OpinionPoll.exe
+C:\Users\Test\Desktop\Temp\06_C#Adv_Classes_Ex\P04_OpinionPoll\bin\Debug\net6.0\P04_OpinionPoll.deps.json
+C:\Users\Test\Desktop\Temp\06_C#Adv_Classes_Ex\P04_OpinionPoll\bin\Debug\net6.0\P04_OpinionPoll.runtimeconfig.json
+C:\Users\Test\Desktop\Temp\06_C#Adv_Classes_Ex\P04_OpinionPoll\bin\Debug\net6.0\P04_OpinionPoll.dll
+C:\Users\Test\Desktop\Temp\06_C#Adv_Classes_Ex\P04_OpinionPoll\bin\Debug\net6.0\P04_OpinionPoll.pdb
+C:\Users\Test\Desktop\Temp\06_C#Adv_Classes_Ex\P04_OpinionPoll\obj\Debug\net6.0\P04_OpinionPoll.csproj.AssemblyReference.cache
+C:\Users\Test\Desktop\Temp\06_C#Adv_Classes_Ex\P04_OpinionPoll\obj\Debug\net6.0\P04_OpinionPoll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Test\Desktop\Temp\06_C#Adv_Classes_Ex\P04_OpinionPoll\obj\Debug\net6.0\P04_OpinionPoll.AssemblyInfoInputs.cache
+C:\Users\Test\Desktop\Temp\06_C#Adv_Classes_Ex\P04_OpinionPoll\obj\Debug\net6.0\P04_OpinionPoll.AssemblyInfo.cs
+C:\Users\Test\Desktop\Temp\06_C#Adv_Classes_Ex\P04_OpinionPoll\obj\Debug\net6.0\P04_OpinionPoll.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\Temp\06_C#Adv_Classes_Ex\P04_OpinionPoll\obj\Debug\net6.0\P04_OpinionPoll.dll
+C:\Users\Test\Desktop\Temp\06_C#Adv_Classes_Ex\P04_OpinionPoll\obj\Debug\net6.0\refint\P04_OpinionPoll.dll
+C:\Users\Test\Desktop\Temp\06_C#Adv_Classes_Ex\P04_OpinionPoll\obj\Debug\net6.0\P04_OpinionPoll.pdb
+C:\Users\Test\Desktop\Temp\06_C#Adv_Classes_Ex\P04_OpinionPoll\obj\Debug\net6.0\P04_OpinionPoll.genruntimeconfig.cache
+C:\Users\Test\Desktop\Temp\06_C#Adv_Classes_Ex\P04_OpinionPoll\obj\Debug\net6.0\ref\P04_OpinionPoll.dll

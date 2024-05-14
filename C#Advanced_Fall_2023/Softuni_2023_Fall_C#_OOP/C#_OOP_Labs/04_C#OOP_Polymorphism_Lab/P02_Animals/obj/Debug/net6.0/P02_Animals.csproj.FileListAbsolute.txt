@@ -1,0 +1,15 @@
+C:\Users\Test\Desktop\Temp\04_C#OOP_Polymorphism_Lab\P02_Animals\bin\Debug\net6.0\P02_Animals.exe
+C:\Users\Test\Desktop\Temp\04_C#OOP_Polymorphism_Lab\P02_Animals\bin\Debug\net6.0\P02_Animals.deps.json
+C:\Users\Test\Desktop\Temp\04_C#OOP_Polymorphism_Lab\P02_Animals\bin\Debug\net6.0\P02_Animals.runtimeconfig.json
+C:\Users\Test\Desktop\Temp\04_C#OOP_Polymorphism_Lab\P02_Animals\bin\Debug\net6.0\P02_Animals.dll
+C:\Users\Test\Desktop\Temp\04_C#OOP_Polymorphism_Lab\P02_Animals\bin\Debug\net6.0\P02_Animals.pdb
+C:\Users\Test\Desktop\Temp\04_C#OOP_Polymorphism_Lab\P02_Animals\obj\Debug\net6.0\P02_Animals.csproj.AssemblyReference.cache
+C:\Users\Test\Desktop\Temp\04_C#OOP_Polymorphism_Lab\P02_Animals\obj\Debug\net6.0\P02_Animals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Test\Desktop\Temp\04_C#OOP_Polymorphism_Lab\P02_Animals\obj\Debug\net6.0\P02_Animals.AssemblyInfoInputs.cache
+C:\Users\Test\Desktop\Temp\04_C#OOP_Polymorphism_Lab\P02_Animals\obj\Debug\net6.0\P02_Animals.AssemblyInfo.cs
+C:\Users\Test\Desktop\Temp\04_C#OOP_Polymorphism_Lab\P02_Animals\obj\Debug\net6.0\P02_Animals.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\Temp\04_C#OOP_Polymorphism_Lab\P02_Animals\obj\Debug\net6.0\P02_Animals.dll
+C:\Users\Test\Desktop\Temp\04_C#OOP_Polymorphism_Lab\P02_Animals\obj\Debug\net6.0\refint\P02_Animals.dll
+C:\Users\Test\Desktop\Temp\04_C#OOP_Polymorphism_Lab\P02_Animals\obj\Debug\net6.0\P02_Animals.pdb
+C:\Users\Test\Desktop\Temp\04_C#OOP_Polymorphism_Lab\P02_Animals\obj\Debug\net6.0\P02_Animals.genruntimeconfig.cache
+C:\Users\Test\Desktop\Temp\04_C#OOP_Polymorphism_Lab\P02_Animals\obj\Debug\net6.0\ref\P02_Animals.dll

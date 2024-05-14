@@ -1,0 +1,15 @@
+C:\Users\Test\Desktop\Temp\03_C#OOP_Abstraction_Ex\P06_FoodShortage\obj\Debug\net6.0\P06_FoodShortage.csproj.AssemblyReference.cache
+C:\Users\Test\Desktop\Temp\03_C#OOP_Abstraction_Ex\P06_FoodShortage\obj\Debug\net6.0\P06_FoodShortage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Test\Desktop\Temp\03_C#OOP_Abstraction_Ex\P06_FoodShortage\obj\Debug\net6.0\P06_FoodShortage.AssemblyInfoInputs.cache
+C:\Users\Test\Desktop\Temp\03_C#OOP_Abstraction_Ex\P06_FoodShortage\obj\Debug\net6.0\P06_FoodShortage.AssemblyInfo.cs
+C:\Users\Test\Desktop\Temp\03_C#OOP_Abstraction_Ex\P06_FoodShortage\obj\Debug\net6.0\P06_FoodShortage.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\Temp\03_C#OOP_Abstraction_Ex\P06_FoodShortage\bin\Debug\net6.0\P06_FoodShortage.exe
+C:\Users\Test\Desktop\Temp\03_C#OOP_Abstraction_Ex\P06_FoodShortage\bin\Debug\net6.0\P06_FoodShortage.deps.json
+C:\Users\Test\Desktop\Temp\03_C#OOP_Abstraction_Ex\P06_FoodShortage\bin\Debug\net6.0\P06_FoodShortage.runtimeconfig.json
+C:\Users\Test\Desktop\Temp\03_C#OOP_Abstraction_Ex\P06_FoodShortage\bin\Debug\net6.0\P06_FoodShortage.dll
+C:\Users\Test\Desktop\Temp\03_C#OOP_Abstraction_Ex\P06_FoodShortage\bin\Debug\net6.0\P06_FoodShortage.pdb
+C:\Users\Test\Desktop\Temp\03_C#OOP_Abstraction_Ex\P06_FoodShortage\obj\Debug\net6.0\P06_FoodShortage.dll
+C:\Users\Test\Desktop\Temp\03_C#OOP_Abstraction_Ex\P06_FoodShortage\obj\Debug\net6.0\refint\P06_FoodShortage.dll
+C:\Users\Test\Desktop\Temp\03_C#OOP_Abstraction_Ex\P06_FoodShortage\obj\Debug\net6.0\P06_FoodShortage.pdb
+C:\Users\Test\Desktop\Temp\03_C#OOP_Abstraction_Ex\P06_FoodShortage\obj\Debug\net6.0\P06_FoodShortage.genruntimeconfig.cache
+C:\Users\Test\Desktop\Temp\03_C#OOP_Abstraction_Ex\P06_FoodShortage\obj\Debug\net6.0\ref\P06_FoodShortage.dll

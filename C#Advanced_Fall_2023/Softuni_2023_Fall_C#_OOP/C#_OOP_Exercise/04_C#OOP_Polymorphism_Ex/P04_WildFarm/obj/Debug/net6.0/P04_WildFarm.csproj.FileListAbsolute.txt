@@ -1,0 +1,15 @@
+C:\Users\Test\Desktop\Temp\04_C#OOP_Polymorphism_Ex\P04_WildFarm\bin\Debug\net6.0\P04_WildFarm.exe
+C:\Users\Test\Desktop\Temp\04_C#OOP_Polymorphism_Ex\P04_WildFarm\bin\Debug\net6.0\P04_WildFarm.deps.json
+C:\Users\Test\Desktop\Temp\04_C#OOP_Polymorphism_Ex\P04_WildFarm\bin\Debug\net6.0\P04_WildFarm.runtimeconfig.json
+C:\Users\Test\Desktop\Temp\04_C#OOP_Polymorphism_Ex\P04_WildFarm\bin\Debug\net6.0\P04_WildFarm.dll
+C:\Users\Test\Desktop\Temp\04_C#OOP_Polymorphism_Ex\P04_WildFarm\bin\Debug\net6.0\P04_WildFarm.pdb
+C:\Users\Test\Desktop\Temp\04_C#OOP_Polymorphism_Ex\P04_WildFarm\obj\Debug\net6.0\P04_WildFarm.csproj.AssemblyReference.cache
+C:\Users\Test\Desktop\Temp\04_C#OOP_Polymorphism_Ex\P04_WildFarm\obj\Debug\net6.0\P04_WildFarm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Test\Desktop\Temp\04_C#OOP_Polymorphism_Ex\P04_WildFarm\obj\Debug\net6.0\P04_WildFarm.AssemblyInfoInputs.cache
+C:\Users\Test\Desktop\Temp\04_C#OOP_Polymorphism_Ex\P04_WildFarm\obj\Debug\net6.0\P04_WildFarm.AssemblyInfo.cs
+C:\Users\Test\Desktop\Temp\04_C#OOP_Polymorphism_Ex\P04_WildFarm\obj\Debug\net6.0\P04_WildFarm.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\Temp\04_C#OOP_Polymorphism_Ex\P04_WildFarm\obj\Debug\net6.0\P04_WildFarm.dll
+C:\Users\Test\Desktop\Temp\04_C#OOP_Polymorphism_Ex\P04_WildFarm\obj\Debug\net6.0\refint\P04_WildFarm.dll
+C:\Users\Test\Desktop\Temp\04_C#OOP_Polymorphism_Ex\P04_WildFarm\obj\Debug\net6.0\P04_WildFarm.pdb
+C:\Users\Test\Desktop\Temp\04_C#OOP_Polymorphism_Ex\P04_WildFarm\obj\Debug\net6.0\P04_WildFarm.genruntimeconfig.cache
+C:\Users\Test\Desktop\Temp\04_C#OOP_Polymorphism_Ex\P04_WildFarm\obj\Debug\net6.0\ref\P04_WildFarm.dll

@@ -1,0 +1,12 @@
+C:\Users\Test\Desktop\Temp\07_C#OOP_SOLID_Ex\Logger.Core\bin\Debug\net6.0\Log4U.Core.deps.json
+C:\Users\Test\Desktop\Temp\07_C#OOP_SOLID_Ex\Logger.Core\bin\Debug\net6.0\Log4U.Core.dll
+C:\Users\Test\Desktop\Temp\07_C#OOP_SOLID_Ex\Logger.Core\bin\Debug\net6.0\Log4U.Core.pdb
+C:\Users\Test\Desktop\Temp\07_C#OOP_SOLID_Ex\Logger.Core\obj\Debug\net6.0\Log4U.Core.csproj.AssemblyReference.cache
+C:\Users\Test\Desktop\Temp\07_C#OOP_SOLID_Ex\Logger.Core\obj\Debug\net6.0\Log4U.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Test\Desktop\Temp\07_C#OOP_SOLID_Ex\Logger.Core\obj\Debug\net6.0\Log4U.Core.AssemblyInfoInputs.cache
+C:\Users\Test\Desktop\Temp\07_C#OOP_SOLID_Ex\Logger.Core\obj\Debug\net6.0\Log4U.Core.AssemblyInfo.cs
+C:\Users\Test\Desktop\Temp\07_C#OOP_SOLID_Ex\Logger.Core\obj\Debug\net6.0\Log4U.Core.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\Temp\07_C#OOP_SOLID_Ex\Logger.Core\obj\Debug\net6.0\Log4U.Core.dll
+C:\Users\Test\Desktop\Temp\07_C#OOP_SOLID_Ex\Logger.Core\obj\Debug\net6.0\refint\Log4U.Core.dll
+C:\Users\Test\Desktop\Temp\07_C#OOP_SOLID_Ex\Logger.Core\obj\Debug\net6.0\Log4U.Core.pdb
+C:\Users\Test\Desktop\Temp\07_C#OOP_SOLID_Ex\Logger.Core\obj\Debug\net6.0\ref\Log4U.Core.dll

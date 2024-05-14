@@ -1,0 +1,12 @@
+C:\Users\Test\Desktop\Temp\09_C#OOP_UnitTesting_ex\DatabaseExtended\bin\Debug\net6.0\DatabaseExtended.deps.json
+C:\Users\Test\Desktop\Temp\09_C#OOP_UnitTesting_ex\DatabaseExtended\bin\Debug\net6.0\DatabaseExtended.dll
+C:\Users\Test\Desktop\Temp\09_C#OOP_UnitTesting_ex\DatabaseExtended\bin\Debug\net6.0\DatabaseExtended.pdb
+C:\Users\Test\Desktop\Temp\09_C#OOP_UnitTesting_ex\DatabaseExtended\obj\Debug\net6.0\DatabaseExtended.csproj.AssemblyReference.cache
+C:\Users\Test\Desktop\Temp\09_C#OOP_UnitTesting_ex\DatabaseExtended\obj\Debug\net6.0\DatabaseExtended.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Test\Desktop\Temp\09_C#OOP_UnitTesting_ex\DatabaseExtended\obj\Debug\net6.0\DatabaseExtended.AssemblyInfoInputs.cache
+C:\Users\Test\Desktop\Temp\09_C#OOP_UnitTesting_ex\DatabaseExtended\obj\Debug\net6.0\DatabaseExtended.AssemblyInfo.cs
+C:\Users\Test\Desktop\Temp\09_C#OOP_UnitTesting_ex\DatabaseExtended\obj\Debug\net6.0\DatabaseExtended.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\Temp\09_C#OOP_UnitTesting_ex\DatabaseExtended\obj\Debug\net6.0\DatabaseExtended.dll
+C:\Users\Test\Desktop\Temp\09_C#OOP_UnitTesting_ex\DatabaseExtended\obj\Debug\net6.0\refint\DatabaseExtended.dll
+C:\Users\Test\Desktop\Temp\09_C#OOP_UnitTesting_ex\DatabaseExtended\obj\Debug\net6.0\DatabaseExtended.pdb
+C:\Users\Test\Desktop\Temp\09_C#OOP_UnitTesting_ex\DatabaseExtended\obj\Debug\net6.0\ref\DatabaseExtended.dll

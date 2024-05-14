@@ -1,0 +1,15 @@
+C:\Users\Test\Desktop\Temp\08_C#Adv_Generics_Ex\P01_GenericBoxOfString\bin\Debug\net6.0\P01_GenericBoxOfString.exe
+C:\Users\Test\Desktop\Temp\08_C#Adv_Generics_Ex\P01_GenericBoxOfString\bin\Debug\net6.0\P01_GenericBoxOfString.deps.json
+C:\Users\Test\Desktop\Temp\08_C#Adv_Generics_Ex\P01_GenericBoxOfString\bin\Debug\net6.0\P01_GenericBoxOfString.runtimeconfig.json
+C:\Users\Test\Desktop\Temp\08_C#Adv_Generics_Ex\P01_GenericBoxOfString\bin\Debug\net6.0\P01_GenericBoxOfString.dll
+C:\Users\Test\Desktop\Temp\08_C#Adv_Generics_Ex\P01_GenericBoxOfString\bin\Debug\net6.0\P01_GenericBoxOfString.pdb
+C:\Users\Test\Desktop\Temp\08_C#Adv_Generics_Ex\P01_GenericBoxOfString\obj\Debug\net6.0\P01_GenericBoxOfString.csproj.AssemblyReference.cache
+C:\Users\Test\Desktop\Temp\08_C#Adv_Generics_Ex\P01_GenericBoxOfString\obj\Debug\net6.0\P01_GenericBoxOfString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Test\Desktop\Temp\08_C#Adv_Generics_Ex\P01_GenericBoxOfString\obj\Debug\net6.0\P01_GenericBoxOfString.AssemblyInfoInputs.cache
+C:\Users\Test\Desktop\Temp\08_C#Adv_Generics_Ex\P01_GenericBoxOfString\obj\Debug\net6.0\P01_GenericBoxOfString.AssemblyInfo.cs
+C:\Users\Test\Desktop\Temp\08_C#Adv_Generics_Ex\P01_GenericBoxOfString\obj\Debug\net6.0\P01_GenericBoxOfString.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\Temp\08_C#Adv_Generics_Ex\P01_GenericBoxOfString\obj\Debug\net6.0\P01_GenericBoxOfString.dll
+C:\Users\Test\Desktop\Temp\08_C#Adv_Generics_Ex\P01_GenericBoxOfString\obj\Debug\net6.0\refint\P01_GenericBoxOfString.dll
+C:\Users\Test\Desktop\Temp\08_C#Adv_Generics_Ex\P01_GenericBoxOfString\obj\Debug\net6.0\P01_GenericBoxOfString.pdb
+C:\Users\Test\Desktop\Temp\08_C#Adv_Generics_Ex\P01_GenericBoxOfString\obj\Debug\net6.0\P01_GenericBoxOfString.genruntimeconfig.cache
+C:\Users\Test\Desktop\Temp\08_C#Adv_Generics_Ex\P01_GenericBoxOfString\obj\Debug\net6.0\ref\P01_GenericBoxOfString.dll

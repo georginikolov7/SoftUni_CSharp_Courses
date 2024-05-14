@@ -1,0 +1,15 @@
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Ex\P07_PredicateForNames\bin\Debug\net6.0\P07_PredicateForNames.exe
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Ex\P07_PredicateForNames\bin\Debug\net6.0\P07_PredicateForNames.deps.json
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Ex\P07_PredicateForNames\bin\Debug\net6.0\P07_PredicateForNames.runtimeconfig.json
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Ex\P07_PredicateForNames\bin\Debug\net6.0\P07_PredicateForNames.dll
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Ex\P07_PredicateForNames\bin\Debug\net6.0\P07_PredicateForNames.pdb
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Ex\P07_PredicateForNames\obj\Debug\net6.0\P07_PredicateForNames.csproj.AssemblyReference.cache
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Ex\P07_PredicateForNames\obj\Debug\net6.0\P07_PredicateForNames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Ex\P07_PredicateForNames\obj\Debug\net6.0\P07_PredicateForNames.AssemblyInfoInputs.cache
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Ex\P07_PredicateForNames\obj\Debug\net6.0\P07_PredicateForNames.AssemblyInfo.cs
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Ex\P07_PredicateForNames\obj\Debug\net6.0\P07_PredicateForNames.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Ex\P07_PredicateForNames\obj\Debug\net6.0\P07_PredicateForNames.dll
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Ex\P07_PredicateForNames\obj\Debug\net6.0\refint\P07_PredicateForNames.dll
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Ex\P07_PredicateForNames\obj\Debug\net6.0\P07_PredicateForNames.pdb
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Ex\P07_PredicateForNames\obj\Debug\net6.0\P07_PredicateForNames.genruntimeconfig.cache
+C:\Users\Test\Desktop\Temp\05_C#Adv_FunctionalProgramming_Ex\P07_PredicateForNames\obj\Debug\net6.0\ref\P07_PredicateForNames.dll

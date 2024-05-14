@@ -1,0 +1,15 @@
+C:\Users\Test\Desktop\Temp\06_C#Adv_Classes_Ex\P08_CarSalesman\bin\Debug\net6.0\P08_CarSalesman.exe
+C:\Users\Test\Desktop\Temp\06_C#Adv_Classes_Ex\P08_CarSalesman\bin\Debug\net6.0\P08_CarSalesman.deps.json
+C:\Users\Test\Desktop\Temp\06_C#Adv_Classes_Ex\P08_CarSalesman\bin\Debug\net6.0\P08_CarSalesman.runtimeconfig.json
+C:\Users\Test\Desktop\Temp\06_C#Adv_Classes_Ex\P08_CarSalesman\bin\Debug\net6.0\P08_CarSalesman.dll
+C:\Users\Test\Desktop\Temp\06_C#Adv_Classes_Ex\P08_CarSalesman\bin\Debug\net6.0\P08_CarSalesman.pdb
+C:\Users\Test\Desktop\Temp\06_C#Adv_Classes_Ex\P08_CarSalesman\obj\Debug\net6.0\P08_CarSalesman.csproj.AssemblyReference.cache
+C:\Users\Test\Desktop\Temp\06_C#Adv_Classes_Ex\P08_CarSalesman\obj\Debug\net6.0\P08_CarSalesman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Test\Desktop\Temp\06_C#Adv_Classes_Ex\P08_CarSalesman\obj\Debug\net6.0\P08_CarSalesman.AssemblyInfoInputs.cache
+C:\Users\Test\Desktop\Temp\06_C#Adv_Classes_Ex\P08_CarSalesman\obj\Debug\net6.0\P08_CarSalesman.AssemblyInfo.cs
+C:\Users\Test\Desktop\Temp\06_C#Adv_Classes_Ex\P08_CarSalesman\obj\Debug\net6.0\P08_CarSalesman.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\Temp\06_C#Adv_Classes_Ex\P08_CarSalesman\obj\Debug\net6.0\P08_CarSalesman.dll
+C:\Users\Test\Desktop\Temp\06_C#Adv_Classes_Ex\P08_CarSalesman\obj\Debug\net6.0\refint\P08_CarSalesman.dll
+C:\Users\Test\Desktop\Temp\06_C#Adv_Classes_Ex\P08_CarSalesman\obj\Debug\net6.0\P08_CarSalesman.pdb
+C:\Users\Test\Desktop\Temp\06_C#Adv_Classes_Ex\P08_CarSalesman\obj\Debug\net6.0\P08_CarSalesman.genruntimeconfig.cache
+C:\Users\Test\Desktop\Temp\06_C#Adv_Classes_Ex\P08_CarSalesman\obj\Debug\net6.0\ref\P08_CarSalesman.dll

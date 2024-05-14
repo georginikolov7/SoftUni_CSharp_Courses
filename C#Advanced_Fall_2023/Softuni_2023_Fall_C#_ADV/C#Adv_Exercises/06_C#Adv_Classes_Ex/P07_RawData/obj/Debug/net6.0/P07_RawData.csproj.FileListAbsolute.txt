@@ -1,0 +1,15 @@
+C:\Users\Test\Desktop\Temp\06_C#Adv_Classes_Ex\P07_RawData\bin\Debug\net6.0\P07_RawData.exe
+C:\Users\Test\Desktop\Temp\06_C#Adv_Classes_Ex\P07_RawData\bin\Debug\net6.0\P07_RawData.deps.json
+C:\Users\Test\Desktop\Temp\06_C#Adv_Classes_Ex\P07_RawData\bin\Debug\net6.0\P07_RawData.runtimeconfig.json
+C:\Users\Test\Desktop\Temp\06_C#Adv_Classes_Ex\P07_RawData\bin\Debug\net6.0\P07_RawData.dll
+C:\Users\Test\Desktop\Temp\06_C#Adv_Classes_Ex\P07_RawData\bin\Debug\net6.0\P07_RawData.pdb
+C:\Users\Test\Desktop\Temp\06_C#Adv_Classes_Ex\P07_RawData\obj\Debug\net6.0\P07_RawData.csproj.AssemblyReference.cache
+C:\Users\Test\Desktop\Temp\06_C#Adv_Classes_Ex\P07_RawData\obj\Debug\net6.0\P07_RawData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Test\Desktop\Temp\06_C#Adv_Classes_Ex\P07_RawData\obj\Debug\net6.0\P07_RawData.AssemblyInfoInputs.cache
+C:\Users\Test\Desktop\Temp\06_C#Adv_Classes_Ex\P07_RawData\obj\Debug\net6.0\P07_RawData.AssemblyInfo.cs
+C:\Users\Test\Desktop\Temp\06_C#Adv_Classes_Ex\P07_RawData\obj\Debug\net6.0\P07_RawData.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\Temp\06_C#Adv_Classes_Ex\P07_RawData\obj\Debug\net6.0\P07_RawData.dll
+C:\Users\Test\Desktop\Temp\06_C#Adv_Classes_Ex\P07_RawData\obj\Debug\net6.0\refint\P07_RawData.dll
+C:\Users\Test\Desktop\Temp\06_C#Adv_Classes_Ex\P07_RawData\obj\Debug\net6.0\P07_RawData.pdb
+C:\Users\Test\Desktop\Temp\06_C#Adv_Classes_Ex\P07_RawData\obj\Debug\net6.0\P07_RawData.genruntimeconfig.cache
+C:\Users\Test\Desktop\Temp\06_C#Adv_Classes_Ex\P07_RawData\obj\Debug\net6.0\ref\P07_RawData.dll

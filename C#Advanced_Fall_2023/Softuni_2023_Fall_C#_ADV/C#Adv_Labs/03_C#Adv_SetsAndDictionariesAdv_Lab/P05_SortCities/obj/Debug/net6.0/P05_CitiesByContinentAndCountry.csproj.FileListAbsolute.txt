@@ -1,0 +1,15 @@
+C:\Users\Test\Desktop\Temp\03_C#Adv_SetsAndDictionariesAdv_Lab\P05_CitiesByContinentAndCountry\bin\Debug\net6.0\P05_CitiesByContinentAndCountry.exe
+C:\Users\Test\Desktop\Temp\03_C#Adv_SetsAndDictionariesAdv_Lab\P05_CitiesByContinentAndCountry\bin\Debug\net6.0\P05_CitiesByContinentAndCountry.deps.json
+C:\Users\Test\Desktop\Temp\03_C#Adv_SetsAndDictionariesAdv_Lab\P05_CitiesByContinentAndCountry\bin\Debug\net6.0\P05_CitiesByContinentAndCountry.runtimeconfig.json
+C:\Users\Test\Desktop\Temp\03_C#Adv_SetsAndDictionariesAdv_Lab\P05_CitiesByContinentAndCountry\bin\Debug\net6.0\P05_CitiesByContinentAndCountry.dll
+C:\Users\Test\Desktop\Temp\03_C#Adv_SetsAndDictionariesAdv_Lab\P05_CitiesByContinentAndCountry\bin\Debug\net6.0\P05_CitiesByContinentAndCountry.pdb
+C:\Users\Test\Desktop\Temp\03_C#Adv_SetsAndDictionariesAdv_Lab\P05_CitiesByContinentAndCountry\obj\Debug\net6.0\P05_CitiesByContinentAndCountry.csproj.AssemblyReference.cache
+C:\Users\Test\Desktop\Temp\03_C#Adv_SetsAndDictionariesAdv_Lab\P05_CitiesByContinentAndCountry\obj\Debug\net6.0\P05_CitiesByContinentAndCountry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Test\Desktop\Temp\03_C#Adv_SetsAndDictionariesAdv_Lab\P05_CitiesByContinentAndCountry\obj\Debug\net6.0\P05_CitiesByContinentAndCountry.AssemblyInfoInputs.cache
+C:\Users\Test\Desktop\Temp\03_C#Adv_SetsAndDictionariesAdv_Lab\P05_CitiesByContinentAndCountry\obj\Debug\net6.0\P05_CitiesByContinentAndCountry.AssemblyInfo.cs
+C:\Users\Test\Desktop\Temp\03_C#Adv_SetsAndDictionariesAdv_Lab\P05_CitiesByContinentAndCountry\obj\Debug\net6.0\P05_CitiesByContinentAndCountry.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\Temp\03_C#Adv_SetsAndDictionariesAdv_Lab\P05_CitiesByContinentAndCountry\obj\Debug\net6.0\P05_CitiesByContinentAndCountry.dll
+C:\Users\Test\Desktop\Temp\03_C#Adv_SetsAndDictionariesAdv_Lab\P05_CitiesByContinentAndCountry\obj\Debug\net6.0\refint\P05_CitiesByContinentAndCountry.dll
+C:\Users\Test\Desktop\Temp\03_C#Adv_SetsAndDictionariesAdv_Lab\P05_CitiesByContinentAndCountry\obj\Debug\net6.0\P05_CitiesByContinentAndCountry.pdb
+C:\Users\Test\Desktop\Temp\03_C#Adv_SetsAndDictionariesAdv_Lab\P05_CitiesByContinentAndCountry\obj\Debug\net6.0\P05_CitiesByContinentAndCountry.genruntimeconfig.cache
+C:\Users\Test\Desktop\Temp\03_C#Adv_SetsAndDictionariesAdv_Lab\P05_CitiesByContinentAndCountry\obj\Debug\net6.0\ref\P05_CitiesByContinentAndCountry.dll

@@ -1,0 +1,15 @@
+C:\Users\Test\Desktop\Temp\10_C#OOP_Mocking_Lab\INStock\bin\Debug\net6.0\INStock.exe
+C:\Users\Test\Desktop\Temp\10_C#OOP_Mocking_Lab\INStock\bin\Debug\net6.0\INStock.deps.json
+C:\Users\Test\Desktop\Temp\10_C#OOP_Mocking_Lab\INStock\bin\Debug\net6.0\INStock.runtimeconfig.json
+C:\Users\Test\Desktop\Temp\10_C#OOP_Mocking_Lab\INStock\bin\Debug\net6.0\INStock.dll
+C:\Users\Test\Desktop\Temp\10_C#OOP_Mocking_Lab\INStock\bin\Debug\net6.0\INStock.pdb
+C:\Users\Test\Desktop\Temp\10_C#OOP_Mocking_Lab\INStock\obj\Debug\net6.0\INStock.csproj.AssemblyReference.cache
+C:\Users\Test\Desktop\Temp\10_C#OOP_Mocking_Lab\INStock\obj\Debug\net6.0\INStock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Test\Desktop\Temp\10_C#OOP_Mocking_Lab\INStock\obj\Debug\net6.0\INStock.AssemblyInfoInputs.cache
+C:\Users\Test\Desktop\Temp\10_C#OOP_Mocking_Lab\INStock\obj\Debug\net6.0\INStock.AssemblyInfo.cs
+C:\Users\Test\Desktop\Temp\10_C#OOP_Mocking_Lab\INStock\obj\Debug\net6.0\INStock.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\Temp\10_C#OOP_Mocking_Lab\INStock\obj\Debug\net6.0\INStock.dll
+C:\Users\Test\Desktop\Temp\10_C#OOP_Mocking_Lab\INStock\obj\Debug\net6.0\refint\INStock.dll
+C:\Users\Test\Desktop\Temp\10_C#OOP_Mocking_Lab\INStock\obj\Debug\net6.0\INStock.pdb
+C:\Users\Test\Desktop\Temp\10_C#OOP_Mocking_Lab\INStock\obj\Debug\net6.0\INStock.genruntimeconfig.cache
+C:\Users\Test\Desktop\Temp\10_C#OOP_Mocking_Lab\INStock\obj\Debug\net6.0\ref\INStock.dll

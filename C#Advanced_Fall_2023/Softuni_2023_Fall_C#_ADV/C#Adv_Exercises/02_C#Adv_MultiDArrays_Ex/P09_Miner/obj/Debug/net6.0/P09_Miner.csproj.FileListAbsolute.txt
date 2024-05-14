@@ -1,0 +1,15 @@
+C:\Users\Test\Desktop\Temp\02_C#Adv_MultiDArrays_Ex\P09_Miner\bin\Debug\net6.0\P09_Miner.exe
+C:\Users\Test\Desktop\Temp\02_C#Adv_MultiDArrays_Ex\P09_Miner\bin\Debug\net6.0\P09_Miner.deps.json
+C:\Users\Test\Desktop\Temp\02_C#Adv_MultiDArrays_Ex\P09_Miner\bin\Debug\net6.0\P09_Miner.runtimeconfig.json
+C:\Users\Test\Desktop\Temp\02_C#Adv_MultiDArrays_Ex\P09_Miner\bin\Debug\net6.0\P09_Miner.dll
+C:\Users\Test\Desktop\Temp\02_C#Adv_MultiDArrays_Ex\P09_Miner\bin\Debug\net6.0\P09_Miner.pdb
+C:\Users\Test\Desktop\Temp\02_C#Adv_MultiDArrays_Ex\P09_Miner\obj\Debug\net6.0\P09_Miner.csproj.AssemblyReference.cache
+C:\Users\Test\Desktop\Temp\02_C#Adv_MultiDArrays_Ex\P09_Miner\obj\Debug\net6.0\P09_Miner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Test\Desktop\Temp\02_C#Adv_MultiDArrays_Ex\P09_Miner\obj\Debug\net6.0\P09_Miner.AssemblyInfoInputs.cache
+C:\Users\Test\Desktop\Temp\02_C#Adv_MultiDArrays_Ex\P09_Miner\obj\Debug\net6.0\P09_Miner.AssemblyInfo.cs
+C:\Users\Test\Desktop\Temp\02_C#Adv_MultiDArrays_Ex\P09_Miner\obj\Debug\net6.0\P09_Miner.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\Temp\02_C#Adv_MultiDArrays_Ex\P09_Miner\obj\Debug\net6.0\P09_Miner.dll
+C:\Users\Test\Desktop\Temp\02_C#Adv_MultiDArrays_Ex\P09_Miner\obj\Debug\net6.0\refint\P09_Miner.dll
+C:\Users\Test\Desktop\Temp\02_C#Adv_MultiDArrays_Ex\P09_Miner\obj\Debug\net6.0\P09_Miner.pdb
+C:\Users\Test\Desktop\Temp\02_C#Adv_MultiDArrays_Ex\P09_Miner\obj\Debug\net6.0\P09_Miner.genruntimeconfig.cache
+C:\Users\Test\Desktop\Temp\02_C#Adv_MultiDArrays_Ex\P09_Miner\obj\Debug\net6.0\ref\P09_Miner.dll

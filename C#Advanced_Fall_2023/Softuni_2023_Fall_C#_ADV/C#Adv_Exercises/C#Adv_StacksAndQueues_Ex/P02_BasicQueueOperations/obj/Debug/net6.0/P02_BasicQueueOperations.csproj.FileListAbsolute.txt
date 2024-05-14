@@ -1,0 +1,15 @@
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P02_BasicQueueOperations\bin\Debug\net6.0\P02_BasicQueueOperations.exe
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P02_BasicQueueOperations\bin\Debug\net6.0\P02_BasicQueueOperations.deps.json
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P02_BasicQueueOperations\bin\Debug\net6.0\P02_BasicQueueOperations.runtimeconfig.json
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P02_BasicQueueOperations\bin\Debug\net6.0\P02_BasicQueueOperations.dll
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P02_BasicQueueOperations\bin\Debug\net6.0\P02_BasicQueueOperations.pdb
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P02_BasicQueueOperations\obj\Debug\net6.0\P02_BasicQueueOperations.csproj.AssemblyReference.cache
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P02_BasicQueueOperations\obj\Debug\net6.0\P02_BasicQueueOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P02_BasicQueueOperations\obj\Debug\net6.0\P02_BasicQueueOperations.AssemblyInfoInputs.cache
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P02_BasicQueueOperations\obj\Debug\net6.0\P02_BasicQueueOperations.AssemblyInfo.cs
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P02_BasicQueueOperations\obj\Debug\net6.0\P02_BasicQueueOperations.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P02_BasicQueueOperations\obj\Debug\net6.0\P02_BasicQueueOperations.dll
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P02_BasicQueueOperations\obj\Debug\net6.0\refint\P02_BasicQueueOperations.dll
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P02_BasicQueueOperations\obj\Debug\net6.0\P02_BasicQueueOperations.pdb
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P02_BasicQueueOperations\obj\Debug\net6.0\P02_BasicQueueOperations.genruntimeconfig.cache
+C:\Users\Test\Desktop\Temp\C#Adv_StacksAndQueues_Ex\P02_BasicQueueOperations\obj\Debug\net6.0\ref\P02_BasicQueueOperations.dll

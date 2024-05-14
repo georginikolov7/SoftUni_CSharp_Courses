@@ -1,0 +1,15 @@
+C:\Users\Test\Desktop\Temp\07_C#OOP_SOLID_Lab\P01.Stream_Progress\bin\Debug\net6.0\P01.Stream_Progress.exe
+C:\Users\Test\Desktop\Temp\07_C#OOP_SOLID_Lab\P01.Stream_Progress\bin\Debug\net6.0\P01.Stream_Progress.deps.json
+C:\Users\Test\Desktop\Temp\07_C#OOP_SOLID_Lab\P01.Stream_Progress\bin\Debug\net6.0\P01.Stream_Progress.runtimeconfig.json
+C:\Users\Test\Desktop\Temp\07_C#OOP_SOLID_Lab\P01.Stream_Progress\bin\Debug\net6.0\P01.Stream_Progress.dll
+C:\Users\Test\Desktop\Temp\07_C#OOP_SOLID_Lab\P01.Stream_Progress\bin\Debug\net6.0\P01.Stream_Progress.pdb
+C:\Users\Test\Desktop\Temp\07_C#OOP_SOLID_Lab\P01.Stream_Progress\obj\Debug\net6.0\P01.Stream_Progress.csproj.AssemblyReference.cache
+C:\Users\Test\Desktop\Temp\07_C#OOP_SOLID_Lab\P01.Stream_Progress\obj\Debug\net6.0\P01.Stream_Progress.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Test\Desktop\Temp\07_C#OOP_SOLID_Lab\P01.Stream_Progress\obj\Debug\net6.0\P01.Stream_Progress.AssemblyInfoInputs.cache
+C:\Users\Test\Desktop\Temp\07_C#OOP_SOLID_Lab\P01.Stream_Progress\obj\Debug\net6.0\P01.Stream_Progress.AssemblyInfo.cs
+C:\Users\Test\Desktop\Temp\07_C#OOP_SOLID_Lab\P01.Stream_Progress\obj\Debug\net6.0\P01.Stream_Progress.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\Temp\07_C#OOP_SOLID_Lab\P01.Stream_Progress\obj\Debug\net6.0\P01.Stream_Progress.dll
+C:\Users\Test\Desktop\Temp\07_C#OOP_SOLID_Lab\P01.Stream_Progress\obj\Debug\net6.0\refint\P01.Stream_Progress.dll
+C:\Users\Test\Desktop\Temp\07_C#OOP_SOLID_Lab\P01.Stream_Progress\obj\Debug\net6.0\P01.Stream_Progress.pdb
+C:\Users\Test\Desktop\Temp\07_C#OOP_SOLID_Lab\P01.Stream_Progress\obj\Debug\net6.0\P01.Stream_Progress.genruntimeconfig.cache
+C:\Users\Test\Desktop\Temp\07_C#OOP_SOLID_Lab\P01.Stream_Progress\obj\Debug\net6.0\ref\P01.Stream_Progress.dll

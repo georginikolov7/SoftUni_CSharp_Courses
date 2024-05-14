@@ -1,0 +1,15 @@
+C:\Users\Test\Desktop\Temp\02_C#Adv_MultiDArrays_Ex\P04_matrixShuffling\bin\Debug\net6.0\P04_matrixShuffling.exe
+C:\Users\Test\Desktop\Temp\02_C#Adv_MultiDArrays_Ex\P04_matrixShuffling\bin\Debug\net6.0\P04_matrixShuffling.deps.json
+C:\Users\Test\Desktop\Temp\02_C#Adv_MultiDArrays_Ex\P04_matrixShuffling\bin\Debug\net6.0\P04_matrixShuffling.runtimeconfig.json
+C:\Users\Test\Desktop\Temp\02_C#Adv_MultiDArrays_Ex\P04_matrixShuffling\bin\Debug\net6.0\P04_matrixShuffling.dll
+C:\Users\Test\Desktop\Temp\02_C#Adv_MultiDArrays_Ex\P04_matrixShuffling\bin\Debug\net6.0\P04_matrixShuffling.pdb
+C:\Users\Test\Desktop\Temp\02_C#Adv_MultiDArrays_Ex\P04_matrixShuffling\obj\Debug\net6.0\P04_matrixShuffling.csproj.AssemblyReference.cache
+C:\Users\Test\Desktop\Temp\02_C#Adv_MultiDArrays_Ex\P04_matrixShuffling\obj\Debug\net6.0\P04_matrixShuffling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Test\Desktop\Temp\02_C#Adv_MultiDArrays_Ex\P04_matrixShuffling\obj\Debug\net6.0\P04_matrixShuffling.AssemblyInfoInputs.cache
+C:\Users\Test\Desktop\Temp\02_C#Adv_MultiDArrays_Ex\P04_matrixShuffling\obj\Debug\net6.0\P04_matrixShuffling.AssemblyInfo.cs
+C:\Users\Test\Desktop\Temp\02_C#Adv_MultiDArrays_Ex\P04_matrixShuffling\obj\Debug\net6.0\P04_matrixShuffling.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\Temp\02_C#Adv_MultiDArrays_Ex\P04_matrixShuffling\obj\Debug\net6.0\P04_matrixShuffling.dll
+C:\Users\Test\Desktop\Temp\02_C#Adv_MultiDArrays_Ex\P04_matrixShuffling\obj\Debug\net6.0\refint\P04_matrixShuffling.dll
+C:\Users\Test\Desktop\Temp\02_C#Adv_MultiDArrays_Ex\P04_matrixShuffling\obj\Debug\net6.0\P04_matrixShuffling.pdb
+C:\Users\Test\Desktop\Temp\02_C#Adv_MultiDArrays_Ex\P04_matrixShuffling\obj\Debug\net6.0\P04_matrixShuffling.genruntimeconfig.cache
+C:\Users\Test\Desktop\Temp\02_C#Adv_MultiDArrays_Ex\P04_matrixShuffling\obj\Debug\net6.0\ref\P04_matrixShuffling.dll
